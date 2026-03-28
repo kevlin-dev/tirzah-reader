@@ -1,0 +1,171 @@
+/* ===== Tirzah Reader — Mobile-first reading experience ===== */
+
+:root {
+  --reader-font: 'Georgia', 'Times New Roman', serif;
+  --reader-size: 18px;
+  --reader-line-height: 1.8;
+  --reader-color: #2c2c2c;
+  --reader-bg: #faf8f5;
+  --gloss-bg: #ffffff;
+  --gloss-border: #e0dcd6;
+  --gloss-word-color: #1a1a1a;
+  --gloss-def-color: #444;
+  --gloss-chinese-color: #666;
+  --gloss-example-color: #888;
+  --word-learning-bg: rgba(255, 213, 79, 0.15);
+  --word-new-bg: rgba(255, 213, 79, 0.3);
+}
+
+/* Base reading styles */
+body {
+  background: var(--reader-bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+.markdown-section {
+  font-family: var(--reader-font);
+  font-size: var(--reader-size);
+  line-height: var(--reader-line-height);
+  color: var(--reader-color);
+  max-width: 640px;
+  padding: 20px 24px 80px;
+}
+
+.markdown-section h1 {
+  font-size: 1.6em;
+  font-weight: 600;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  line-height: 1.3;
+}
+
+.markdown-section h2 {
+  font-size: 1.3em;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.markdown-section p {
+  margin-bottom: 1.2em;
+}
+
+/* Hide sidebar on mobile for distraction-free reading */
+@media (max-width: 768px) {
+  body.close .sidebar {
+    display: none;
+  }
+  .markdown-section {
+    padding: 16px 20px 80px;
+  }
+}
+
+/* ===== Glossable words ===== */
+.gloss-word-wrap {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Word states based on encounter count */
+.gloss-word-wrap[data-state="new"] {
+  background: var(--word-new-bg);
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+.gloss-word-wrap[data-state="learning"] {
+  background: var(--word-learning-bg);
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+.gloss-word-wrap[data-state="known"] {
+  /* No visual indicator — word is acquired */
+}
+
+/* ===== Gloss popup ===== */
+.gloss-popup {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  transition: transform 0.25s ease-out, opacity 0.25s ease-out;
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.gloss-popup.hidden {
+  transform: translateY(100%);
+  opacity: 0;
+  pointer-events: none;
+}
+
+.gloss-content {
+  background: var(--gloss-bg);
+  border-top: 1px solid var(--gloss-border);
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.08);
+  padding: 20px 24px 32px;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.gloss-content .gloss-word {
+  font-family: var(--reader-font);
+  font-size: 1.2em;
+  font-weight: 600;
+  color: var(--gloss-word-color);
+  margin-bottom: 8px;
+}
+
+.gloss-content .gloss-definition {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 0.95em;
+  line-height: 1.5;
+  color: var(--gloss-def-color);
+  margin-bottom: 6px;
+}
+
+.gloss-content .gloss-chinese {
+  font-family: -apple-system, BlinkMacSystemFont, 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+  font-size: 1em;
+  color: var(--gloss-chinese-color);
+  margin-bottom: 6px;
+}
+
+.gloss-content .gloss-example {
+  font-family: var(--reader-font);
+  font-size: 0.85em;
+  font-style: italic;
+  color: var(--gloss-example-color);
+  line-height: 1.5;
+}
+
+/* Encounter badge */
+.gloss-content .gloss-encounters {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 0.75em;
+  color: #aaa;
+  margin-top: 8px;
+}
+
+/* ===== Sidebar styles ===== */
+.sidebar {
+  background: var(--reader-bg);
+}
+
+.sidebar-nav {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 0.9em;
+}
+
+/* ===== Progress bar ===== */
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: #c9a96e;
+  z-index: 999;
+  transition: width 0.15s ease;
+}
