@@ -1,0 +1,372 @@
+{
+  "teenagers": {
+    "definition": "Young people between the ages of 13 and 19.",
+    "chinese": "青少年",
+    "example": "Teenagers are going through an important stage of life."
+  },
+  "cliche": {
+    "definition": "A phrase or idea that has been used so much it is not interesting anymore.",
+    "chinese": "陳腔濫調",
+    "example": "It's a cliche to say teenagers are just going through a stage."
+  },
+  "maturity": {
+    "definition": "The state of being fully grown up in mind and body.",
+    "chinese": "成熟",
+    "example": "Human beings don't reach maturity until our mid-twenties."
+  },
+  "errors": {
+    "definition": "Mistakes.",
+    "chinese": "錯誤",
+    "example": "Young people are more likely to make errors in decision-making."
+  },
+  "risk-taking": {
+    "definition": "Doing things that could be dangerous or have bad results.",
+    "chinese": "冒險行為",
+    "example": "Teenagers are more likely to make errors in risk-taking."
+  },
+  "frontal lobes": {
+    "definition": "The front part of the brain that helps with thinking, planning, and self-control.",
+    "chinese": "額葉",
+    "example": "The frontal lobes have not yet developed fast connections."
+  },
+  "connections": {
+    "definition": "Links between different parts of something.",
+    "chinese": "連結",
+    "example": "Fast brain connections help with decision-making."
+  },
+  "impulsivity": {
+    "definition": "The tendency to act quickly without thinking about consequences.",
+    "chinese": "衝動性",
+    "example": "Teens need help mastering their impulsivity."
+  },
+  "impulse control": {
+    "definition": "The ability to stop yourself from doing something without thinking first.",
+    "chinese": "衝動控制",
+    "example": "Some people develop impulse control later than others."
+  },
+  "outcomes": {
+    "definition": "The results of an action or event.",
+    "chinese": "結果",
+    "example": "They haven't learned to look ahead at likely outcomes."
+  },
+  "autonomy": {
+    "definition": "The freedom to make your own choices and control your own life.",
+    "chinese": "自主權",
+    "example": "Toddlers go through a stage of discovering their autonomy."
+  },
+  "dose": {
+    "definition": "An amount of something given at one time.",
+    "chinese": "一劑",
+    "example": "Teens need a heavy dose of parental optimism."
+  },
+  "milestone": {
+    "definition": "An important event or achievement in development.",
+    "chinese": "里程碑",
+    "example": "Behaviour is most challenging before a new milestone is reached."
+  },
+  "channel": {
+    "definition": "To direct energy or feelings into a particular activity.",
+    "chinese": "引導",
+    "example": "It's great if they can channel emotional energy into music."
+  },
+  "inappropriately": {
+    "definition": "In a way that is not suitable or right for the situation.",
+    "chinese": "不適當地",
+    "example": "Some emotions come out inappropriately."
+  },
+  "rupture": {
+    "definition": "A break or serious damage in a relationship.",
+    "chinese": "裂痕",
+    "example": "Families find their own ways to repair a rupture."
+  },
+  "lecture": {
+    "definition": "A long, serious talk, usually to tell someone they did wrong.",
+    "chinese": "說教",
+    "example": "I carried on addressing my lecture to her friend."
+  },
+  "ballistic": {
+    "definition": "Extremely angry (in 'went ballistic': lost control with anger).",
+    "chinese": "暴怒的",
+    "example": "My usually well-behaved daughter went ballistic."
+  },
+  "outburst": {
+    "definition": "A sudden strong expression of emotion.",
+    "chinese": "爆發",
+    "example": "This outburst was unusual for her."
+  },
+  "sheepish": {
+    "definition": "Feeling embarrassed because you know you did something wrong.",
+    "chinese": "不好意思的",
+    "example": "When she came down for dinner, she was sheepish."
+  },
+  "pastry": {
+    "definition": "A dough made from flour, butter, and water, used to make pies.",
+    "chinese": "酥皮",
+    "example": "She was rolling out pastry for a pie."
+  },
+  "pie": {
+    "definition": "A baked dish with a crust and a filling inside.",
+    "chinese": "派",
+    "example": "She put 'SMOKING KILLS' on the top of the pie."
+  },
+  "peace offering": {
+    "definition": "Something given to show you want to end a disagreement.",
+    "chinese": "和解禮物",
+    "example": "The pie was a peace offering to her daughter."
+  },
+  "dissipated": {
+    "definition": "Slowly disappeared or went away.",
+    "chinese": "消散了",
+    "example": "When she saw the pie, the tension dissipated."
+  },
+  "tension": {
+    "definition": "A feeling of stress or worry between people.",
+    "chinese": "緊張",
+    "example": "They all laughed and the tension dissipated."
+  },
+  "rough time": {
+    "definition": "A difficult or unpleasant period.",
+    "chinese": "困難時期",
+    "example": "Remember this when going through a rough time with your teenager."
+  },
+  "scenario": {
+    "definition": "A possible situation or series of events.",
+    "chinese": "情境",
+    "example": "You'll be able to look back on scenarios like this and laugh."
+  },
+  "deny": {
+    "definition": "To say that something is not true.",
+    "chinese": "否認",
+    "example": "Don't deny what their experience of you is."
+  },
+  "evolve": {
+    "definition": "To change and develop slowly over time.",
+    "chinese": "演變",
+    "example": "Adults do not evolve as quickly as their children."
+  },
+  "interference": {
+    "definition": "Getting involved in something when you are not wanted.",
+    "chinese": "干涉",
+    "example": "They now experience your help as annoying interference."
+  },
+  "defensive": {
+    "definition": "Protecting yourself by refusing to accept criticism.",
+    "chinese": "防衛的",
+    "example": "Don't get defensive when your teenager says you are wrong."
+  },
+  "complaint": {
+    "definition": "A statement that something is wrong or not satisfactory.",
+    "chinese": "抱怨",
+    "example": "Help them express their complaint in a way you can hear."
+  },
+  "charm": {
+    "definition": "The quality of being attractive and pleasant to be around.",
+    "chinese": "魅力",
+    "example": "A teenager may temporarily lose some of their charm."
+  },
+  "forging": {
+    "definition": "Creating or building something new with effort.",
+    "chinese": "打造",
+    "example": "They are forging their own identity apart from the family."
+  },
+  "markers": {
+    "definition": "Signs or features that show identity or belonging.",
+    "chinese": "標記",
+    "example": "Teenagers develop new identity markers."
+  },
+  "tribes": {
+    "definition": "Groups of people who share interests or identity.",
+    "chinese": "族群",
+    "example": "Teenagers need to fit into new tribes."
+  },
+  "diminish": {
+    "definition": "To become less or smaller.",
+    "chinese": "減少",
+    "example": "Their need to feel separate from you will diminish."
+  },
+  "resurface": {
+    "definition": "To appear again after being hidden.",
+    "chinese": "重新浮現",
+    "example": "Their better traits will resurface."
+  },
+  "traits": {
+    "definition": "Particular qualities of a person's character.",
+    "chinese": "特質",
+    "example": "Once secure, their better traits will resurface."
+  },
+  "untamed": {
+    "definition": "Wild and not controlled.",
+    "chinese": "未馴服的",
+    "example": "The teenage brain can be like an untamed wild animal."
+  },
+  "insecurity": {
+    "definition": "A feeling of not being safe or confident.",
+    "chinese": "不安全感",
+    "example": "Insecurity is a type of fear."
+  },
+  "instinct": {
+    "definition": "A natural feeling that makes you act without thinking.",
+    "chinese": "本能",
+    "example": "When fearful, our instinct is to attack."
+  },
+  "scarce": {
+    "definition": "Not easy to find; not enough of something.",
+    "chinese": "稀少的",
+    "example": "Opportunities for young people can be scarce."
+  },
+  "conquered": {
+    "definition": "Successfully overcome or defeated.",
+    "chinese": "克服了",
+    "example": "We are at our worst just before we have conquered the next hurdle."
+  },
+  "hurdle": {
+    "definition": "A problem or difficulty that must be overcome.",
+    "chinese": "障礙",
+    "example": "Everyone faces hurdles in life."
+  },
+  "facilitating": {
+    "definition": "Making something easier for someone to do.",
+    "chinese": "促進",
+    "example": "Helping means facilitating them to help themselves."
+  },
+  "rescue": {
+    "definition": "To save someone from danger or difficulty.",
+    "chinese": "救援",
+    "example": "When we rescue someone by doing things for them, we disempower them."
+  },
+  "disempower": {
+    "definition": "To take away someone's power or ability to act.",
+    "chinese": "削弱能力",
+    "example": "Doing everything for them may disempower them."
+  },
+  "antisocially": {
+    "definition": "In a way that goes against the rules of society.",
+    "chinese": "反社會地",
+    "example": "When a teenager acts antisocially, parents are shocked."
+  },
+  "angel": {
+    "definition": "A very good or well-behaved person (used informally).",
+    "chinese": "天使",
+    "example": "Parents couldn't believe their angel could act that way."
+  },
+  "irresistible": {
+    "definition": "Too strong or attractive to resist.",
+    "chinese": "無法抗拒的",
+    "example": "Peer pressure is irresistible for teenagers."
+  },
+  "experiment": {
+    "definition": "To try new things to see what happens.",
+    "chinese": "嘗試",
+    "example": "Children and teenagers experiment, and that's normal."
+  },
+  "validate": {
+    "definition": "To accept and show that someone's feelings are real and important.",
+    "chinese": "認可",
+    "example": "If you validate their feelings, they will keep talking to you."
+  },
+  "confide": {
+    "definition": "To share personal or secret information with someone you trust.",
+    "chinese": "吐露心聲",
+    "example": "They are more likely to confide in you."
+  },
+  "rift": {
+    "definition": "A serious break in a relationship.",
+    "chinese": "裂痕",
+    "example": "Ask what you could do to mend the rift."
+  },
+  "monopoly": {
+    "definition": "Complete control over something.",
+    "chinese": "壟斷",
+    "example": "Older adults do not have the monopoly on being right."
+  },
+  "pubs": {
+    "definition": "Places where people go to drink beer and socialize (British).",
+    "chinese": "酒吧",
+    "example": "I'm not ready for you to be going to pubs yet."
+  },
+  "lodger": {
+    "definition": "A person who pays to live in someone else's house.",
+    "chinese": "房客",
+    "example": "Imagine your teenager is a lodger sharing your home."
+  },
+  "hallway": {
+    "definition": "The passage inside a house near the front door.",
+    "chinese": "走廊",
+    "example": "Please keep your bags in your room, not the hallway."
+  },
+  "dishwasher": {
+    "definition": "A machine that washes plates, cups, and other dishes.",
+    "chinese": "洗碗機",
+    "example": "Can you empty the dishwasher?"
+  },
+  "telly": {
+    "definition": "Television (informal British).",
+    "chinese": "電視",
+    "example": "They watched telly together to reconnect."
+  },
+  "pizza": {
+    "definition": "A flat, round food with tomato sauce, cheese, and toppings baked on dough.",
+    "chinese": "比薩",
+    "example": "They would grab a pizza together."
+  },
+  "barge": {
+    "definition": "To push in rudely or without being asked.",
+    "chinese": "闖入",
+    "example": "You can't just barge into someone's life and give orders."
+  },
+  "nuanced": {
+    "definition": "Having small but important differences in meaning.",
+    "chinese": "細膩的",
+    "example": "Open communication makes nuanced conversations easier."
+  },
+  "bullying": {
+    "definition": "Hurting or frightening someone weaker, often repeatedly.",
+    "chinese": "霸凌",
+    "example": "You need to be able to talk about bullying."
+  },
+  "impacted": {
+    "definition": "Affected or changed by something.",
+    "chinese": "受影響的",
+    "example": "Be willing to be impacted by your child's opinions."
+  },
+  "counsel": {
+    "definition": "Advice or guidance from someone wiser.",
+    "chinese": "忠告",
+    "example": "They need your wise counsel."
+  },
+  "vulgarity": {
+    "definition": "Rude or shocking behaviour or language.",
+    "chinese": "粗俗",
+    "example": "He was appalled at the vulgarity in his old diaries."
+  },
+  "priggishness": {
+    "definition": "The attitude of someone who thinks they are better than others.",
+    "chinese": "自命清高",
+    "example": "He was shocked by the priggishness in his teenage diaries."
+  },
+  "appalled": {
+    "definition": "Feeling shocked and horrified.",
+    "chinese": "震驚的",
+    "example": "He was appalled at what he had written as a teenager."
+  },
+  "maxims": {
+    "definition": "Short rules or principles about how to live.",
+    "chinese": "格言",
+    "example": "Here are some maxims for behaviour."
+  },
+  "dictate": {
+    "definition": "To tell someone exactly what to do without listening.",
+    "chinese": "命令",
+    "example": "Collaborate and brainstorm rather than dictate."
+  },
+  "authenticity": {
+    "definition": "Being real and true, not fake.",
+    "chinese": "真實性",
+    "example": "A lack of authenticity causes a rupture."
+  },
+  "craving": {
+    "definition": "A very strong desire for something.",
+    "chinese": "渴望",
+    "example": "Give them some of the respectful distance they may be craving."
+  }
+}
