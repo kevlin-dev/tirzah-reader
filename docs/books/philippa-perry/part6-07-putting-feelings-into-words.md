@@ -1,0 +1,15 @@
+# Helping behaviour by putting feelings into words
+
+It’s helpful when we want a child (or anyone!) to stop one behaviour if we suggest an alternative way of being, as happens in the following example:
+John’s four-year-old, Junior, used to wake up every single morning, start screaming, run to his parents’ bedroom and carry on screaming at them until he was given a cuddle.
+One morning, John suggested to his son he might like to try a new tactic, of coming into their bedroom without screaming. He told Junior, ‘You can just say,
+“Good morning, Mum and Dad, I would like a cuddle, please.”’ Junior tried to do this, but there were still tears.
+Junior’s mum asked him, ‘Do you feel lonely when you wake up?’ and he nodded. They suggested he could say this instead: ‘Good morning, Mum and
+Dad. I’m lonely and I’d like a cuddle, please.’ This turned things around. Junior began to bounce into the bedroom every morning, say his new sentence and get a cuddle.
+After a few days, the parents said, ‘You don’t seem lonely. You can be happy and still get a cuddle too!’ In the end, Junior had a new morning sentence: ‘I’m okay, and I want a cuddle.’
+John and Junior’s story illustrates how putting feelings into words can really shift them along. This is true for adults, too.
+It can feel hard, as a parent, to acknowledge your child’s feeling beneath tears and screams because you don’t want to think that your child is suffering. To name the suffering feels like it will make it worse, but it doesn’t, it usually makes it better. It takes time to put things into words but when a child is upset they’ll find it even harder to find the words, so it is up to you.
+When Flo was a toddler I used to take her swimming at the local pool. One day I couldn’t go, so my husband took her instead.
+Their swimming session went well until it was time to leave and my husband turned to go up the stairs. The way we usually went into the pool was via the stairs and the way we usually left the pool was via the lift. So Flo, then aged twenty-two months, said, ‘No,’ and sat on the floor.
+This was inconvenient behaviour. It fits the normal definition of ‘bad’ behaviour, but Flo wasn’t behaving badly, she just wanted the routine to be as it always was. She hadn’t yet learned flexibility, or how to articulate clearly what she wanted. Instead of taking the time to find out what the ‘no’ was about, my hurried, harassed husband picked her up to take her up the stairs, which is not what she wanted at all, so she started to scream. By the time they got home they were both very cross. After I heard this tale I looked into her big blue eyes, still brimming with tears, and said, ‘You were looking forward to pressing the lift button, weren’t you?’ A little nod. ‘And Dad didn’t know that’s why you wanted to go in the lift and not use the stairs, did he?’ A shake of the head.
+What we learned from this experience is that if you are going to deviate from a normal, much-loved routine, it’s probably necessary to give lots of warning, some imagining and possibly even some rehearsing.
