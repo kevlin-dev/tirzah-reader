@@ -1,32 +1,47 @@
 # When dialogue is difficult: diaphobia
 
-Personally, I did not find reciprocity an easy thing to do. I had to work at it.
-Maybe this was because being listened to and considered was not an everyday experience for me as I was growing up. It may be that you have an unconscious rule or a belief that one person (the adult) should always be the doer and the other (the child) the done to. In that case, reciprocity gets stuck.
+Personally, I did not find reciprocity an easy thing to do. I had to work at it. Maybe this was because being listened to and considered was not an everyday experience for me as I was growing up. It may be that you have an unconscious rule or a belief that one person (the adult) should always be the doer and the other (the child) the done to. In that case, reciprocity gets stuck.
+
 Do you naturally and easily let your child affect you as you adapt to one another and find listening and responding to your children natural, automatic and easy? Not everyone has this natural response readily available – some of us must work to recover it within us. Maybe you notice some resistance to letting your child, be they a baby, a toddler or even an adult, affect you. This is called diaphobia, a phobia of real dialogue, of being impacted upon by others, a fear of being ‘done to’.
-We tend to do what has been done to us when we were babies and children.
-And it can be as though our natural innate ability to respond has been deadened.
+
+We tend to do what has been done to us when we were babies and children. And it can be as though our natural innate ability to respond has been deadened.
+
 It may be that you were well cared for in practical terms but you did not experience reciprocity in your own infancy. If your feelings were not taken seriously, if you were thought of as less than human and more of an ‘it’, if you were seen only as ‘the baby’, ‘the child’ or one of ‘the children’ rather than as an individual, if you were not allowed to affect your adults, you may well have some diaphobia.
 For babies and children, being responded to is a need, not a want. If we don’t respond to a child’s cries, glances or turn-taking games, if we don’t play our part in the give and take they offer us, there’s a danger of fostering in them insecure or avoidant attachment styles and personality traits. This will make it much harder for them to have functional relationships.
+
 However, if you feel you may be diaphobic, do not admonish yourself, blame yourself or feel ashamed. Now you know what you are doing to interrupt the give and take, you can make the changes that enable you to attune to your child.
-Be proud that you have detected it and faced up to it. It can sometimes be easier to spot diaphobia in others than it is to see it in ourselves. But try to notice when you are shying away from the contact of give and take with your baby or child, teenager or adult child. Notice if you tend to talk at them, rather than with them.
-Learn to give in to that instinct and give your child the sort of give-and-take attention they need.
+Be proud that you have detected it and faced up to it. It can sometimes be easier to spot diaphobia in others than it is to see it in ourselves. But try to notice when you are shying away from the contact of give and take with your baby or child, teenager or adult child. Notice if you tend to talk at them, rather than with them. Learn to give in to that instinct and give your child the sort of give-and-take attention they need.
+
 You may be reading this while having regretful pangs: ‘It’s too late, I’ve already been diaphobic with my child.’ Don’t. You have a bond with your child and you can always work on making it better. You can start listening, you can start to see the world from their perspective as well as your own, you can allow them to be different from you and you can allow their influence on you. It means a great deal even to adult children when their parents can see them as equals and take on board what their children show and tell them. Of course, you can repair the rupture before they are adults. If you realize that you have been batting your child away, you can stop. I’m not saying that you should completely surrender your standpoint, all your opinions and defer only to the child’s – not at all. What
 I am saying is that their way of seeing the world is as equally valid as yours.
+
 Let’s hear from John, aged forty-two.
-My partner recently asked, ‘Why can’t you bear to be told anything?’ It quite shook me.
-It got me thinking and I realized I have a real shame of not knowing things. She also told me that my catchphrase could be ‘I know.’ I pepper all my sentences with it, apparently, whether I do know or not.
-Then I visited my father. He was getting in a muddle with his medication so I drew up a chart for him – what he should be taking and when. And he said, sarcastically, ‘You think I’ve lived eighty-six years on this earth by not knowing how to read the labels on these pill bottles, do you?’ I realized that he too hated being told something he might not know.
-If I’m honest, I can see that Dad’s long-standing you-can’t-tell-me-anything attitude has always been and still is hurtful to me. A more appropriate response from him would have been, ‘Thank you for doing that, I was getting in a muddle,’ but he could not bear to be told, and especially not by his son. I may be over forty but I am, to him, still a boy.
-Then I realized I never really listen to my own son, as I don’t consider he may have something to tell me that I don’t know. I noticed he was developing the ‘I know’ habit from me.
-My partner has been helping me to be more open and to listen more and not to feel ashamed when I don’t know. I now let my son show me things too, and not in a patronizing way, and it is really improving our relationship. I didn’t use to leave the space. It was as though I thought the communication should be one way only, from me to him, from the teacher to the pupil, but now I’m learning to leave space for him to show me who he is. And I’m learning to find out who he is rather than assuming I know.
-I was the classic man cliché, not wanting to ask for directions because I couldn’t bear to be told something I didn’t know by someone else. So now I’m asking everyone for directions all the time, letting myself feel that shame of not knowing things. But I’m not acting on the shame, I’m not allowing it to crush my curiosity any more or stop me listening to my boy like it used to. And it isn’t destroying me, quite the opposite. In the short space of time since I have been aware of this, I already feel so much closer to him.
+
+> My partner recently asked, ‘Why can’t you bear to be told anything?’ It quite shook me.
+>
+> It got me thinking and I realized I have a real shame of not knowing things. She also told me that my catchphrase could be ‘I know.’ I pepper all my sentences with it, apparently, whether I do know or not.
+>
+> Then I visited my father. He was getting in a muddle with his medication so I drew up a chart for him – what he should be taking and when. And he said, sarcastically, ‘You think I’ve lived eighty-six years on this earth by not knowing how to read the labels on these pill bottles, do you?’ I realized that he too hated being told something he might not know.
+>
+> If I’m honest, I can see that Dad’s long-standing you-can’t-tell-me-anything attitude has always been and still is hurtful to me. A more appropriate response from him would have been, ‘Thank you for doing that, I was getting in a muddle,’ but he could not bear to be told, and especially not by his son. I may be over forty but I am, to him, still a boy.
+>
+> Then I realized I never really listen to my own son, as I don’t consider he may have something to tell me that I don’t know. I noticed he was developing the ‘I know’ habit from me.
+>
+> My partner has been helping me to be more open and to listen more and not to feel ashamed when I don’t know. I now let my son show me things too, and not in a patronizing way, and it is really improving our relationship. I didn’t use to leave the space. It was as though I thought the communication should be one way only, from me to him, from the teacher to the pupil, but now I’m learning to leave space for him to show me who he is. And I’m learning to find out who he is rather than assuming I know.
+>
+> I was the classic man cliché, not wanting to ask for directions because I couldn’t bear to be told something I didn’t know by someone else. So now I’m asking everyone for directions all the time, letting myself feel that shame of not knowing things. But I’m not acting on the shame, I’m not allowing it to crush my curiosity any more or stop me listening to my boy like it used to. And it isn’t destroying me, quite the opposite. In the short space of time since I have been aware of this, I already feel so much closer to him.
 
 Sometimes, making a change, such as deciding not to give in to diaphobia, which is what John decided to do, even though he did not have the word for it, feels like it will have terrible consequences, but it turns out this small change in behaviour brings forth a lot of benefits.
-Exercise: Notice your behaviour patterns
+### Exercise: Notice your behaviour patterns
+
 If, when your child wants some attention, you nearly always think of something that’s more urgent, such as doing chores or work or making a call, and you use this as an excuse to yourself and to them to push them away, this is probably your diaphobia in action. Notice when you are doing this. Stop, override the instinct to push them away and instead engage and include them in whatever task it is you have to do.
 
-Exercise: Can you be told things?
+### Exercise: Can you be told things?
+
 What does it feel like to be told something you already know? What does it feel like to be told something you feel you should know but don’t? Try not to answer these questions with what you think you should say but with what you really feel when this happens. Whatever feeling is brought up for you doing the exercise, can you trace its origins in your childhood?
 
+---
+
 You don’t have to be in constant, 24/7, face-to-face action and reaction with your child. But what the research shows is that when you are with your child and you ignore most of their bids for attention it is distressing for them. In one experiment, mothers were instructed to sit with their baby face to face but not to show any mimicking or gesturing in response to the baby – that is, not to show any emotional responsiveness. After the mothers did that for only three minutes, the babies reacted with distress. They showed anxiety, shame and sadness that lingered for several minutes. You can think of it as the baby being left to dance on their own.
+
 Children need reciprocity from their caregivers; otherwise, they learn helplessness, that their actions have no effect. If a baby could put their experience into words they may think, ‘If I cannot affect you, then I do not exist.’ This is why some infants seem to give up. By not responding to enough of our infant’s cues, we accidentally teach them not to try.

@@ -1,28 +1,43 @@
 # When explanations are unhelpful
 
-I was lucky in that I was able to guess what went wrong. But often situations arise and you can’t guess. Maybe you’ve taken your child to something you wanted to be lovely, like going swimming, but it has all ended in tears and it seems impossible to work out why.
-It’s natural for you to look for some sort of certainty about why a child is crying or shouting or refusing to do something – otherwise, you feel out of control – but it is really okay not to know and to stay curious. The reason parents fall back on most is ‘Oh, it’s because they’re tired,’ which may or may not be a factor in the mix. But I can remember, as a child, hearing this explanation, and it added to my fury because it wasn’t an accurate mirror of what I was feeling so it left me feeling misunderstood. The ‘tired’ explanation is much loved by parents, but I think we know who is truly tired, and I don’t mean the kid!
-There are some other interpretations for children’s inconvenient behaviour that might even be harmful for a child to hear. If you are up for recognizing them in yourself, you have already made a start on the repair:
+I was lucky in that I was able to guess what went wrong. But often situations arise and you can't guess. Maybe you've taken your child to something you wanted to be lovely, like going swimming, but it has all ended in tears and it seems impossible to work out why.
 
-‘They’re just doing that for attention’
-Everyone needs attention, whatever age they are. If a child automatically has enough attention and feels secure that attention is there when they need it, they don’t have to develop maladaptive ways to get it. If it’s true that your child is doing something inconvenient to get attention, ask them instead to ask for some attention.
-My daughter used to ask me for an apple that she didn’t really want. What she wanted was me looking pleased and beaming at her. When I noticed the apples I gave her mostly went uneaten I twigged and asked her to ask for attention instead. This became a fun game between us and wasted far fewer apples. And she wasn’t shamed for wanting what we all want at times – attention.
+It's natural for you to look for some sort of certainty about why a child is crying or shouting or refusing to do something – otherwise, you feel out of control – but it is really okay not to know and to stay curious. The reason parents fall back on most is 'Oh, it's because they're tired,' which may or may not be a factor in the mix. But I can remember, as a child, hearing this explanation, and it added to my fury because it wasn't an accurate mirror of what I was feeling so it left me feeling misunderstood. The 'tired' explanation is much loved by parents, but I think we know who is truly tired, and I don't mean the kid!
 
-‘They’re being manipulative’
-Toddlers don’t have the skills to practise malice aforethought; they are just being themselves rather than planning to annoy you. Babies and children are their feelings; they haven’t yet learned to observe their feelings, to work out what they want then ask for it. They need help with that.
+There are some other interpretations for children's inconvenient behaviour that might even be harmful for a child to hear. If you are up for recognizing them in yourself, you have already made a start on the repair:
+
+'They're just doing that for attention'
+
+Everyone needs attention, whatever age they are. If a child automatically has enough attention and feels secure that attention is there when they need it, they don't have to develop maladaptive ways to get it. If it's true that your child is doing something inconvenient to get attention, ask them instead to ask for some attention.
+
+My daughter used to ask me for an apple that she didn't really want. What she wanted was me looking pleased and beaming at her. When I noticed the apples I gave her mostly went uneaten I twigged and asked her to ask for attention instead. This became a fun game between us and wasted far fewer apples. And she wasn't shamed for wanting what we all want at times – attention.
+
+'They're being manipulative'
+
+Toddlers don't have the skills to practise malice aforethought; they are just being themselves rather than planning to annoy you. Babies and children are their feelings; they haven't yet learned to observe their feelings, to work out what they want then ask for it. They need help with that.
+
 When your child has a screaming fit, with kicking and perhaps head-banging, they are not carrying out a pre-planned strategy, they are being their feelings and need help to articulate them more conveniently. It will come in time.
-If you feel an older child is trying to play you and their tantrum seems more like amateur dramatics than an actual tantrum, you can say how you experience their behaviour and put into words what they may be trying to tell you. For example: ‘I feel like you are trying to trick me into letting you off your homework. I guess it can feel lonely doing it by yourself. I’ll sit next to you while you do it instead.’
 
-‘They know just how to wind me up’
-Just because you find your child’s reaction to frustration unpleasant it doesn’t mean they have any idea of the impact it’s having or how to calculate how to achieve that impact. My daughter was not trying to wind me up when she sat on a step on the way back from the shops, even though I felt momentarily frustrated by it. Nor was she trying to wind up her father when she plonked herself on the floor at the swimming pool; she simply did not yet have the words to say what she wanted. Children learn the skill of using vocabulary to describe how they feel and what they want when we model this for them. And think about it:
-learning this skill is way more complicated than, say, learning to ask for a biscuit, especially when strong emotions are involved.
+If you feel an older child is trying to play you and their tantrum seems more like amateur dramatics than an actual tantrum, you can say how you experience their behaviour and put into words what they may be trying to tell you. For example: 'I feel like you are trying to trick me into letting you off your homework. I guess it can feel lonely doing it by yourself. I'll sit next to you while you do it instead.'
 
-‘They have something wrong with them’
+'They know just how to wind me up'
+
+Just because you find your child's reaction to frustration unpleasant it doesn't mean they have any idea of the impact it's having or how to calculate how to achieve that impact. My daughter was not trying to wind me up when she sat on a step on the way back from the shops, even though I felt momentarily frustrated by it. Nor was she trying to wind up her father when she plonked herself on the floor at the swimming pool; she simply did not yet have the words to say what she wanted. Children learn the skill of using vocabulary to describe how they feel and what they want when we model this for them. And think about it: learning this skill is way more complicated than, say, learning to ask for a biscuit, especially when strong emotions are involved.
+
+'They have something wrong with them'
+
 Some children learn social skills more slowly than others, some have more difficulties dealing with frustration, some take longer to learn how to be flexible and problem-solve. This gives rise to some problems for them and for you. Most people probably think that plonking yourself down and screaming if you have to use the stairs instead of the lift is age appropriate for a toddler, but by the age of six or seven? The expectation is usually that your child should have grown out of it. But some children need more help in working out what it is they are feeling and finding appropriate ways to express or hold the feelings. What really helps is if they are expressed accurately, by someone on their side: you.
+
 You will not always be able to fathom out what is going on, but being kind rather than punitive towards them in their distress will encourage future cooperation and nurture your relationship with them rather than hinder it.
-If you need help or reassurance about your child’s behaviour because it seems stuck at a stage for much longer than all their peers, see a family therapist or a social worker. Your doctor or the school should be able to guide you towards the help you need. It may lead to a diagnosis, which may feel like a relief to you and lead you to get more help and support.
-The downside of a diagnosis is that it’s like a judgement, a full stop. This means it can close a door on looking at and learning to understand the feelings behind a behaviour. A diagnosis can become an excuse for the behaviour. And there is a danger with a label that you can think things will never get any better and you lose your optimism around it.
+
+If you need help or reassurance about your child's behaviour because it seems stuck at a stage for much longer than all their peers, see a family therapist or a social worker. Your doctor or the school should be able to guide you towards the help you need. It may lead to a diagnosis, which may feel like a relief to you and lead you to get more help and support.
+
+The downside of a diagnosis is that it's like a judgement, a full stop. This means it can close a door on looking at and learning to understand the feelings behind a behaviour. A diagnosis can become an excuse for the behaviour. And there is a danger with a label that you can think things will never get any better and you lose your optimism around it.
+
 Or worse, a situation that does not need to be might become medicalized.
-Let’s look at ADHD. Think about this: more children born in August are diagnosed with ADHD than those born in September. I believe this shows that authorities tend to decide that those born in August have a disorder rather than merely being less mature than their peers who were born nearly a year earlier.
-This isn’t to say all medicine designed to inhibit behaviour is bad, only that it should be a very last resort.
-If you feel you cannot cope with your child’s behaviour, seek professional help sooner rather than later, as the longer we have habits that are not helping our relationship with our child, the longer it can take to untangle them.
+
+Let's look at ADHD. Think about this: more children born in August are diagnosed with ADHD than those born in September. I believe this shows that authorities tend to decide that those born in August have a disorder rather than merely being less mature than their peers who were born nearly a year earlier.
+
+This isn't to say all medicine designed to inhibit behaviour is bad, only that it should be a very last resort.
+
+If you feel you cannot cope with your child's behaviour, seek professional help sooner rather than later, as the longer we have habits that are not helping our relationship with our child, the longer it can take to untangle them.

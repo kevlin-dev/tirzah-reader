@@ -1,25 +1,30 @@
 # We are born with an innate capacity for dialogue
 
 There was another observation from the maternal-response experiment, and that was how difficult it was for many mothers to maintain a still face when looking at their baby. This shows how powerful the infant’s signals are, how we’re wired to respond. We just need to let it happen.
-We are born with this innate capacity for dialogue, to interact, to take turns.
-This process begins from birth and it does not stop. Maybe it starts before that; maybe the birth process is a form of turn-taking too, contraction followed by rest?
-In dialogue, one person’s action produces a turn-taking response in the other.
-In the turn-taking the parent and the baby meet with their own different rhythms.
-Both tune in and learn from each other. Together, infants and their parents develop unique patterns of being together. A baby and one parent may develop one pattern and the same baby and their other parent may develop another, a baby and a sibling another, and so on. Each relationship has a different pattern.
+
+We are born with this innate capacity for dialogue, to interact, to take turns. This process begins from birth and it does not stop. Maybe it starts before that; maybe the birth process is a form of turn-taking too, contraction followed by rest?
+
+In dialogue, one person’s action produces a turn-taking response in the other. In the turn-taking the parent and the baby meet with their own different rhythms. Both tune in and learn from each other. Together, infants and their parents develop unique patterns of being together. A baby and one parent may develop one pattern and the same baby and their other parent may develop another, a baby and a sibling another, and so on. Each relationship has a different pattern.
+
 These patterns are not adult led but co-created between the baby and the other person. They are not all fixed – they change depending on the moods and the input of each partner. Sometimes the partners ‘get’ each other and sometimes they miss, then some readjustment needs to take place.
+
 The way you’ll find out what your child wants is by observing, by trial, by repairing former misses by trying again and succeeding. You may learn to read a certain glance as ‘I am ready for more smiling’; and at another time you may learn that a similar glance means ‘Feed me.’ It is very normal not to be able to understand what a baby means with their cries or gestures, and that’s okay, but you can still respond in your own way. It isn’t the sense that matters so much as the pattern of turn-taking. I felt inadequate as a new mother when more experienced parents told me I would be able to interpret the cries before too long and that one would mean the baby is thirsty and another that the baby is too hot.
 Cries to me were not inadequate language, they were sounds, communications of a different sort, requiring my attention and observation and engagement but not a non-existent baby-dictionary. It felt easier once patterns of observing and turn- taking were established.
-A baby learns to communicate and find connection by being with their family, and members of that family learn by being with that baby, as each pairing develops their unique communications system. It’s like the way in which the best stand-up comics read a room and adapt to it to give their performance. No two audiences and no two babies are the same. After a few months each partner knows each other better and has learned how to be with each other in ways they can each find more satisfying; observing and turn-taking has a major part to play in this, even though, for the most part, it is done unconsciously.
-This is Simon’s story:
-By watching my son, Ned, I realized he was communicating right from the off. I didn’t always understand what he was telling me, but watching him helped me get there. I got to know the signs I needed to do something about and the ones that weren’t so urgent.
-Ned has just turned two and he can say quite a few words and use short sentences. But he still doesn’t always know what he needs – so we still have to watch him to get that.
-Last weekend, we were at a restaurant with another family who have bigger kids and
-Ned was loving chatting to them and playing. Then I noticed his eyes glaze over, and he’d stopped looking at them. We have learned this is what Ned does when he’s had enough of something, needs a bit of quiet time. If we don’t notice it, what happens next is he can start crying, even go into full tantrum mode.
-This time, I spotted it, so I got up and asked Ned if he wanted to go for a walk, and he nodded. I picked him up from his high chair and carried him out of the restaurant. We sat on the grass outside and he leaned against me for a minute or two. Then he started to pick daisies and give them to me. We began a familiar game where I count whatever it is he’s handing me: one daisy, two daisies, three daisies. Then he takes them back, to hand them to me again.
-I could see Ned was calm and engaged once more and had lost that spaced-out look.
-When he’d finished with the daisies, he was looking around for something else to take his attention, and I said, ‘Shall we go back inside and finish the meal?’ He nodded, took my hand and led me back to the table.
-What surprises me is that it wasn’t a pain to have to leave a group of friends because I feel so engaged with Ned. He has taught me to communicate more on a bodily level, by watching him and learning what his triggers and needs are.
 
-When a baby has a low impact on their parents – isn’t ‘demanding’, is ‘easy’ or ‘good’ – it is often, in some childcare philosophies, considered a good thing.
-But manipulating a baby into having the least effect on you is dehumanizing.
-You need to allow your baby to impact you. If you don’t, the child will have to overadapt to feel like they belong and in so doing they lose a sense of themselves and some of their humanity (like we may have lost some of our own when we were babies). Babies may not yet know words, but we can learn to understand them by observing them. If we practise this skill of observation, it will help us to understand and relate better to our children, whatever age they are.
+A baby learns to communicate and find connection by being with their family, and members of that family learn by being with that baby, as each pairing develops their unique communications system. It’s like the way in which the best stand-up comics read a room and adapt to it to give their performance. No two audiences and no two babies are the same. After a few months each partner knows each other better and has learned how to be with each other in ways they can each find more satisfying; observing and turn-taking has a major part to play in this, even though, for the most part, it is done unconsciously.
+
+This is Simon’s story:
+
+> By watching my son, Ned, I realized he was communicating right from the off. I didn’t always understand what he was telling me, but watching him helped me get there. I got to know the signs I needed to do something about and the ones that weren’t so urgent.
+>
+> Ned has just turned two and he can say quite a few words and use short sentences. But he still doesn’t always know what he needs – so we still have to watch him to get that.
+>
+> Last weekend, we were at a restaurant with another family who have bigger kids and Ned was loving chatting to them and playing. Then I noticed his eyes glaze over, and he’d stopped looking at them. We have learned this is what Ned does when he’s had enough of something, needs a bit of quiet time. If we don’t notice it, what happens next is he can start crying, even go into full tantrum mode.
+>
+> This time, I spotted it, so I got up and asked Ned if he wanted to go for a walk, and he nodded. I picked him up from his high chair and carried him out of the restaurant. We sat on the grass outside and he leaned against me for a minute or two. Then he started to pick daisies and give them to me. We began a familiar game where I count whatever it is he’s handing me: one daisy, two daisies, three daisies. Then he takes them back, to hand them to me again.
+>
+> I could see Ned was calm and engaged once more and had lost that spaced-out look. When he’d finished with the daisies, he was looking around for something else to take his attention, and I said, ‘Shall we go back inside and finish the meal?’ He nodded, took my hand and led me back to the table.
+>
+> What surprises me is that it wasn’t a pain to have to leave a group of friends because I feel so engaged with Ned. He has taught me to communicate more on a bodily level, by watching him and learning what his triggers and needs are.
+
+When a baby has a low impact on their parents – isn’t ‘demanding’, is ‘easy’ or ‘good’ – it is often, in some childcare philosophies, considered a good thing. But manipulating a baby into having the least effect on you is dehumanizing. You need to allow your baby to impact you. If you don’t, the child will have to overadapt to feel like they belong and in so doing they lose a sense of themselves and some of their humanity (like we may have lost some of our own when we were babies). Babies may not yet know words, but we can learn to understand them by observing them. If we practise this skill of observation, it will help us to understand and relate better to our children, whatever age they are.

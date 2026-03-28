@@ -1,28 +1,45 @@
 # Attachment theory
 
 What’s it like, being a baby?
+
 You have a huge advantage over your baby; you have some idea what to expect from becoming a parent. You may have watched your parents look after younger siblings, you will have witnessed other parents with their children, you may remember how you felt as a child, you may have read parenting blogs and books and, most importantly, you have been a baby. Your experience will be consigned to unconscious memory, but it will still be there.
+
 A baby, on the other hand, has no idea what it’s like to be a parent. They haven’t even been a baby before. Everything a baby experiences is a first experience. It is almost impossible to imagine what that’s like, but try to bear it in mind. The first experience of anything forms the deepest impression. These days, as adults, we have fewer opportunities for first impressions. When we meet a new person we get an impression of that person, but it will not do much to change our philosophy of people in general, consolidated long ago.
+
 If you go on holiday to a new place and the people happen to be lovely and the weather just how you like it, that place will probably have good associations and you will think of it fondly. In the same way, life will be easier for a baby if their first impression of the world is as a safe and loving place, one where they feel they belong. Whatever calamities befall them in life, they will be less easily knocked off course and they will recover more quickly if they have always felt that they count, they belong and they are lovable. They will either get this feeling from their very earliest caregivers – you – or they will get different messages.
+
 Imagine if you suddenly found yourself in a desert. No food, no shelter, nothing to drink and, worse than all this, completely alone. How would you feel after one hour? After two? Then, what if, in the distance, you saw some people?
+
 You would go berserk trying to get their attention. You’d scream and shout and wave. You’d be desperate. Maybe a baby feels a bit like this.
+
 A baby comes from the womb, an environment synchronized by nature to their needs, into the outside world. After their birth the baby must signal to us what their needs are. It is up to us to read the baby’s bodily cues to decipher what they need. Every time they manage to communicate and we manage to respond appropriately it is as if that person in the desert managed to get the attention of those people and was rescued.
+
 If being alone in the desert was your first experience of being alive, you would form your world views and your personality by how those people responded to you. Whether that response was attuned or mismatched; whether you had to scream for a long time before you were attended to; whether your needs were quickly understood and met. And, probably more than anything, how long you were left alone without company when you wanted it would lay down a feeling, a mood deep inside yourself, that would become a default way of being for a long time, until enough other experiences happened to change this.
+
 Babies come into the world pre-programmed to form attachments – bonds – to others. Whether people generally have easy, close and loving attachments, or needy, clingy, complicated ones, or whether they find it hard to attach at all or kid themselves they are better off alone, is, according to attachment theory, rooted in how they were related to as babies. The four main styles of forming bonds are: secure attachment style, insecure/ambivalent attachment style, avoidant attachment style and dismissive attachment style. What you want, in your baby, is to foster a ‘secure’ attachment style. And to do this, it’s first worth thinking about the attachment style you had in relation to your caregivers. If you didn’t have a secure bond, you will have to be more thoughtful, self-aware and deliberate about how you are with your baby in order to form a bond than if attuned and empathic responding comes naturally to you.
-Secure attachment style
+
+**Secure attachment style**
+
 If, when you were a baby, your needs for closeness and sustenance were usually consistently met, you’re likely to grow up feeling that other people are generally good. This means you can trust people, get on with others, generally feel optimistic and connect easily with others. All this helps you to have a nice life.
+
 Thinking you are an okay person and that other people are okay too optimizes your luck in life. It is as though, when you were dropped into the desert, there was always someone there to catch you, you did not have to work very hard to get their attention, they were there for you and very soon you were not alone and did not feel alone.
+
 This is what we like to aim for. Sometimes parents worry because, when babies reach several months old, they can suddenly become clingy. It’s very common for them to want only you and not willingly go to other people. It’s because they are securely attached – a good thing – but have not yet developed what psychotherapists call ‘object permanence’. This is the ability to feel someone or something exists when they cannot see them or it. If you keep meeting your baby’s needs regularly, they will develop object permanence sooner or later and this phase will pass. I do not like to give an average age for when this will happen because for some it happens sooner, some later.
 
-Insecure/ambivalent attachment style
+**Insecure/ambivalent attachment style**
+
 If, as an infant, your needs were only inconsistently met, if you often had to scream long and hard to get attention and sometimes even then didn’t get it, it’s likely the belief you have of the world is that you will be ignored, overlooked and will have to make a lot of noise to be noticed. You will not be able to take companionship for granted. You might not think of yourself as generally an okay person, nor will you assume that most other people are good and trustworthy. It is as though you had to jump up and down a lot in the desert to get those people to pay attention and they often left you and didn’t take you with them. Although your first experiences tend to give you your blueprint, it’s possible to develop a secure attachment style if a more consistently positive experience happens often enough to supplant the earlier patterns of relating.
 
-Avoidant attachment style
-If you were often left to cry it out and a lot of the time no one answered your cries, you tend to give up. Your internal belief system and mantra would become
-‘I won’t get their attention so what’s the point of trying?’ You wouldn’t believe you have influence over other people, you wouldn’t expect to be understood by them and you’d grow up seeing yourself as a loner. When the people pass you in the desert, eventually you stop waving to get their attention because you don’t see the point – and they probably think that, as you’re not waving and crying, you don’t need them. The disadvantage of this style is that, in later life, you can’t allow other people to get close to you. As with the insecure attachment style, it is possible to work to change an attachment style, with a lot of practice and work.
+**Avoidant attachment style**
 
-Dismissive attachment style
+If you were often left to cry it out and a lot of the time no one answered your cries, you tend to give up. Your internal belief system and mantra would become ‘I won’t get their attention so what’s the point of trying?’ You wouldn’t believe you have influence over other people, you wouldn’t expect to be understood by them and you’d grow up seeing yourself as a loner. When the people pass you in the desert, eventually you stop waving to get their attention because you don’t see the point – and they probably think that, as you’re not waving and crying, you don’t need them. The disadvantage of this style is that, in later life, you can’t allow other people to get close to you. As with the insecure attachment style, it is possible to work to change an attachment style, with a lot of practice and work.
+
+**Dismissive attachment style**
+
 Imagine if you were in that desert and the people often did not stop and then, if they did, instead of seeing to your needs, they expected you to meet theirs, or they abused you, didn’t give you sustenance, even caused you physical harm.
+
 Imagine the effect that would have on your belief system and how you’d learn to relate to other people. You would probably see others as a source of harm and you would develop little or no empathy and a shaky moral conscience.
-Exercise: What’s your attachment style?
+
+### Exercise: What’s your attachment style?
+
 Can you figure out what sort of attachment style you formed in relationship to your caregivers? Can you trace how these attachment patterns were passed down through the generations of your family to you? If you feel you have an insecure attachment style, an avoidant attachment style or a dismissive attachment style, what will you do differently with your baby to what was done to you? If you feel secure in your attachment style, where do you feel that sense of security coming from? How will you replicate it with your baby?

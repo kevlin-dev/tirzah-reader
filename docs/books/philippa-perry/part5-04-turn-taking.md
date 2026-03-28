@@ -1,7 +1,10 @@
 # Turn-taking
 
 Another type of interaction you may have with a very young baby may be in the form of a game of looking at each other, then looking away, taking it in turns to initiate the game. This type of game has a uniqueness because you invent it together. During the game, the baby may turn away with a blank expression and, instead of turning back, stay looking away. The parent, in response, sits back and waits for the baby to make their next move. Then the baby looks at them once more with a curious and smiley expression. The parent may say, in a gentle, high-pitched voice, ‘Oh, hello again, you’ve come back!’ Then the baby may repeat the process many times until they feel satisfied.
+
 When mothers and their four-month-old infants show patterns of turn-taking between give and take, watching, listening and responding, researchers can predict that, when the infant is a year old, Mum and baby will have a secure attachment bond. If we think about the desert metaphor, this is the baby feeling rescued from the desert and made to feel welcome. They can take for granted that their needs, including their relational needs, will be, more often than not, met.
+
 Of course, like all things human, bonding can go wrong. As a parent, you can interrupt and interfere with the natural process by not observing, not listening, not seeing the world sufficiently from the child’s standpoint. So, if a parent
 ‘misses’ too many cues from the baby, or is too demanding of the baby, it’s unlikely the baby will learn to feel secure in this main relationship – that is, until the parent changes their pattern of relating by becoming observant and responsive.
+
 You may find this kind of attuned reciprocity draining and demanding rather than natural and effortless. This is not your fault. It might be to do with how you were initially responded to when you were a baby, or you may not naturally attune to other people or only with difficulty.

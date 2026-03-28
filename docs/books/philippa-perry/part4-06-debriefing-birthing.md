@@ -1,6 +1,9 @@
 # Debriefing from the birthing experience
 
 When we do get a live baby at the end of pregnancy and birth there is a feeling we should be grateful, however traumatic the birth experience. But I believe that as well as being grateful it’s important to debrief from the experience, and as often as you need to, in order to regain a sense of equilibrium. This might be part of the reason why, when you’re pregnant, you may hear more scary birth stories than ones that went smoothly – because people may need to debrief more from these births.
+
 Becoming a parent for the first time can be overwhelming in itself, never mind getting over whatever experiences you go through giving birth. Even if it is a beautiful, wonderful experience, it can also feel like a momentous event and so it’s one you need to talk through.
+
 Some mothers feel guilty about or let down by their birthing experiences. But remember, there is no such thing as perfect. All of life is about getting back on course each time the path takes an undesirable turn. It isn’t what goes wrong that matters so much as how we make things right again. And you’re getting back on track as you learn to get to know your baby and form that bond.
+
 I don’t know whether the separation after my daughter’s birth increased my anxiety as a new mother or whether it made my baby more fretful in those early months. Perhaps we would have been like that without the upset of separation immediately after her birth. But I do know that, in those early months, it sometimes seemed as if my baby was hard to soothe, and I was anxious about that. It seemed to me that she was born distressed. By gradually learning how to soothe her, I did find myself somewhat soothed in the process. So, if the birth was traumatizing for her (and it was for me) then in time that rupture was repaired for both of us.

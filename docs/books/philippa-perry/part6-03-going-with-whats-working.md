@@ -1,8 +1,9 @@
 # Going with what is working in the present rather than what you fantasize may happen in the future
 
 A client of mine, Gina, was weaning her daughter. The only way she could get her to eat was by singing to her while the child ate her vegetables and spaghetti sitting on her special rug in the middle of the room. Doing this, the kid was happy and, because the food was going in, my client was happy too.
-Sometimes we tell ourselves stories about the future: what if the only way she can ever eat is when she is sung to at the same time? What if he never learns to sleep in his own bed? What if she never wants to give up her pacifier? What if
-Mr Squidgy has to accompany him to the office on his first day at work? But these stories are just that: stories. In the example above, if Gina had thought,
-‘What if this is the only way my daughter will ever eat? What if she’ll always refuse to eat at a table?’ she could have worried about, say, school lunchtimes, restaurants, even her daughter’s first date. But, believe me, almost everything with children is a phase. So it’s fine to go with what works in the present, however odd it seems.
+
+Sometimes we tell ourselves stories about the future: what if the only way she can ever eat is when she is sung to at the same time? What if he never learns to sleep in his own bed? What if she never wants to give up her pacifier? What if Mr Squidgy has to accompany him to the office on his first day at work? But these stories are just that: stories. In the example above, if Gina had thought, ‘What if this is the only way my daughter will ever eat? What if she’ll always refuse to eat at a table?’ she could have worried about, say, school lunchtimes, restaurants, even her daughter’s first date. But, believe me, almost everything with children is a phase. So it’s fine to go with what works in the present, however odd it seems.
+
 I think going with what works for everyone right now is especially useful when it comes to sleep. If the only way everyone gets some sleep is if you push two double beds together and pile the whole family in, then don’t worry about tomorrow: get some sleep tonight. Eventually, your children will want their own beds. They’ll get fed up with your snoring.
+
 If what is working stops working, then implement a change, but make it one where everyone wins, as far as possible, or at least one where there are no winners or losers. Modelling flexibility will make this easier.

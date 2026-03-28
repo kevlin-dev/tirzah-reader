@@ -1,19 +1,33 @@
 # Good parent/bad parent: the downside of judgement
 
-The very fact you’re reading this means you want to be the best parent you can.
-One thing that stops this is judgement, both of yourself and of other people. How we judge ourselves as parents is my bugbear.
-‘Good parent/bad parent’ labels are not helpful because they are about extremes. It’s impossible to be perfectly attuned to our children all the time, and even some good intentions can have harmful consequences. But because nobody wants to be labelled a ‘bad parent’, when we make mistakes (and we all do), wanting to avoid the label makes us pretend we haven’t made them.
-Partly due to these labels of ‘good mother’, ‘bad dad’, or vice versa, existing, to avoid the humiliation of being in the bad role, we get defensive about anything we may be doing wrong. That means we do not examine or look at the ways we are misattuning to our children or neglecting their emotional needs. We don’t look how to improve our relationships with them. It may also mean we hide from ourselves the things we may be doing wrong behind the things we do right, so we can cling to the identity of ‘good’ mother or father.
-Parental fear of facing up to where we might be going wrong doesn’t help our children either. Mistakes – pretending our child’s feelings don’t matter, or whatever else we’ve done wrong – matter so much less when we change our behaviour and repair any rupture. But we cannot put anything right if it feels too shaming to admit our faults – and this label of ‘bad’ adds to that shame.
-Let’s drop ‘good’ and ‘bad’ as attributes for mothers and fathers. No one is wholly saint or sinner. A grumpy, honest parent (normally written off as ‘bad’)
-may be a better parent than a frustrated and resentful parent hiding behind a façade of syrupy sweetness. I’d go further. Just as we shouldn’t judge ourselves, we should try not to judge our children. It is satisfying to put something in a box, label it and forget about it, but it is not good for us and it certainly isn’t good for the person in the box. It’s not helpful to judge a child as bad or good, or indeed to judge them as anything, because it’s hard to thrive with the restriction of a label: ‘the quiet one’, ‘the clumsy one’, ‘the noisy one’ …
-Human beings change and grow all the time, especially small ones. It is far better to describe what you see and say what you appreciate rather than judge.
-So say, ‘I liked how hard you were concentrating when you did those sums’ rather than ‘You’re great at maths.’ Say, ‘I am impressed how much thought you have put into this drawing. I like how the house looks like it’s smiling. It makes me feel happy.’ Not ‘Lovely picture.’ Praise effort, describe what you see and feel and encourage your child without judging. Describing and finding something specific to appreciate is far more encouraging than a non-specific judgement of ‘Great job’ and far, far more useful than criticism. If a whole page of writing is nearly a completely untidy mess but the letter P is perfectly formed, all you need to say is, ‘I like how neatly you’ve written that P.’
-Hopefully, next time, you’ll like another letter as well.
-Exercise: No more judging
-Instead of judging yourself on what you make and do, observe and appreciate what you get right instead. Notice the difference in how it makes you feel. For example, rather than saying or thinking something like, ‘I make great bread,’ try ‘Concentrating on my baking is paying off.’ Rather than ‘I’m bad at yoga,’ try instead ‘I have made a start at yoga and I’ve improved since last week.’ It’s not so much the words – I’m not totally banning ‘good’ or ‘bad’ – it’s about suspending judgement or holding our conclusions lightly rather than rigidly. This will do less harm to ourselves and to our children.
+The very fact you're reading this means you want to be the best parent you can.
 
-I have started this book by looking at you rather than concentrating on your child because what makes a child the unique individual they are (or will be, if they are not yet with us) is a matchless mix of genes and environment, and you are a major part of your child’s environment.
-How we feel about ourselves and how much responsibility we take for how we react to our children are key aspects of parenting that are too often overlooked because it’s much easier to focus instead on our children and their behaviours rather than examining how they affect us and then how we in turn affect them.
+One thing that stops this is judgement, both of yourself and of other people. How we judge ourselves as parents is my bugbear.
+
+'Good parent/bad parent' labels are not helpful because they are about extremes. It's impossible to be perfectly attuned to our children all the time, and even some good intentions can have harmful consequences. But because nobody wants to be labelled a 'bad parent', when we make mistakes (and we all do), wanting to avoid the label makes us pretend we haven't made them.
+
+Partly due to these labels of 'good mother', 'bad dad', or vice versa, existing, to avoid the humiliation of being in the bad role, we get defensive about anything we may be doing wrong. That means we do not examine or look at the ways we are misattuning to our children or neglecting their emotional needs. We don't look how to improve our relationships with them. It may also mean we hide from ourselves the things we may be doing wrong behind the things we do right, so we can cling to the identity of 'good' mother or father.
+
+Parental fear of facing up to where we might be going wrong doesn't help our children either. Mistakes – pretending our child's feelings don't matter, or whatever else we've done wrong – matter so much less when we change our behaviour and repair any rupture. But we cannot put anything right if it feels too shaming to admit our faults – and this label of 'bad' adds to that shame.
+
+Let's drop 'good' and 'bad' as attributes for mothers and fathers. No one is wholly saint or sinner. A grumpy, honest parent (normally written off as 'bad') may be a better parent than a frustrated and resentful parent hiding behind a facade of syrupy sweetness.
+
+I'd go further. Just as we shouldn't judge ourselves, we should try not to judge our children. It is satisfying to put something in a box, label it and forget about it, but it is not good for us and it certainly isn't good for the person in the box. It's not helpful to judge a child as bad or good, or indeed to judge them as anything, because it's hard to thrive with the restriction of a label: 'the quiet one', 'the clumsy one', 'the noisy one' …
+
+Human beings change and grow all the time, especially small ones. It is far better to describe what you see and say what you appreciate rather than judge.
+
+So say, 'I liked how hard you were concentrating when you did those sums' rather than 'You're great at maths.' Say, 'I am impressed how much thought you have put into this drawing. I like how the house looks like it's smiling. It makes me feel happy.' Not 'Lovely picture.' Praise effort, describe what you see and feel and encourage your child without judging. Describing and finding something specific to appreciate is far more encouraging than a non-specific judgement of 'Great job' and far, far more useful than criticism. If a whole page of writing is nearly a completely untidy mess but the letter P is perfectly formed, all you need to say is, 'I like how neatly you've written that P.'
+
+Hopefully, next time, you'll like another letter as well.
+
+### Exercise: No more judging
+
+Instead of judging yourself on what you make and do, observe and appreciate what you get right instead. Notice the difference in how it makes you feel. For example, rather than saying or thinking something like, 'I make great bread,' try 'Concentrating on my baking is paying off.' Rather than 'I'm bad at yoga,' try instead 'I have made a start at yoga and I've improved since last week.' It's not so much the words – I'm not totally banning 'good' or 'bad' – it's about suspending judgement or holding our conclusions lightly rather than rigidly. This will do less harm to ourselves and to our children.
+
+I have started this book by looking at you rather than concentrating on your child because what makes a child the unique individual they are (or will be, if they are not yet with us) is a matchless mix of genes and environment, and you are a major part of your child's environment.
+
+How we feel about ourselves and how much responsibility we take for how we react to our children are key aspects of parenting that are too often overlooked because it's much easier to focus instead on our children and their behaviours rather than examining how they affect us and then how we in turn affect them.
+
 And it is not only how we respond to children that shapes their personality traits and character but also what they witness and feel in their environment.
-I hope I’ve convinced you to examine how you react to the feelings your children trigger in you. Be aware of how you talk to yourself. Look out for your inner critic. And be less judgemental – about yourself, your parenting and your children.
+
+I hope I've convinced you to examine how you react to the feelings your children trigger in you. Be aware of how you talk to yourself. Look out for your inner critic. And be less judgemental – about yourself, your parenting and your children.

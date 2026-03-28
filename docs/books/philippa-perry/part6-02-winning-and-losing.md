@@ -1,19 +1,29 @@
 # The winning and losing game
 
 Once, when my daughter, Flo, was three years old she wanted to walk the short way to the shops and not go in her pushchair so I left the pushchair at home. On the way back she just stopped and sat down on someone’s front step. My instinct was to think, ‘Oh no!’ because, in my mind, I was more in the future than in the present; I was already putting away the shopping so I could relax and rest. It wasn’t in my plan to rest halfway home. But Flo was resting now.
+
 Then I realized that it didn’t matter when we got home. I put down the bags and crouched beside her. Flo was looking at an ant following a crack in the pavement. Sometimes it disappeared into the crack and then it got out again. I watched with her.
+
 An elderly man came up to us and said to me, ‘Is she winning?’ I knew what he meant straightaway. He meant, in the battle of the wills between parent and child, was she getting her way at my expense? I knew this battle of old. My parents believed in it to the extent that they thought if any child got too much of what they wanted, whatever it was, it would be bad for them.
+
 But you and your child are on the same side: you both want to feel content rather than frustrated. You both want to get along and behave well. The old man smiled knowingly down on us. He was only trying to be friendly, so I didn’t argue. I didn’t say something like, ‘We are in a relationship, not in a battle.’ I just said, ‘We are watching an ant,’ and smiled back at him. He went on his way, and so did the ant. Flo and I stood up and went on our way too.
+
 As I said above, all behaviour is communication, so behind behaviour you’ll find the feelings. Once you discover the feeling behind any particular behaviour and empathize with it, then you can put the feeling into words, you will help a child use words to express themselves and they will have less need to act out on that feeling.
+
 In the example above I realized that Flo, unused to walking for so long, was tired and wanted to rest. I thought about how she might have been overwhelmed by all the sights and sounds around her – she might not have learned how to block out the ones not relevant to her, as an adult automatically does, and that may have been behind her need to focus on just one thing. It is more useful to think of a situation from the child’s point of view rather than yours. Mine here would have been: I want to get home; she is stopping me; it is my will against hers.
+
 Traditionally, it was thought that you must not let children ‘get their own way’. I think this is what the old man was trying to say with his ‘Is she winning?’ remark. He was going down the ‘You are making a rod for your own back’ approach. I hear about this all the time when people talk about tantrums.
+
 Parents seem to fear tantrums so much that even to notice one, they think, will mean that a child will never grow out of having them. In this don’t-let-them-win game that parents play, there are no winners. There is only manipulation rather than relating to each other. The game is not real. It is something parents make up.
-Such an approach is based on a fantasy of what will happen in the future rather than what is working in the present. What was working in that present was
-Flo resting before continuing with our walk.
-The game of winning and losing can get entrenched as a dynamic and this damages relationships. By dominating a child, you teach them to dominate.
-What if your child gets into the pattern of thinking it’s normal and desirable to impose their will on to other people? How popular will that make them with their classmates?
+
+Such an approach is based on a fantasy of what will happen in the future rather than what is working in the present. What was working in that present was Flo resting before continuing with our walk.
+
+The game of winning and losing can get entrenched as a dynamic and this damages relationships. By dominating a child, you teach them to dominate. What if your child gets into the pattern of thinking it’s normal and desirable to impose their will on to other people? How popular will that make them with their classmates?
+
 If you act as though a large part of childcare is imposing your will over your children, the patterns of relating that your child will learn from that have the potential to be harmful. If a child learns such a limited choice of roles – ‘the doer’ and the ‘done to’, or to put it another way, the dominant and the submissive – it considerably limits their potential as a person. For example, if the roles they have had the most experience of are victim and bully, they may either become a bully or start to automatically find themselves in the victim role.
-The game of winning and losing also has consequences for the emotional repertoire of your child. To lose a battle of wills can often mean humiliation.
-And the consequence of being humiliated is not, as the word might imply, that a person becomes humble but that they become angry. That anger may be turned inwards towards the self, leading to depression, or outwards towards the world, which results in antisocial behaviour.
+
+The game of winning and losing also has consequences for the emotional repertoire of your child. To lose a battle of wills can often mean humiliation. And the consequence of being humiliated is not, as the word might imply, that a person becomes humble but that they become angry. That anger may be turned inwards towards the self, leading to depression, or outwards towards the world, which results in antisocial behaviour.
+
 So, if it’s not about winning and losing, what is the best way to think about helping a child behave appropriately and conveniently at any one time?
+
 Generally, going with what works in the present, which is grounded in reality rather than what you fear may happen in the future, based on fantasy, is a useful maxim to live by with children.
