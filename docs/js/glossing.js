@@ -97,15 +97,19 @@
     }
   }
 
+  function normalizeWord(word) {
+    return word.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  }
+
   function lookupWord(word) {
-    const key = word.toLowerCase();
+    const key = normalizeWord(word);
     return currentGlossary[key] || null;
   }
 
   // ===== Word wrapping =====
 
   function isWord(text) {
-    return /^[a-zA-Z'-]+$/.test(text);
+    return /^[a-zA-Z\u00C0-\u024F'-]+$/.test(text);
   }
 
   function wrapWordsInElement(element) {
@@ -124,7 +128,7 @@
 
       const text = textNode.nodeValue;
       // Split on word boundaries, preserving whitespace and punctuation
-      const parts = text.split(/(\b[a-zA-Z'-]+\b)/);
+      const parts = text.split(/([a-zA-Z\u00C0-\u024F'-]+)/);
 
       if (parts.length <= 1) return;
 
