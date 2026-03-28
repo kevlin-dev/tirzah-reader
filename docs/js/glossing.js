@@ -161,8 +161,35 @@
 
     init() {
       this.el = document.getElementById('gloss-popup');
+
+      // Add close button
+      const closeBtn = document.createElement('button');
+      closeBtn.className = 'gloss-close';
+      closeBtn.textContent = '\u00d7';
+      closeBtn.addEventListener('touchend', (e) => { e.preventDefault(); this.hide(); });
+      closeBtn.addEventListener('click', (e) => { e.preventDefault(); this.hide(); });
+      this.el.querySelector('.gloss-content').prepend(closeBtn);
+
+      // Add swipe-down handle
+      const handle = document.createElement('div');
+      handle.className = 'gloss-handle';
+      this.el.querySelector('.gloss-content').prepend(handle);
+
+      // Swipe down to dismiss
+      let startY = 0;
+      this.el.addEventListener('touchstart', (e) => { startY = e.touches[0].clientY; }, { passive: true });
+      this.el.addEventListener('touchend', (e) => {
+        const endY = e.changedTouches[0].clientY;
+        if (endY - startY > 40) this.hide();
+      });
+
       // Tap outside to close
       document.addEventListener('click', (e) => {
+        if (!e.target.closest('.gloss-word-wrap') && !e.target.closest('.gloss-popup')) {
+          this.hide();
+        }
+      });
+      document.addEventListener('touchend', (e) => {
         if (!e.target.closest('.gloss-word-wrap') && !e.target.closest('.gloss-popup')) {
           this.hide();
         }

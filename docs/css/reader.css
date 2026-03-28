@@ -123,6 +123,33 @@ body {
   line-height: 1.5;
 }
 
+/* Close button */
+.gloss-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  background: none;
+  border: none;
+  font-size: 1.5em;
+  color: #999;
+  padding: 4px 8px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Swipe handle */
+.gloss-handle {
+  width: 36px;
+  height: 4px;
+  background: #ccc;
+  border-radius: 2px;
+  margin: 0 auto 12px;
+}
+
+.gloss-content {
+  position: relative;
+}
+
 /* Encounter badge */
 .gloss-content .gloss-encounters {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
