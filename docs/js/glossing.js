@@ -125,20 +125,19 @@
 
       parts.forEach(function (part) {
         if (isWord(part) && part.length > 1) {
-          const span = document.createElement('span');
-          span.className = 'gloss-word-wrap';
-          span.textContent = part;
-
-          // Check if this word is in the glossary
           const glossEntry = lookupWord(part);
           if (glossEntry) {
-            const state = getWordState(part);
-            span.setAttribute('data-state', state);
+            // Word is in glossary — make it tappable
+            const span = document.createElement('span');
+            span.className = 'gloss-word-wrap';
+            span.textContent = part;
             span.setAttribute('data-word', part.toLowerCase());
             recordEncounter(part);
+            fragment.appendChild(span);
+          } else {
+            // Not in glossary — render as plain text
+            fragment.appendChild(document.createTextNode(part));
           }
-
-          fragment.appendChild(span);
         } else {
           fragment.appendChild(document.createTextNode(part));
         }
@@ -166,41 +165,10 @@
     show(word, entry, wordData) {
       if (!this.el) return;
 
-      const state = getWordState(word);
-
       this.el.querySelector('.gloss-word').textContent = word;
       this.el.querySelector('.gloss-definition').textContent = entry.definition || '';
-
-      // Show Chinese based on scaffold level
-      const chineseEl = this.el.querySelector('.gloss-chinese');
-      if (state === 'known') {
-        // Minimal: just definition, no Chinese
-        chineseEl.textContent = '';
-      } else {
-        chineseEl.textContent = entry.chinese || '';
-      }
-
-      // Show example only on first encounters
-      const exampleEl = this.el.querySelector('.gloss-example');
-      if (state === 'new' && entry.example) {
-        exampleEl.textContent = entry.example;
-      } else {
-        exampleEl.textContent = '';
-      }
-
-      // Show encounter count for learning words
-      let encounterEl = this.el.querySelector('.gloss-encounters');
-      if (!encounterEl) {
-        encounterEl = document.createElement('div');
-        encounterEl.className = 'gloss-encounters';
-        this.el.querySelector('.gloss-content').appendChild(encounterEl);
-      }
-
-      if (wordData && wordData.taps > 1) {
-        encounterEl.textContent = 'Looked up ' + wordData.taps + ' time' + (wordData.taps > 1 ? 's' : '');
-      } else {
-        encounterEl.textContent = '';
-      }
+      this.el.querySelector('.gloss-chinese').textContent = entry.chinese || '';
+      this.el.querySelector('.gloss-example').textContent = entry.example || '';
 
       this.el.classList.remove('hidden');
     },
@@ -228,16 +196,6 @@
     e.stopPropagation();
 
     const wordData = recordTap(word);
-
-    // Update visual state
-    const newState = getWordState(word);
-    wordEl.setAttribute('data-state', newState);
-
-    // Update all instances of this word on the page
-    document.querySelectorAll('.gloss-word-wrap[data-word="' + word + '"]').forEach(function (el) {
-      el.setAttribute('data-state', newState);
-    });
-
     popup.show(word, entry, wordData);
   }
 

@@ -66,22 +66,8 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-/* Word states based on encounter count */
-.gloss-word-wrap[data-state="new"] {
-  background: var(--word-new-bg);
-  border-radius: 2px;
-  padding: 0 1px;
-}
-
-.gloss-word-wrap[data-state="learning"] {
-  background: var(--word-learning-bg);
-  border-radius: 2px;
-  padding: 0 1px;
-}
-
-.gloss-word-wrap[data-state="known"] {
-  /* No visual indicator — word is acquired */
-}
+/* No visual highlighting — clean reading experience.
+   Words are tappable but look like normal text. */
 
 /* ===== Gloss popup ===== */
 .gloss-popup {
