@@ -66,15 +66,24 @@
 
   async function loadGlossary(path) {
     // Derive glossary path from the current page
-    // e.g., books/philippa-perry/chapter-01.md -> books/philippa-perry/glossary-01.json
-    const glossaryPath = path
-      .replace(/chapter-(\d+)\.md$/, 'glossary-$1.json')
-      .replace(/\.md$/, '-glossary.json');
+    // Hash may or may not include .md extension
+    // e.g., books/philippa-perry/chapter-01 -> books/philippa-perry/glossary-01.json
+    const cleanPath = path.replace(/\.md$/, '');
+    const glossaryPath = cleanPath.replace(/chapter-(\d+)$/, 'glossary-$1.json');
+
+    // Only attempt fetch if we actually transformed the path
+    if (glossaryPath === cleanPath) {
+      currentGlossary = {};
+      return;
+    }
 
     try {
       const response = await fetch(glossaryPath);
       if (response.ok) {
         currentGlossary = await response.json();
+        console.log('[Tirzah] Loaded glossary:', Object.keys(currentGlossary).length, 'words');
+      } else {
+        currentGlossary = {};
       }
     } catch {
       currentGlossary = {};
