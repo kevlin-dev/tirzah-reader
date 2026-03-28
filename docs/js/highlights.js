@@ -141,12 +141,12 @@
       window.addEventListener('scroll', () => this.hide(), { passive: true });
     },
 
-    show(x, y) {
+    show(x, y, bottom) {
       this.el.classList.remove('hidden');
-      // Position above selection
+      // Position below selection to avoid iOS native menu
       const toolbarWidth = 88;
       const left = Math.max(8, Math.min(x - toolbarWidth / 2, window.innerWidth - toolbarWidth - 8));
-      const top = Math.max(8, y - 48);
+      const top = bottom + window.scrollY + 8;
       this.el.style.left = left + 'px';
       this.el.style.top = top + 'px';
     },
@@ -220,7 +220,7 @@
     // Get selection position
     const range = sel.getRangeAt(0);
     const rect = range.getBoundingClientRect();
-    toolbar.show(rect.left + rect.width / 2, rect.top + window.scrollY);
+    toolbar.show(rect.left + rect.width / 2, rect.top + window.scrollY, rect.bottom);
   }
 
   // ===== Docsify plugin =====
