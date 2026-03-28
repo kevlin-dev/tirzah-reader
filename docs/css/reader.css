@@ -167,7 +167,7 @@ body {
 
 /* Selection toolbar */
 .tirzah-toolbar {
-  position: absolute;
+  position: fixed;
   z-index: 1001;
   display: flex;
   gap: 4px;

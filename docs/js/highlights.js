@@ -143,10 +143,10 @@
 
     show(rect) {
       this.el.classList.remove('hidden');
-      // Position below selection to avoid iOS native menu
+      // Position below selection (fixed positioning = viewport coords)
       const toolbarWidth = 88;
       const left = Math.max(8, Math.min(rect.left + rect.width / 2 - toolbarWidth / 2, window.innerWidth - toolbarWidth - 8));
-      const top = rect.bottom + window.scrollY + 8;
+      const top = rect.bottom + 8;
       this.el.style.left = left + 'px';
       this.el.style.top = top + 'px';
     },
