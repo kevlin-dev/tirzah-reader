@@ -50,11 +50,7 @@ body {
   margin-bottom: 1.2em;
 }
 
-/* Hide sidebar on mobile for distraction-free reading */
 @media (max-width: 768px) {
-  body.close .sidebar {
-    display: none;
-  }
   .markdown-section {
     padding: 16px 20px 80px;
   }
