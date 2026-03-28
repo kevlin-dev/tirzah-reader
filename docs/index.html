@@ -19,6 +19,9 @@
     </div>
   </div>
 
+  <!-- Load glossing engine FIRST so the plugin function is available -->
+  <script src="js/glossing.js"></script>
+
   <script>
     window.$docsify = {
       name: 'Tirzah Reader',
@@ -26,10 +29,10 @@
       subMaxLevel: 2,
       auto2top: true,
       homepage: 'home.md',
+      plugins: [window.tirzahGlossingPlugin]
     }
   </script>
 
-  <script src="js/glossing.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 </body>
 </html>

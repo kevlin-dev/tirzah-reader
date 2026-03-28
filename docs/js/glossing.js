@@ -264,15 +264,23 @@
   // ===== Docsify plugin =====
 
   function glossingPlugin(hook) {
+    console.log('[Tirzah] Plugin registered');
+
     hook.doneEach(async function () {
       // Determine current page path for glossary loading
       const hash = window.location.hash.replace('#/', '') || 'home';
+      console.log('[Tirzah] Page loaded, hash:', hash);
       await loadGlossary(hash);
 
       // Wrap words in the content area
       const content = document.querySelector('.markdown-section');
       if (content) {
+        const glossarySize = Object.keys(currentGlossary).length;
+        console.log('[Tirzah] Wrapping words, glossary has', glossarySize, 'entries');
         wrapWordsInElement(content);
+
+        const wrapped = content.querySelectorAll('.gloss-word-wrap[data-word]');
+        console.log('[Tirzah] Wrapped', wrapped.length, 'glossary words');
 
         // Attach tap handler
         content.addEventListener('click', handleWordTap);
@@ -280,14 +288,14 @@
     });
 
     hook.ready(function () {
+      console.log('[Tirzah] Ready, initializing popup');
       popup.init();
       initProgressBar();
     });
   }
 
-  // Register plugin
-  window.$docsify = window.$docsify || {};
-  window.$docsify.plugins = (window.$docsify.plugins || []).concat(glossingPlugin);
+  // Expose plugin globally so index.html can register it in the docsify config
+  window.tirzahGlossingPlugin = glossingPlugin;
 
   // ===== Stats API (for progress dashboard) =====
 
