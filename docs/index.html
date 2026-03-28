@@ -19,8 +19,9 @@
     </div>
   </div>
 
-  <!-- Load glossing engine FIRST so the plugin function is available -->
+  <!-- Load plugins FIRST so the functions are available -->
   <script src="js/glossing.js"></script>
+  <script src="js/highlights.js"></script>
 
   <script>
     window.$docsify = {
@@ -32,7 +33,7 @@
       subMaxLevel: 2,
       auto2top: true,
       homepage: 'home.md',
-      plugins: [window.tirzahGlossingPlugin]
+      plugins: [window.tirzahGlossingPlugin, window.tirzahHighlightPlugin]
     }
   </script>
 
