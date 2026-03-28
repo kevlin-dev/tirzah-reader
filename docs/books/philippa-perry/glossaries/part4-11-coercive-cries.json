@@ -1,0 +1,232 @@
+{
+  "coercive": {
+    "definition": "Forcing you to respond; impossible to ignore.",
+    "chinese": "強制性的",
+    "example": "A baby's cry is coercive because you cannot help but respond."
+  },
+  "demand": {
+    "definition": "A strong request that expects to be obeyed.",
+    "chinese": "要求",
+    "example": "The baby's cry sounds like a demand for attention."
+  },
+  "biologically": {
+    "definition": "In a way related to the natural processes of living things.",
+    "chinese": "在生物學上",
+    "example": "We are biologically programmed to respond to a baby's cry."
+  },
+  "programmed": {
+    "definition": "Set up to automatically do something in a certain way.",
+    "chinese": "被設定的",
+    "example": "Humans are programmed by nature to care for their babies."
+  },
+  "species": {
+    "definition": "A group of living things that are the same kind.",
+    "chinese": "物種",
+    "example": "Responding to babies is essential to the survival of the species."
+  },
+  "alarm": {
+    "definition": "A warning signal that something is wrong.",
+    "chinese": "警報",
+    "example": "The baby's cry is like an alarm telling you they need help."
+  },
+  "zebra": {
+    "definition": "A black-and-white striped animal from Africa, similar to a horse.",
+    "chinese": "斑馬",
+    "example": "A zebra in the herd warns the others when danger is near."
+  },
+  "herd": {
+    "definition": "A large group of animals that live and move together.",
+    "chinese": "獸群",
+    "example": "The zebra communicated danger to the rest of the herd."
+  },
+  "subtle": {
+    "definition": "Not obvious; difficult to notice.",
+    "chinese": "細微的",
+    "example": "A baby's emotions are not subtle; they cry loudly."
+  },
+  "desperate": {
+    "definition": "Feeling that you have no hope and need help urgently.",
+    "chinese": "絕望的",
+    "example": "The baby sounds desperate because they truly are."
+  },
+  "jeopardizing": {
+    "definition": "Putting something in danger of being harmed or lost.",
+    "chinese": "危害；使陷入危險",
+    "example": "Ignoring a baby's cry is jeopardizing their development."
+  },
+  "intimate": {
+    "definition": "Very close and personal.",
+    "chinese": "親密的",
+    "example": "Intimate companionship is vital to a baby's growth."
+  },
+  "companionship": {
+    "definition": "The state of having someone with you; being together.",
+    "chinese": "陪伴",
+    "example": "Babies need intimate companionship to develop properly."
+  },
+  "vital": {
+    "definition": "Extremely important; necessary for life.",
+    "chinese": "至關重要的",
+    "example": "Responding to your baby is vital for their brain development."
+  },
+  "surrendering": {
+    "definition": "Giving in; allowing something to happen without fighting it.",
+    "chinese": "順從；放下抵抗",
+    "example": "Surrendering to the process of caring for a baby can bring up old feelings."
+  },
+  "spectrum": {
+    "definition": "A range between two extreme points.",
+    "chinese": "範圍",
+    "example": "You may feel anything along the spectrum from unsettled to despairing."
+  },
+  "unsettled": {
+    "definition": "Feeling uneasy and not comfortable.",
+    "chinese": "不安的",
+    "example": "New parents often feel unsettled in the first weeks."
+  },
+  "despairing": {
+    "definition": "Feeling that there is no hope.",
+    "chinese": "絕望的",
+    "example": "She felt despairing when the baby would not stop crying."
+  },
+  "contain": {
+    "definition": "To hold feelings safely without being overwhelmed by them.",
+    "chinese": "承接；容納（情緒）",
+    "example": "You need someone to contain your feelings so you can contain your baby's."
+  },
+  "dissociate": {
+    "definition": "To disconnect your mind from your feelings or experience as a way of coping.",
+    "chinese": "解離；抽離",
+    "example": "Babies who are left alone may dissociate from their distress."
+  },
+  "cortisol": {
+    "definition": "A stress hormone made by the body when you feel afraid or under pressure.",
+    "chinese": "皮質醇（壓力荷爾蒙）",
+    "example": "Even after the baby stops crying, their cortisol levels remain high."
+  },
+  "mammalian": {
+    "definition": "Related to mammals, the group of animals that feed their young with milk.",
+    "chinese": "哺乳動物的",
+    "example": "Dissociating from distress is a mammalian survival mechanism."
+  },
+  "survival": {
+    "definition": "Staying alive; continuing to live.",
+    "chinese": "生存",
+    "example": "Crying is a survival mechanism for babies."
+  },
+  "mechanism": {
+    "definition": "A natural process or system that does a particular thing.",
+    "chinese": "機制",
+    "example": "Dissociation is a survival mechanism in response to extreme stress."
+  },
+  "flashbacks": {
+    "definition": "Sudden, unwanted memories of a past experience that feel very real.",
+    "chinese": "閃回記憶；創傷回憶重現",
+    "example": "People who dissociate from distress can experience flashbacks later."
+  },
+  "haunt": {
+    "definition": "To keep coming back to your mind in a troubling way.",
+    "chinese": "縈繞不去；困擾",
+    "example": "Unprocessed feelings can come back to haunt you."
+  },
+  "trigger": {
+    "definition": "Something that causes a strong emotional reaction, often connected to the past.",
+    "chinese": "觸發",
+    "example": "Having a baby can trigger feelings from your own childhood."
+  },
+  "disconcerting": {
+    "definition": "Making you feel confused, worried, or uncomfortable.",
+    "chinese": "令人不安的",
+    "example": "The sudden rush of emotions was disconcerting."
+  },
+  "triggered": {
+    "definition": "Caused to happen; set off an emotional reaction.",
+    "chinese": "被觸發的",
+    "example": "Old feelings can be triggered by caring for your own baby."
+  },
+  "adulthood": {
+    "definition": "The time of life when you are a grown-up.",
+    "chinese": "成年期",
+    "example": "Feelings from childhood may surface later in adulthood."
+  },
+  "angering": {
+    "definition": "Making someone feel angry.",
+    "chinese": "令人憤怒的",
+    "example": "Reading this may be angering you if you feel guilty."
+  },
+  "frightening": {
+    "definition": "Making someone feel afraid.",
+    "chinese": "令人害怕的",
+    "example": "Learning about the effects of crying it out can be frightening."
+  },
+  "repair": {
+    "definition": "To fix or make better after damage.",
+    "chinese": "修復",
+    "example": "You can repair the situation by taking your child's feelings seriously."
+  },
+  "dismiss": {
+    "definition": "To treat something as unimportant; to ignore.",
+    "chinese": "忽視；不當回事",
+    "example": "Do not dismiss your child's feelings as silly."
+  },
+  "defensive": {
+    "definition": "Protecting yourself from criticism; not willing to admit mistakes.",
+    "chinese": "防禦性的",
+    "example": "If the parent is not defensive, the healing is more powerful."
+  },
+  "blaming": {
+    "definition": "Saying someone else is responsible for something bad.",
+    "chinese": "責怪的",
+    "example": "A parent who is not blaming creates a safe space for healing."
+  },
+  "medicine": {
+    "definition": "Here, something that heals or makes things better (used as a metaphor).",
+    "chinese": "良藥（比喻）",
+    "example": "Being taken seriously by your parent is powerful medicine."
+  },
+  "synchronize": {
+    "definition": "To make things happen or work together at the same time.",
+    "chinese": "同步",
+    "example": "We can never synchronize to our baby as perfectly as the womb."
+  },
+  "inevitably": {
+    "definition": "In a way that cannot be avoided; certain to happen.",
+    "chinese": "不可避免地",
+    "example": "There will inevitably be misunderstandings between parent and baby."
+  },
+  "ruptures": {
+    "definition": "Breaks or disruptions in a relationship or bond.",
+    "chinese": "斷裂",
+    "example": "It is not the ruptures that matter most but how they are repaired."
+  },
+  "facilitate": {
+    "definition": "To make something easier or help it happen.",
+    "chinese": "促進",
+    "example": "We try to facilitate the development of our child's sense of security."
+  },
+  "transition": {
+    "definition": "A change from one state or condition to another.",
+    "chinese": "過渡",
+    "example": "The transition from the womb to the outside world is huge for a baby."
+  },
+  "utero": {
+    "definition": "Inside the mother's womb (from Latin 'in utero').",
+    "chinese": "子宮內",
+    "example": "Life in utero is perfectly tuned to the baby's needs."
+  },
+  "loneliness": {
+    "definition": "The sad feeling of being alone or not having someone close.",
+    "chinese": "孤獨感",
+    "example": "Loneliness is a feeling that needs to be attended to, just like hunger."
+  },
+  "discomfort": {
+    "definition": "A mild feeling of pain or unease.",
+    "chinese": "不適",
+    "example": "Loneliness is a feeling like discomfort that tells you something is wrong."
+  },
+  "attending": {
+    "definition": "Giving care and attention to something.",
+    "chinese": "照顧；關注",
+    "example": "Loneliness needs attending to for a person to stay healthy."
+  }
+}

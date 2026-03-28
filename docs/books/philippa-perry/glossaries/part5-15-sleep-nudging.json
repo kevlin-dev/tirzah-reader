@@ -1,0 +1,207 @@
+{
+  "nudging": {
+    "definition": "Gently pushing or encouraging someone toward something.",
+    "chinese": "輕推；引導",
+    "example": "Sleep nudging helps babies learn to sleep without force."
+  },
+  "tolerance": {
+    "definition": "The ability to accept or deal with something difficult.",
+    "chinese": "容忍度",
+    "example": "Each child has a different tolerance for change."
+  },
+  "secure": {
+    "definition": "Feeling safe and protected.",
+    "chinese": "有安全感的",
+    "example": "Make sure your child feels secure throughout the process."
+  },
+  "attempt": {
+    "definition": "To try to do something.",
+    "chinese": "嘗試",
+    "example": "Do not attempt sleep nudging before six months."
+  },
+  "emotional": {
+    "definition": "Related to feelings.",
+    "chinese": "情感的",
+    "example": "Emotional development is very important in the first year."
+  },
+  "processing": {
+    "definition": "Working through or dealing with information or feelings.",
+    "chinese": "處理",
+    "example": "The brain is processing new experiences all the time."
+  },
+  "foundation": {
+    "definition": "The base or starting point that everything else is built on.",
+    "chinese": "基礎",
+    "example": "Love and care are the foundation of good mental health."
+  },
+  "wiring": {
+    "definition": "Forming connections, especially in the brain.",
+    "chinese": "建立連結（腦部）",
+    "example": "A baby's brain is wiring up through daily interactions."
+  },
+  "interaction": {
+    "definition": "The way people act and communicate with each other.",
+    "chinese": "互動",
+    "example": "Loving interaction helps a baby's brain grow."
+  },
+  "permanence": {
+    "definition": "The state of lasting forever or for a very long time.",
+    "chinese": "永久性",
+    "example": "Object permanence means knowing something exists even when hidden."
+  },
+  "psychotherapists": {
+    "definition": "Professionals who help people with mental and emotional problems through talking.",
+    "chinese": "心理治療師",
+    "example": "Psychotherapists call this concept 'object permanence.'"
+  },
+  "ingrained": {
+    "definition": "So deeply part of you that it is hard to change.",
+    "chinese": "根深蒂固的",
+    "example": "Our habits become ingrained over many years."
+  },
+  "overlook": {
+    "definition": "To not notice something or to forget about it.",
+    "chinese": "忽略",
+    "example": "It's easy to overlook how much babies need to learn."
+  },
+  "cognitively": {
+    "definition": "Related to thinking and understanding with the mind.",
+    "chinese": "認知上",
+    "example": "A child may understand something cognitively but not feel it."
+  },
+  "bodily": {
+    "definition": "Related to the physical body.",
+    "chinese": "身體的",
+    "example": "Some feelings are experienced on a bodily level."
+  },
+  "separation": {
+    "definition": "Being apart from someone.",
+    "chinese": "分離",
+    "example": "Gradual separation is better than sudden change."
+  },
+  "breastfeeding": {
+    "definition": "Feeding a baby milk from the mother's breast.",
+    "chinese": "母乳哺育",
+    "example": "Breastfeeding can help a baby feel safe and calm."
+  },
+  "nursed": {
+    "definition": "Fed a baby with breast milk; also, cared for gently.",
+    "chinese": "哺乳的",
+    "example": "The baby was nursed back to sleep each time she woke."
+  },
+  "baseline": {
+    "definition": "The starting point or lowest level that things are compared to.",
+    "chinese": "基準線",
+    "example": "Find your baby's comfort baseline before making changes."
+  },
+  "drowsy": {
+    "definition": "Feeling sleepy and almost falling asleep.",
+    "chinese": "昏昏欲睡的",
+    "example": "Stop nursing when the baby is drowsy but not yet asleep."
+  },
+  "cuddle": {
+    "definition": "To hold someone close in your arms to show love.",
+    "chinese": "擁抱",
+    "example": "A warm cuddle can help a baby feel safe."
+  },
+  "heartbeat": {
+    "definition": "The regular sound or movement of the heart pumping blood.",
+    "chinese": "心跳",
+    "example": "Babies are calmed by the sound of a heartbeat."
+  },
+  "forehead": {
+    "definition": "The flat part of your face above your eyes.",
+    "chinese": "額頭",
+    "example": "She gently stroked the baby's forehead."
+  },
+  "cot": {
+    "definition": "A small bed with high sides for a baby.",
+    "chinese": "嬰兒床",
+    "example": "We moved the baby from our bed to the cot."
+  },
+  "distressed": {
+    "definition": "Very upset and worried.",
+    "chinese": "痛苦的；非常不安的",
+    "example": "If your baby becomes distressed, go back to the comfort baseline."
+  },
+  "aghast": {
+    "definition": "Shocked and upset by something.",
+    "chinese": "驚駭的",
+    "example": "She was aghast at the idea of sleeping alone."
+  },
+  "arrangement": {
+    "definition": "A plan or agreement about how to do something.",
+    "chinese": "安排",
+    "example": "They made an arrangement about bedtime."
+  },
+  "volition": {
+    "definition": "Your own free choice; doing something because you want to.",
+    "chinese": "自願",
+    "example": "She started going to bed of her own volition."
+  },
+  "cosiness": {
+    "definition": "A warm, comfortable, and safe feeling.",
+    "chinese": "溫馨",
+    "example": "The child's bed was full of cosiness and warmth."
+  },
+  "reluctant": {
+    "definition": "Not willing to do something; hesitant.",
+    "chinese": "不情願的",
+    "example": "The child was reluctant to go to bed."
+  },
+  "desperation": {
+    "definition": "A feeling of having no hope and being willing to try anything.",
+    "chinese": "絕望",
+    "example": "Bedtime should not be about loneliness and desperation."
+  },
+  "encouragement": {
+    "definition": "Words or actions that give someone hope and confidence.",
+    "chinese": "鼓勵",
+    "example": "With encouragement, the child learned to sleep alone."
+  },
+  "punishment": {
+    "definition": "Something bad that happens to someone because they did something wrong.",
+    "chinese": "懲罰",
+    "example": "Punishment does not help children learn good habits."
+  },
+  "tricked": {
+    "definition": "Fooled or deceived into doing something.",
+    "chinese": "被欺騙的",
+    "example": "Children who feel tricked lose trust in their parents."
+  },
+  "manipulated": {
+    "definition": "Controlled or influenced in a clever but unfair way.",
+    "chinese": "被操控的",
+    "example": "No child should feel manipulated into sleeping."
+  },
+  "enhance": {
+    "definition": "To make something better or stronger.",
+    "chinese": "增強",
+    "example": "Good communication can enhance your bond with your child."
+  },
+  "lifelong": {
+    "definition": "Lasting for your whole life.",
+    "chinese": "終生的",
+    "example": "Early experiences shape lifelong habits."
+  },
+  "implement": {
+    "definition": "To start using a plan or system.",
+    "chinese": "實施",
+    "example": "Try to implement small changes one step at a time."
+  },
+  "disempowering": {
+    "definition": "Taking away someone's power or ability to do things.",
+    "chinese": "使失去能力的",
+    "example": "Doing everything for your child can be disempowering."
+  },
+  "comfort zone": {
+    "definition": "The area where you feel safe and not worried.",
+    "chinese": "舒適圈",
+    "example": "Nudge children to the edge of their comfort zone, not beyond."
+  },
+  "guidance": {
+    "definition": "Help and advice about what to do.",
+    "chinese": "指導",
+    "example": "Children need gentle guidance from their parents."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "straightforward": {
+    "definition": "Simple and easy to understand, without any hidden meaning.",
+    "chinese": "簡單明瞭的",
+    "example": "The instructions were straightforward and easy to follow."
+  },
+  "parenting": {
+    "definition": "The activity of raising and caring for children.",
+    "chinese": "育兒",
+    "example": "Parenting requires patience and love."
+  },
+  "potty-training": {
+    "definition": "Teaching a young child to use the toilet instead of a diaper.",
+    "chinese": "如廁訓練",
+    "example": "Potty-training can take several months."
+  },
+  "weaning": {
+    "definition": "Gradually stopping breastfeeding and starting to give a baby other food.",
+    "chinese": "斷奶",
+    "example": "She started weaning her baby at six months old."
+  },
+  "relationships": {
+    "definition": "The way two or more people are connected and feel about each other.",
+    "chinese": "關係",
+    "example": "Strong relationships are built on trust."
+  },
+  "connection": {
+    "definition": "A feeling of closeness and understanding between people.",
+    "chinese": "連結",
+    "example": "Parents need a deep connection with their children."
+  },
+  "enhance": {
+    "definition": "To make something better or stronger.",
+    "chinese": "增強",
+    "example": "Music can enhance your mood."
+  },
+  "bearing": {
+    "definition": "An influence or effect on something.",
+    "chinese": "影響",
+    "example": "Your childhood has a bearing on who you become."
+  },
+  "parent": {
+    "definition": "A mother or father who takes care of a child.",
+    "chinese": "父母",
+    "example": "Every parent wants the best for their child."
+  },
+  "mistakes": {
+    "definition": "Things done wrong or incorrectly.",
+    "chinese": "錯誤",
+    "example": "Everyone makes mistakes sometimes."
+  },
+  "tips": {
+    "definition": "Small pieces of useful advice.",
+    "chinese": "小建議",
+    "example": "She gave me some tips on cooking."
+  },
+  "tricks": {
+    "definition": "Clever methods to get something done easily.",
+    "chinese": "技巧",
+    "example": "He knows a few tricks for saving money."
+  },
+  "hacks": {
+    "definition": "Quick and clever ways to solve a problem or make life easier.",
+    "chinese": "竅門",
+    "example": "This kitchen hack saves a lot of time."
+  },
+  "upset": {
+    "definition": "To make someone feel sad, worried, or unhappy.",
+    "chinese": "使不安",
+    "example": "The bad news upset her."
+  },
+  "angry": {
+    "definition": "Feeling strong displeasure about something unfair or wrong.",
+    "chinese": "生氣的",
+    "example": "He was angry when he heard the lie."
+  },
+  "brought": {
+    "definition": "Past tense of 'bring'; here means raised or grown up.",
+    "chinese": "被撫養",
+    "example": "She was brought up in a small town."
+  },
+  "wish": {
+    "definition": "To want something that is not easy to have or that did not happen.",
+    "chinese": "希望",
+    "example": "I wish I had studied harder in school."
+  },
+  "details": {
+    "definition": "Small, specific pieces of information about something.",
+    "chinese": "細節",
+    "example": "Please give me more details about the plan."
+  }
+}

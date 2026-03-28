@@ -1,0 +1,332 @@
+{
+  "explanations": {
+    "definition": "Reasons or information given to help someone understand something.",
+    "chinese": "解釋",
+    "example": "His explanations did not make the child feel better."
+  },
+  "unhelpful": {
+    "definition": "Not useful or not making things better.",
+    "chinese": "沒有幫助的",
+    "example": "Saying 'you're tired' is often an unhelpful explanation."
+  },
+  "situations": {
+    "definition": "The conditions or events happening at a particular time.",
+    "chinese": "情況",
+    "example": "Difficult situations arise when children are upset."
+  },
+  "arise": {
+    "definition": "To happen or appear.",
+    "chinese": "出現",
+    "example": "Problems can arise when you least expect them."
+  },
+  "certainty": {
+    "definition": "The feeling of being completely sure about something.",
+    "chinese": "確定性",
+    "example": "Parents often look for certainty about why a child is crying."
+  },
+  "refusing": {
+    "definition": "Saying no or not being willing to do something.",
+    "chinese": "拒絕",
+    "example": "The child was refusing to eat dinner."
+  },
+  "curious": {
+    "definition": "Wanting to learn or know more about something.",
+    "chinese": "好奇的",
+    "example": "Stay curious about why your child is upset."
+  },
+  "factor": {
+    "definition": "One of the things that affects a situation or result.",
+    "chinese": "因素",
+    "example": "Being tired was one factor in his bad mood."
+  },
+  "fury": {
+    "definition": "Very strong anger.",
+    "chinese": "狂怒",
+    "example": "The wrong explanation added to her fury."
+  },
+  "accurate": {
+    "definition": "Correct and true, without mistakes.",
+    "chinese": "準確的",
+    "example": "The description was not an accurate mirror of her feelings."
+  },
+  "mirror": {
+    "definition": "Something that shows or reflects the truth of a situation.",
+    "chinese": "反映",
+    "example": "His words were not a mirror of what she felt."
+  },
+  "misunderstood": {
+    "definition": "Not understood correctly by others.",
+    "chinese": "被誤解的",
+    "example": "The child felt misunderstood when no one listened."
+  },
+  "interpretations": {
+    "definition": "Ways of explaining or understanding the meaning of something.",
+    "chinese": "解讀",
+    "example": "There are many interpretations for a child's behaviour."
+  },
+  "harmful": {
+    "definition": "Causing damage or hurt.",
+    "chinese": "有害的",
+    "example": "Some explanations can be harmful for a child to hear."
+  },
+  "recognizing": {
+    "definition": "Seeing and understanding something clearly.",
+    "chinese": "認識到",
+    "example": "Recognizing your own patterns is the first step to change."
+  },
+  "repair": {
+    "definition": "To fix something that is broken or damaged.",
+    "chinese": "修復",
+    "example": "You can repair the relationship by listening more."
+  },
+  "secure": {
+    "definition": "Feeling safe and protected.",
+    "chinese": "安全的",
+    "example": "A child who feels secure doesn't need to act out."
+  },
+  "maladaptive": {
+    "definition": "A way of coping that does not work well and causes more problems.",
+    "chinese": "適應不良的",
+    "example": "Screaming for attention is a maladaptive behaviour."
+  },
+  "twigged": {
+    "definition": "Suddenly understood or realized something (informal British).",
+    "chinese": "突然明白",
+    "example": "I twigged that she wanted attention, not an apple."
+  },
+  "shamed": {
+    "definition": "Made to feel bad or embarrassed about something.",
+    "chinese": "被羞辱的",
+    "example": "She was not shamed for wanting attention."
+  },
+  "manipulative": {
+    "definition": "Trying to control people in a clever but unfair way.",
+    "chinese": "操縱的",
+    "example": "Toddlers are not being manipulative when they cry."
+  },
+  "malice": {
+    "definition": "The wish to cause harm or hurt to someone on purpose.",
+    "chinese": "惡意",
+    "example": "Young children do not act with malice."
+  },
+  "aforethought": {
+    "definition": "Planned or thought about before doing something.",
+    "chinese": "預謀的",
+    "example": "Toddlers cannot practise malice aforethought."
+  },
+  "tantrum": {
+    "definition": "A sudden period of uncontrolled anger, usually by a child.",
+    "chinese": "發脾氣",
+    "example": "The child had a tantrum in the shop."
+  },
+  "kicking": {
+    "definition": "Hitting with the foot.",
+    "chinese": "踢",
+    "example": "The toddler was kicking during the tantrum."
+  },
+  "strategy": {
+    "definition": "A plan made to reach a goal.",
+    "chinese": "策略",
+    "example": "Screaming is not a pre-planned strategy for toddlers."
+  },
+  "conveniently": {
+    "definition": "In a way that is easy and causes no trouble.",
+    "chinese": "方便地",
+    "example": "Help your child express feelings more conveniently."
+  },
+  "amateur": {
+    "definition": "Someone who is not professional or skilled at something.",
+    "chinese": "業餘的",
+    "example": "The tantrum seemed like amateur dramatics."
+  },
+  "dramatics": {
+    "definition": "Behaviour that is overly emotional, like acting in a play.",
+    "chinese": "戲劇化表現",
+    "example": "Her crying seemed more like dramatics than real sadness."
+  },
+  "trick": {
+    "definition": "To make someone believe something that is not true.",
+    "chinese": "欺騙",
+    "example": "The child was trying to trick her into skipping homework."
+  },
+  "wind up": {
+    "definition": "To annoy or make someone angry (informal British).",
+    "chinese": "惹怒",
+    "example": "She wasn't trying to wind me up, she just couldn't explain."
+  },
+  "frustration": {
+    "definition": "The feeling of being annoyed because you cannot do what you want.",
+    "chinese": "挫折感",
+    "example": "Children need help dealing with frustration."
+  },
+  "impact": {
+    "definition": "A strong effect on something or someone.",
+    "chinese": "影響",
+    "example": "She had no idea of the impact her behaviour was having."
+  },
+  "calculate": {
+    "definition": "To work out or figure out something carefully.",
+    "chinese": "計算",
+    "example": "Young children cannot calculate how to upset you."
+  },
+  "plonked": {
+    "definition": "Put down heavily or without care (informal British).",
+    "chinese": "重重地放下",
+    "example": "She plonked herself down on the floor and refused to move."
+  },
+  "vocabulary": {
+    "definition": "All the words a person knows and uses.",
+    "chinese": "詞彙",
+    "example": "Children learn vocabulary by listening to their parents."
+  },
+  "model": {
+    "definition": "To show by example how to do something.",
+    "chinese": "示範",
+    "example": "Parents model good behaviour for their children."
+  },
+  "biscuit": {
+    "definition": "A small, flat, baked food, often sweet (British word for cookie).",
+    "chinese": "餅乾",
+    "example": "The child asked for a biscuit after lunch."
+  },
+  "complicated": {
+    "definition": "Having many parts and hard to understand or do.",
+    "chinese": "複雜的",
+    "example": "Learning to describe feelings is more complicated than asking for food."
+  },
+  "social": {
+    "definition": "Related to being with other people and getting along with them.",
+    "chinese": "社交的",
+    "example": "Some children learn social skills more slowly."
+  },
+  "flexible": {
+    "definition": "Able to change and adjust to new situations easily.",
+    "chinese": "靈活的",
+    "example": "Young children take time to learn how to be flexible."
+  },
+  "appropriate": {
+    "definition": "Right or suitable for a particular situation.",
+    "chinese": "適當的",
+    "example": "Help your child find appropriate ways to express feelings."
+  },
+  "fathom": {
+    "definition": "To understand something difficult or mysterious.",
+    "chinese": "理解",
+    "example": "You will not always be able to fathom what is going on."
+  },
+  "punitive": {
+    "definition": "Meant to punish someone.",
+    "chinese": "懲罰性的",
+    "example": "Being punitive does not help a child learn."
+  },
+  "distress": {
+    "definition": "A feeling of great worry, sadness, or pain.",
+    "chinese": "痛苦",
+    "example": "Be kind to a child in distress."
+  },
+  "nurture": {
+    "definition": "To care for and help someone grow and develop.",
+    "chinese": "培養",
+    "example": "Kindness will nurture your relationship with your child."
+  },
+  "hinder": {
+    "definition": "To make it harder for something to happen or develop.",
+    "chinese": "阻礙",
+    "example": "Punishment can hinder your relationship with your child."
+  },
+  "reassurance": {
+    "definition": "Words or actions that help someone feel less worried.",
+    "chinese": "安慰",
+    "example": "Sometimes parents need reassurance about their child's behaviour."
+  },
+  "peers": {
+    "definition": "People who are the same age or in the same group as you.",
+    "chinese": "同齡人",
+    "example": "Her behaviour seemed stuck compared to her peers."
+  },
+  "therapist": {
+    "definition": "A trained person who helps people with emotional or mental problems.",
+    "chinese": "治療師",
+    "example": "A family therapist can help when things feel stuck."
+  },
+  "diagnosis": {
+    "definition": "A doctor's decision about what illness or condition someone has.",
+    "chinese": "診斷",
+    "example": "The diagnosis helped them understand their child better."
+  },
+  "relief": {
+    "definition": "A feeling of comfort when something difficult is over or understood.",
+    "chinese": "寬慰",
+    "example": "The diagnosis felt like a relief to the parents."
+  },
+  "downside": {
+    "definition": "The bad part or disadvantage of something.",
+    "chinese": "缺點",
+    "example": "The downside of a label is that it can close a door."
+  },
+  "judgement": {
+    "definition": "A decision or opinion about someone or something.",
+    "chinese": "判斷",
+    "example": "A diagnosis can feel like a judgement on the child."
+  },
+  "label": {
+    "definition": "A word or phrase used to describe someone, often unfairly.",
+    "chinese": "標籤",
+    "example": "A label can make people think things will never get better."
+  },
+  "optimism": {
+    "definition": "The feeling that good things will happen in the future.",
+    "chinese": "樂觀",
+    "example": "Don't lose your optimism about your child."
+  },
+  "medicalized": {
+    "definition": "Treated as a medical problem when it may not need to be.",
+    "chinese": "醫療化的",
+    "example": "Some normal behaviours become medicalized too quickly."
+  },
+  "diagnosed": {
+    "definition": "Identified as having a particular illness or condition by a doctor.",
+    "chinese": "被診斷的",
+    "example": "More children born in August are diagnosed with ADHD."
+  },
+  "disorder": {
+    "definition": "A medical condition where something in the body or mind does not work normally.",
+    "chinese": "障礙",
+    "example": "ADHD is a disorder that affects attention and activity."
+  },
+  "mature": {
+    "definition": "Fully grown or developed in mind or behaviour.",
+    "chinese": "成熟的",
+    "example": "Younger children in a class may be less mature than older ones."
+  },
+  "inhibit": {
+    "definition": "To stop or slow something from happening.",
+    "chinese": "抑制",
+    "example": "Some medicine is designed to inhibit certain behaviours."
+  },
+  "resort": {
+    "definition": "Something you do when everything else has failed.",
+    "chinese": "最後手段",
+    "example": "Medicine should be a very last resort."
+  },
+  "cope": {
+    "definition": "To deal with something difficult successfully.",
+    "chinese": "應對",
+    "example": "If you cannot cope, seek professional help."
+  },
+  "professional": {
+    "definition": "A person who is trained and skilled in a particular job.",
+    "chinese": "專業的",
+    "example": "Seek professional help if you are struggling."
+  },
+  "untangle": {
+    "definition": "To sort out something that is mixed up or confused.",
+    "chinese": "解開",
+    "example": "It can take time to untangle bad habits."
+  },
+  "habits": {
+    "definition": "Things you do regularly, often without thinking about it.",
+    "chinese": "習慣",
+    "example": "Good habits help build strong relationships."
+  }
+}

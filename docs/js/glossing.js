@@ -67,12 +67,19 @@
   async function loadGlossary(path) {
     // Derive glossary path from the current page
     // Hash may or may not include .md extension
-    // e.g., books/philippa-perry/chapter-01 -> books/philippa-perry/glossary-01.json
+    // e.g., books/philippa-perry/part1-01-the-past-comes-back → glossaries/part1-01-the-past-comes-back.json
     const cleanPath = path.replace(/\.md$/, '');
-    const glossaryPath = cleanPath.replace(/chapter-(\d+)$/, 'glossary-$1.json');
 
-    // Only attempt fetch if we actually transformed the path
-    if (glossaryPath === cleanPath) {
+    // Extract the filename (last segment of the path)
+    const parts = cleanPath.split('/');
+    const filename = parts[parts.length - 1];
+
+    // Build glossary path: same directory level, under glossaries/
+    const dir = parts.slice(0, -1).join('/');
+    const glossaryPath = (dir ? dir + '/' : '') + 'glossaries/' + filename + '.json';
+
+    // Skip home/root pages
+    if (!filename || filename === 'home' || filename === 'README') {
       currentGlossary = {};
       return;
     }

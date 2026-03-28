@@ -1,0 +1,167 @@
+{
+  "ghosts": {
+    "definition": "spirits of dead people that some believe can appear to the living",
+    "chinese": "鬼",
+    "example": "The child was afraid of ghosts in the dark room."
+  },
+  "monsters": {
+    "definition": "scary creatures, often imaginary",
+    "chinese": "怪物",
+    "example": "He said there were monsters under his bed."
+  },
+  "dismissing": {
+    "definition": "treating something as not important or not worth thinking about",
+    "chinese": "不予理會",
+    "example": "Dismissing her fear did not help her feel better."
+  },
+  "vanquish": {
+    "definition": "to defeat something completely",
+    "chinese": "打敗；征服",
+    "example": "Together they made up a story to vanquish the monsters."
+  },
+  "soothed": {
+    "definition": "made to feel calm and less upset",
+    "chinese": "被安撫的",
+    "example": "The child felt soothed after his mother held him."
+  },
+  "silly": {
+    "definition": "not serious, foolish, not worth worrying about",
+    "chinese": "傻的；可笑的",
+    "example": "She told him not to be silly about the dark."
+  },
+  "impatience": {
+    "definition": "the feeling of not wanting to wait, being annoyed by delay",
+    "chinese": "不耐煩",
+    "example": "His impatience at bedtime made the child feel rushed."
+  },
+  "bedtime": {
+    "definition": "the time when you go to sleep",
+    "chinese": "就寢時間",
+    "example": "The children had a set bedtime every night."
+  },
+  "complicated": {
+    "definition": "having many parts, hard to understand",
+    "chinese": "複雜的",
+    "example": "Feelings can be complicated, even for adults."
+  },
+  "articulate": {
+    "definition": "to express a thought or feeling clearly in words",
+    "chinese": "清楚表達",
+    "example": "A young child may not be able to articulate their fears."
+  },
+  "trace": {
+    "definition": "to find the beginning or cause of something",
+    "chinese": "追溯",
+    "example": "It was hard to trace where his fear started."
+  },
+  "source": {
+    "definition": "the place where something begins or comes from",
+    "chinese": "來源",
+    "example": "We could not find the source of her worry."
+  },
+  "communication": {
+    "definition": "sharing thoughts or feelings with another person, by talking or other ways",
+    "chinese": "溝通",
+    "example": "Good communication between parents and children is important."
+  },
+  "distinction": {
+    "definition": "a clear difference between two things",
+    "chinese": "區別",
+    "example": "The distinction between safe and dangerous is clear to adults."
+  },
+  "assume": {
+    "definition": "to believe something is true without checking",
+    "chinese": "假設",
+    "example": "We should not assume children see things the same way we do."
+  },
+  "creepy": {
+    "definition": "making you feel scared or uncomfortable in a strange way",
+    "chinese": "令人毛骨悚然的",
+    "example": "The creepy house made the children afraid to go inside."
+  },
+  "lentil": {
+    "definition": "a small, round seed that is cooked and eaten as food",
+    "chinese": "扁豆",
+    "example": "Granny made a warm lentil stew for dinner."
+  },
+  "stew": {
+    "definition": "a hot dish made by cooking meat or vegetables slowly in liquid",
+    "chinese": "燉菜",
+    "example": "The stew was thick and full of vegetables."
+  },
+  "icky": {
+    "definition": "something that feels bad or disgusting (informal word)",
+    "chinese": "討厭的；噁心的",
+    "example": "The child said the food tasted icky."
+  },
+  "irrelevant": {
+    "definition": "not connected to what is being discussed, not important",
+    "chinese": "不相關的",
+    "example": "He thought her complaint was irrelevant."
+  },
+  "humiliation": {
+    "definition": "a very strong feeling of shame or embarrassment",
+    "chinese": "羞辱",
+    "example": "The humiliation of being laughed at stopped her from sharing."
+  },
+  "extreme": {
+    "definition": "very great in degree, much more than normal",
+    "chinese": "極端的",
+    "example": "This may seem like an extreme example."
+  },
+  "register": {
+    "definition": "to notice or become aware of something",
+    "chinese": "注意到",
+    "example": "The child did not register the danger in the same way."
+  },
+  "alarm": {
+    "definition": "a feeling of fear or worry that something bad might happen",
+    "chinese": "警覺",
+    "example": "She felt alarm when she heard the strange noise."
+  },
+  "inappropriately": {
+    "definition": "in a way that is not right or suitable for the situation",
+    "chinese": "不恰當地",
+    "example": "Being touched inappropriately is never okay."
+  },
+  "assault": {
+    "definition": "a sudden attack on someone's body or feelings",
+    "chinese": "侵犯",
+    "example": "Both experiences felt like an assault on her senses."
+  },
+  "senses": {
+    "definition": "the ways your body takes in the world: sight, hearing, touch, taste, smell",
+    "chinese": "感官",
+    "example": "The loud noise was an assault on their senses."
+  },
+  "sexuality": {
+    "definition": "things related to physical attraction and the body",
+    "chinese": "性相關的事物",
+    "example": "A young child has not yet understood sexuality."
+  },
+  "representing": {
+    "definition": "standing for or meaning something else",
+    "chinese": "代表著",
+    "example": "The monsters might be representing a deeper fear."
+  },
+  "complain": {
+    "definition": "to say that something is wrong or that you are not happy about it",
+    "chinese": "抱怨",
+    "example": "The child wanted to complain but was afraid of being laughed at."
+  },
+  "filed": {
+    "definition": "put into a group or category in your mind",
+    "chinese": "歸類",
+    "example": "Both feelings were filed under something icky in the child's mind."
+  },
+  "clam": {
+    "definition": "to become quiet and stop talking (clam up)",
+    "chinese": "沉默不語",
+    "example": "If you laugh at children, they will clam up."
+  },
+  "dangerous": {
+    "definition": "able to cause harm or hurt someone",
+    "chinese": "危險的",
+    "example": "Closing down communication can be a dangerous thing."
+  }
+}

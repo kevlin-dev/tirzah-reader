@@ -1,0 +1,247 @@
+{
+  "tribe": {
+    "definition": "a group of people who share the same beliefs or way of living",
+    "chinese": "族群",
+    "example": "What is your parent tribe — are you a regulator or a facilitator?"
+  },
+  "seminal": {
+    "definition": "very important and influential, having a big effect on what comes after",
+    "chinese": "開創性的",
+    "example": "The seminal book on parenting types was published thirty years ago."
+  },
+  "regulators": {
+    "definition": "parents who prefer set routines and schedules for their children",
+    "chinese": "規律型父母",
+    "example": "Regulators like to keep the same daily routine."
+  },
+  "facilitators": {
+    "definition": "parents who follow the child's lead rather than setting fixed routines",
+    "chinese": "引導型父母",
+    "example": "Facilitators respond to what the baby seems to need."
+  },
+  "adult-centric": {
+    "definition": "focused on the needs and preferences of the adult",
+    "chinese": "以成人為中心的",
+    "example": "Regulators tend to be more adult-centric in their approach."
+  },
+  "routine-led": {
+    "definition": "organized around a set schedule of activities",
+    "chinese": "以常規為導向的",
+    "example": "A routine-led approach means doing the same thing at the same time."
+  },
+  "child-centric": {
+    "definition": "focused on the needs and feelings of the child",
+    "chinese": "以孩子為中心的",
+    "example": "Facilitators take a child-centric approach to parenting."
+  },
+  "infant": {
+    "definition": "a very young baby",
+    "chinese": "嬰兒",
+    "example": "Facilitators go with the flow of the infant."
+  },
+  "philosophy": {
+    "definition": "a set of beliefs about how to live or do something",
+    "chinese": "理念",
+    "example": "Each parent has their own parenting philosophy."
+  },
+  "predictability": {
+    "definition": "the quality of being expected and reliable, not surprising",
+    "chinese": "可預測性",
+    "example": "Both types of parents believe predictability is important."
+  },
+  "predictable": {
+    "definition": "happening in a way you can expect",
+    "chinese": "可預測的",
+    "example": "A predictable response helps the baby feel safe."
+  },
+  "cues": {
+    "definition": "signals or signs that tell you something",
+    "chinese": "信號",
+    "example": "The baby's cues are responded to by the facilitator parent."
+  },
+  "leaning": {
+    "definition": "a preference or tendency toward something",
+    "chinese": "傾向",
+    "example": "You will have a leaning towards being one type or the other."
+  },
+  "fluid": {
+    "definition": "not fixed, able to change easily",
+    "chinese": "靈活的",
+    "example": "The roles of regulator and facilitator are fluid."
+  },
+  "lob": {
+    "definition": "to throw something in a careless way",
+    "chinese": "隨意丟出",
+    "example": "It is not helpful to lob facts at each other to prove your point."
+  },
+  "statistics": {
+    "definition": "numbers and data used to understand or prove something",
+    "chinese": "統計數據",
+    "example": "Quoting statistics will not help you agree with your partner."
+  },
+  "entrenched": {
+    "definition": "stuck firmly in a position and unwilling to change",
+    "chinese": "根深蒂固的",
+    "example": "Admitting your feelings may help you become less entrenched."
+  },
+  "inclined": {
+    "definition": "having a tendency or preference to do something",
+    "chinese": "傾向於",
+    "example": "Whichever philosophy you are more inclined to follow, be kind."
+  },
+  "acceptance": {
+    "definition": "the willingness to receive and be okay with something",
+    "chinese": "接納",
+    "example": "Acceptance and warmth matter most with children."
+  },
+  "warmth": {
+    "definition": "a feeling of kindness, care, and friendliness",
+    "chinese": "溫暖",
+    "example": "Warmth and kindness are what matter most."
+  },
+  "upheaval": {
+    "definition": "a big change that causes confusion or trouble",
+    "chinese": "劇變",
+    "example": "Facilitators tend to give in to the emotional upheaval of pregnancy."
+  },
+  "inward-looking": {
+    "definition": "focused on your inner world, thoughts, and feelings",
+    "chinese": "內省的",
+    "example": "The facilitator becomes more inward-looking during pregnancy."
+  },
+  "marvelling": {
+    "definition": "feeling great wonder and amazement",
+    "chinese": "驚嘆",
+    "example": "She spent time marvelling at the baby growing inside her."
+  },
+  "unfurling": {
+    "definition": "opening up and spreading out, like a flower blooming",
+    "chinese": "展開",
+    "example": "She marvelled at the wonder unfurling inside her."
+  },
+  "persona": {
+    "definition": "the image or character you show to the world",
+    "chinese": "外在形象",
+    "example": "The regulator wants to cling to her normal persona."
+  },
+  "altered": {
+    "definition": "changed from what it was before",
+    "chinese": "改變的",
+    "example": "She tries not to give in to her altered state during pregnancy."
+  },
+  "invasive": {
+    "definition": "entering where it is not wanted, intrusive",
+    "chinese": "侵入性的",
+    "example": "A regulator may feel the pregnancy as invasive."
+  },
+  "enhanced": {
+    "definition": "made better or stronger",
+    "chinese": "增強的",
+    "example": "A facilitator feels her identity is enhanced by pregnancy."
+  },
+  "threatened": {
+    "definition": "feeling in danger or at risk",
+    "chinese": "受到威脅的",
+    "example": "A regulator may feel her identity is threatened by pregnancy."
+  },
+  "transition": {
+    "definition": "a change from one state or stage to another",
+    "chinese": "轉變",
+    "example": "Facilitators see birth as a mutual transition for mother and baby."
+  },
+  "merely": {
+    "definition": "only, nothing more than",
+    "chinese": "僅僅",
+    "example": "A regulator may see birth merely as a painful event."
+  },
+  "normalize": {
+    "definition": "to make something seem normal and acceptable",
+    "chinese": "正常化",
+    "example": "I mention these differences to help normalize your feelings."
+  },
+  "spectrum": {
+    "definition": "a range between two opposite points",
+    "chinese": "光譜；範圍",
+    "example": "Your peers may be on the opposite side of the spectrum to you."
+  },
+  "lonely": {
+    "definition": "feeling sad because you are alone or different from others",
+    "chinese": "孤獨的",
+    "example": "Being different from your parenting peers can feel lonely."
+  },
+  "directives": {
+    "definition": "instructions or orders telling you what to do",
+    "chinese": "指令",
+    "example": "There are many directives telling you the right way to parent."
+  },
+  "acknowledging": {
+    "definition": "accepting that something is true or real",
+    "chinese": "承認",
+    "example": "Acknowledging your feelings is the most important thing."
+  },
+  "inclinations": {
+    "definition": "natural tendencies to do or think in a certain way",
+    "chinese": "傾向",
+    "example": "Acknowledge your natural inclinations about parenting."
+  },
+  "expectant": {
+    "definition": "waiting for a baby to be born, about to become a parent",
+    "chinese": "準父母的",
+    "example": "This exercise is for expectant mothers and fathers."
+  },
+  "anxious": {
+    "definition": "feeling worried and nervous about something",
+    "chinese": "焦慮的",
+    "example": "Are you feeling anxious about becoming a parent?"
+  },
+  "expectations": {
+    "definition": "things you believe will happen or should happen",
+    "chinese": "期望",
+    "example": "Notice what expectations you have about becoming a parent."
+  },
+  "tricked": {
+    "definition": "made to believe something false, fooled",
+    "chinese": "被欺騙的",
+    "example": "Children should not be tricked into behaving well."
+  },
+  "manipulating": {
+    "definition": "controlling someone cleverly in an unfair way",
+    "chinese": "操控",
+    "example": "Think about relating to children rather than manipulating them."
+  },
+  "visualize": {
+    "definition": "to picture something in your mind",
+    "chinese": "想像",
+    "example": "Visualize your body becoming familiar to your baby."
+  },
+  "co-parenting": {
+    "definition": "raising a child together with a partner",
+    "chinese": "共同養育",
+    "example": "If you are co-parenting, discuss your feelings together."
+  },
+  "rupture": {
+    "definition": "a sudden break or tear in something",
+    "chinese": "破裂",
+    "example": "Do not believe you have caused a rupture that cannot be repaired."
+  },
+  "concentration": {
+    "definition": "the ability to focus your mind on one thing",
+    "chinese": "專注力",
+    "example": "There may be no reason you caused your child's concentration problems."
+  },
+  "environmental": {
+    "definition": "related to the conditions around you that affect your life",
+    "chinese": "環境的",
+    "example": "There may be no environmental reason why your child is the way they are."
+  },
+  "berating": {
+    "definition": "criticizing or scolding someone harshly",
+    "chinese": "嚴厲責備",
+    "example": "Berating yourself will not help anyone."
+  },
+  "hormones": {
+    "definition": "chemicals in your body that affect how you feel and grow",
+    "chinese": "荷爾蒙",
+    "example": "Stress in pregnancy can happen because of hormones."
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "downside": {
+    "definition": "The negative or bad part of something.",
+    "chinese": "缺點",
+    "example": "The downside of judgement is that it stops us from growing."
+  },
+  "judgement": {
+    "definition": "An opinion formed about whether something or someone is good or bad.",
+    "chinese": "判斷",
+    "example": "Judgement of yourself can be harmful."
+  },
+  "bugbear": {
+    "definition": "Something that annoys or bothers you a lot.",
+    "chinese": "令人煩惱的事",
+    "example": "Good parent/bad parent labels are my bugbear."
+  },
+  "labels": {
+    "definition": "Words or names used to describe or categorize someone.",
+    "chinese": "標籤",
+    "example": "Labels like 'good parent' or 'bad parent' are not helpful."
+  },
+  "extremes": {
+    "definition": "The furthest or most intense points; the very ends of a range.",
+    "chinese": "極端",
+    "example": "These labels are about extremes, not reality."
+  },
+  "perfectly": {
+    "definition": "In a way that has no mistakes or faults.",
+    "chinese": "完美地",
+    "example": "It is impossible to be perfectly attuned all the time."
+  },
+  "attuned": {
+    "definition": "Closely aware of and responsive to someone's feelings or needs.",
+    "chinese": "協調一致的",
+    "example": "No one can be perfectly attuned to their child."
+  },
+  "intentions": {
+    "definition": "Plans or purposes; what you mean to do.",
+    "chinese": "意圖",
+    "example": "Even good intentions can have bad results."
+  },
+  "consequences": {
+    "definition": "The results or effects of an action.",
+    "chinese": "後果",
+    "example": "Some good intentions can have harmful consequences."
+  },
+  "labelled": {
+    "definition": "Given a name or description, often in a way that is unfair or limiting.",
+    "chinese": "被貼上標籤的",
+    "example": "Nobody wants to be labelled a bad parent."
+  },
+  "humiliation": {
+    "definition": "A feeling of being deeply embarrassed or ashamed.",
+    "chinese": "羞辱",
+    "example": "To avoid the humiliation of the bad role, we get defensive."
+  },
+  "defensive": {
+    "definition": "Quick to protect yourself from criticism or blame.",
+    "chinese": "防禦性的",
+    "example": "We get defensive about our parenting mistakes."
+  },
+  "misattuning": {
+    "definition": "Failing to understand or respond correctly to someone's emotional needs.",
+    "chinese": "未能協調",
+    "example": "We don't examine ways we are misattuning to our children."
+  },
+  "neglecting": {
+    "definition": "Failing to care for or give enough attention to something or someone.",
+    "chinese": "忽視",
+    "example": "We may be neglecting their emotional needs."
+  },
+  "emotional": {
+    "definition": "Related to feelings.",
+    "chinese": "情感的",
+    "example": "Children have important emotional needs."
+  },
+  "identity": {
+    "definition": "Who you are; the qualities that make you a particular person.",
+    "chinese": "身份認同",
+    "example": "She clung to the identity of being a good mother."
+  },
+  "parental": {
+    "definition": "Related to being a parent.",
+    "chinese": "父母的",
+    "example": "Parental fear of facing mistakes is common."
+  },
+  "pretending": {
+    "definition": "Acting as if something is true when it is not.",
+    "chinese": "假裝",
+    "example": "Pretending your child's feelings don't matter causes harm."
+  },
+  "shaming": {
+    "definition": "Making someone feel shame or deep embarrassment.",
+    "chinese": "令人羞恥的",
+    "example": "It feels too shaming to admit our faults."
+  },
+  "faults": {
+    "definition": "Mistakes or weaknesses in a person.",
+    "chinese": "缺點",
+    "example": "We cannot improve if we can't admit our faults."
+  },
+  "attributes": {
+    "definition": "Qualities or characteristics used to describe someone.",
+    "chinese": "特質",
+    "example": "Let's drop good and bad as attributes for parents."
+  },
+  "wholly": {
+    "definition": "Completely; entirely.",
+    "chinese": "完全地",
+    "example": "No one is wholly saint or sinner."
+  },
+  "saint": {
+    "definition": "A very good and holy person.",
+    "chinese": "聖人",
+    "example": "No parent is wholly a saint."
+  },
+  "sinner": {
+    "definition": "A person who does wrong things.",
+    "chinese": "罪人",
+    "example": "No parent is wholly a sinner either."
+  },
+  "grumpy": {
+    "definition": "Bad-tempered and easily annoyed.",
+    "chinese": "脾氣暴躁的",
+    "example": "A grumpy but honest parent may be better than a fake one."
+  },
+  "frustrated": {
+    "definition": "Feeling annoyed because you cannot do what you want.",
+    "chinese": "感到挫折的",
+    "example": "A frustrated parent hiding behind sweetness is worse."
+  },
+  "resentful": {
+    "definition": "Feeling bitter and angry about something you think is unfair.",
+    "chinese": "怨恨的",
+    "example": "A resentful parent hiding behind a sweet facade is harmful."
+  },
+  "facade": {
+    "definition": "A false front that hides what is really behind it.",
+    "chinese": "假象",
+    "example": "She hid her frustration behind a facade of sweetness."
+  },
+  "syrupy": {
+    "definition": "Excessively sweet or sentimental in a way that is not real.",
+    "chinese": "甜膩做作的",
+    "example": "Her syrupy sweetness was not genuine."
+  },
+  "restriction": {
+    "definition": "A limit or rule that controls what you can do.",
+    "chinese": "限制",
+    "example": "It is hard to thrive with the restriction of a label."
+  },
+  "thrive": {
+    "definition": "To grow strong and healthy; to do very well.",
+    "chinese": "茁壯成長",
+    "example": "Children need freedom from labels to thrive."
+  },
+  "clumsy": {
+    "definition": "Moving in an awkward way; tending to drop things or fall.",
+    "chinese": "笨拙的",
+    "example": "Don't label a child as 'the clumsy one'."
+  },
+  "noisy": {
+    "definition": "Making a lot of loud sound.",
+    "chinese": "吵鬧的",
+    "example": "Calling a child 'the noisy one' is a limiting label."
+  },
+  "describe": {
+    "definition": "To tell what something is like using words.",
+    "chinese": "描述",
+    "example": "Describe what you see rather than judging."
+  },
+  "appreciate": {
+    "definition": "To recognize the value or good quality of something.",
+    "chinese": "欣賞",
+    "example": "Say what you appreciate about their effort."
+  },
+  "concentrating": {
+    "definition": "Giving all your attention to one thing.",
+    "chinese": "專注",
+    "example": "I liked how hard you were concentrating."
+  },
+  "sums": {
+    "definition": "Simple math problems, like addition or subtraction.",
+    "chinese": "算術題",
+    "example": "She was concentrating hard on her sums."
+  },
+  "impressed": {
+    "definition": "Feeling admiration because of how good something is.",
+    "chinese": "印象深刻的",
+    "example": "I am impressed by how much thought you put into this."
+  },
+  "drawing": {
+    "definition": "A picture made with a pen or pencil.",
+    "chinese": "畫",
+    "example": "She put a lot of thought into her drawing."
+  },
+  "praise": {
+    "definition": "Words that say someone did a good job.",
+    "chinese": "讚揚",
+    "example": "Praise effort rather than giving a general judgment."
+  },
+  "effort": {
+    "definition": "The physical or mental energy you use to do something.",
+    "chinese": "努力",
+    "example": "Praise the child's effort, not just the result."
+  },
+  "encouraging": {
+    "definition": "Giving support, hope, or confidence to someone.",
+    "chinese": "鼓勵的",
+    "example": "Describing what you see is more encouraging than just saying 'great job'."
+  },
+  "specific": {
+    "definition": "Clearly defined; about one particular thing.",
+    "chinese": "具體的",
+    "example": "Find something specific to appreciate."
+  },
+  "criticism": {
+    "definition": "Saying what is wrong with something or someone.",
+    "chinese": "批評",
+    "example": "Specific praise is more useful than criticism."
+  },
+  "untidy": {
+    "definition": "Not neat or organized; messy.",
+    "chinese": "凌亂的",
+    "example": "The page of writing was nearly an untidy mess."
+  },
+  "neatly": {
+    "definition": "In a clean, tidy, and organized way.",
+    "chinese": "整齊地",
+    "example": "I like how neatly you've written that letter."
+  },
+  "formed": {
+    "definition": "Shaped or made in a particular way.",
+    "chinese": "形成的",
+    "example": "The letter P was perfectly formed."
+  },
+  "hopefully": {
+    "definition": "Used to express a wish that something will happen.",
+    "chinese": "希望地",
+    "example": "Hopefully, next time you'll notice another letter too."
+  },
+  "suspending": {
+    "definition": "Stopping temporarily; putting on hold.",
+    "chinese": "暫停",
+    "example": "Try suspending judgement rather than deciding right away."
+  },
+  "conclusions": {
+    "definition": "Final decisions or opinions reached after thinking about something.",
+    "chinese": "結論",
+    "example": "Hold your conclusions lightly rather than rigidly."
+  },
+  "lightly": {
+    "definition": "Without too much force or seriousness; gently.",
+    "chinese": "輕鬆地",
+    "example": "Hold your conclusions lightly."
+  },
+  "rigidly": {
+    "definition": "In a stiff way that does not allow change.",
+    "chinese": "僵硬地",
+    "example": "Don't hold your conclusions rigidly."
+  },
+  "harm": {
+    "definition": "Damage or hurt caused to someone or something.",
+    "chinese": "傷害",
+    "example": "This approach will do less harm to everyone."
+  },
+  "matchless": {
+    "definition": "So good that nothing else can compare; unique.",
+    "chinese": "無可比擬的",
+    "example": "Every child is a matchless mix of genes and environment."
+  },
+  "genes": {
+    "definition": "The basic units passed from parents to children that determine physical and other qualities.",
+    "chinese": "基因",
+    "example": "Children are shaped by their genes and environment."
+  },
+  "environment": {
+    "definition": "The conditions and people around you that affect how you grow.",
+    "chinese": "環境",
+    "example": "You are a major part of your child's environment."
+  },
+  "responsibility": {
+    "definition": "The duty to take care of something or someone; being accountable.",
+    "chinese": "責任",
+    "example": "Take responsibility for how you react to your children."
+  },
+  "overlooked": {
+    "definition": "Not noticed; ignored or forgotten.",
+    "chinese": "被忽視的",
+    "example": "These important aspects of parenting are often overlooked."
+  },
+  "examining": {
+    "definition": "Looking at something carefully to understand it.",
+    "chinese": "檢視",
+    "example": "It is easier to examine children's behavior than our own."
+  },
+  "personality": {
+    "definition": "The qualities and traits that make a person who they are.",
+    "chinese": "性格",
+    "example": "Your reactions shape your child's personality."
+  },
+  "traits": {
+    "definition": "Qualities or characteristics of a person's character.",
+    "chinese": "特質",
+    "example": "Personality traits are shaped by environment."
+  },
+  "character": {
+    "definition": "The combination of qualities that makes someone who they are.",
+    "chinese": "品格",
+    "example": "A child's character is shaped by their experiences."
+  },
+  "witness": {
+    "definition": "To see something happen.",
+    "chinese": "目睹",
+    "example": "Children are shaped by what they witness at home."
+  },
+  "convinced": {
+    "definition": "Made someone feel certain that something is true.",
+    "chinese": "說服了的",
+    "example": "I hope I have convinced you to examine your reactions."
+  },
+  "judgemental": {
+    "definition": "Too quick to form negative opinions about others.",
+    "chinese": "愛批評的",
+    "example": "Try to be less judgemental about yourself."
+  },
+  "observe": {
+    "definition": "To watch carefully and pay attention to what is happening.",
+    "chinese": "觀察",
+    "example": "Instead of judging, observe what you do right."
+  },
+  "banning": {
+    "definition": "Not allowing; prohibiting.",
+    "chinese": "禁止",
+    "example": "I'm not totally banning the words 'good' or 'bad'."
+  },
+  "yoga": {
+    "definition": "A practice of physical exercises and breathing that improves body and mind.",
+    "chinese": "瑜伽",
+    "example": "I've improved at yoga since last week."
+  },
+  "baking": {
+    "definition": "Cooking food in an oven, especially bread or cakes.",
+    "chinese": "烘焙",
+    "example": "Concentrating on my baking is paying off."
+  },
+  "paying off": {
+    "definition": "Producing good results after effort.",
+    "chinese": "有了回報",
+    "example": "All your hard work is paying off."
+  },
+  "improved": {
+    "definition": "Got better over time.",
+    "chinese": "改善了",
+    "example": "I have improved at yoga since last week."
+  },
+  "behaviours": {
+    "definition": "Ways of acting or conducting yourself.",
+    "chinese": "行為",
+    "example": "We focus on children's behaviours rather than our own."
+  },
+  "shapes": {
+    "definition": "Influences and forms something over time.",
+    "chinese": "塑造",
+    "example": "How we respond to children shapes who they become."
+  },
+  "respond": {
+    "definition": "To react or reply to something.",
+    "chinese": "回應",
+    "example": "How we respond to children matters."
+  },
+  "affect": {
+    "definition": "To have an influence on; to change or impact.",
+    "chinese": "影響",
+    "example": "How your children affect you is worth examining."
+  },
+  "rupture": {
+    "definition": "A break or tear in a relationship caused by hurt.",
+    "chinese": "裂痕",
+    "example": "Mistakes matter less when you repair the rupture."
+  },
+  "repair": {
+    "definition": "To fix something that was broken or damaged.",
+    "chinese": "修復",
+    "example": "Changing your behavior can repair the rupture."
+  }
+}

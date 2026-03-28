@@ -1,0 +1,792 @@
+{
+  "bite": {
+    "definition": "Here used in the phrase 'come back to bite' meaning to cause problems later.",
+    "chinese": "反咬；造成後果",
+    "example": "Ignoring your problems will come back to bite you."
+  },
+  "legacy": {
+    "definition": "Something passed down from the past; what was left to you by earlier generations.",
+    "chinese": "遺產；傳承",
+    "example": "Our parents leave us a legacy of habits and values."
+  },
+  "cliche": {
+    "definition": "A phrase or idea that has been used so often it is no longer interesting or original.",
+    "chinese": "陳詞濫調",
+    "example": "Saying 'time heals all wounds' is a cliche."
+  },
+  "behaviour": {
+    "definition": "The way a person acts or conducts themselves.",
+    "chinese": "行為",
+    "example": "Her behaviour changed when she started school."
+  },
+  "consider": {
+    "definition": "To think carefully about something.",
+    "chinese": "考慮",
+    "example": "Consider how your words affect your child."
+  },
+  "essential": {
+    "definition": "Extremely important and necessary.",
+    "chinese": "必要的",
+    "example": "Sleep is essential for good health."
+  },
+  "role": {
+    "definition": "The part someone plays in a situation or in another person's life.",
+    "chinese": "角色",
+    "example": "Parents play a key role in their child's development."
+  },
+  "models": {
+    "definition": "People whose behaviour is copied by others, especially children.",
+    "chinese": "榜樣",
+    "example": "Parents are the first role models for children."
+  },
+  "influence": {
+    "definition": "The power to change how someone thinks, feels, or acts.",
+    "chinese": "影響",
+    "example": "Parents have a strong influence on their children."
+  },
+  "trigger": {
+    "definition": "To cause a strong emotional reaction, often from a past experience.",
+    "chinese": "觸發",
+    "example": "Loud noises can trigger fear in some people."
+  },
+  "mistakenly": {
+    "definition": "Done by mistake; wrongly.",
+    "chinese": "錯誤地",
+    "example": "She mistakenly thought he was angry at her."
+  },
+  "dealings": {
+    "definition": "The way you interact with or treat someone.",
+    "chinese": "交往；互動",
+    "example": "Be fair in your dealings with children."
+  },
+  "critic": {
+    "definition": "A voice (real or in your head) that finds fault and judges harshly.",
+    "chinese": "批評者",
+    "example": "Everyone has an inner critic that tells them they are not good enough."
+  },
+  "inner": {
+    "definition": "Inside your mind; not spoken out loud.",
+    "chinese": "內在的",
+    "example": "Your inner voice can be your biggest enemy."
+  },
+  "damaging": {
+    "definition": "Causing harm or injury.",
+    "chinese": "有害的",
+    "example": "Harsh words can be damaging to a child."
+  },
+  "generation": {
+    "definition": "All the people born and living around the same time; parents and children are different generations.",
+    "chinese": "世代",
+    "example": "Every generation faces different challenges."
+  },
+  "warmth": {
+    "definition": "A friendly and caring feeling toward someone.",
+    "chinese": "溫暖",
+    "example": "Children need warmth and love from their parents."
+  },
+  "boundaries": {
+    "definition": "Rules or limits that show what is acceptable behavior.",
+    "chinese": "界限",
+    "example": "Children need love and clear boundaries."
+  },
+  "soothing": {
+    "definition": "Making someone feel calm and less upset.",
+    "chinese": "令人安慰的",
+    "example": "A soothing voice can help a scared child."
+  },
+  "circumstances": {
+    "definition": "The conditions and facts around a situation.",
+    "chinese": "情況；環境",
+    "example": "Everyone's circumstances are different."
+  },
+  "childcare": {
+    "definition": "The care and supervision of children, especially by someone other than the parents.",
+    "chinese": "托兒照護",
+    "example": "Good childcare is hard to find."
+  },
+  "busyness": {
+    "definition": "The state of being very busy and having many things to do.",
+    "chinese": "忙碌",
+    "example": "Busyness can stop parents from spending time with their children."
+  },
+  "exhaustive": {
+    "definition": "Very thorough and complete, covering every detail.",
+    "chinese": "詳盡的",
+    "example": "This is not an exhaustive list of problems."
+  },
+  "confidence": {
+    "definition": "The feeling of believing in yourself and your abilities.",
+    "chinese": "信心",
+    "example": "Encouragement builds a child's confidence."
+  },
+  "pessimism": {
+    "definition": "The habit of expecting bad things to happen.",
+    "chinese": "悲觀",
+    "example": "His pessimism made it hard for him to enjoy life."
+  },
+  "defences": {
+    "definition": "Ways we protect ourselves from feeling painful emotions.",
+    "chinese": "防禦機制",
+    "example": "He built defences to avoid feeling hurt."
+  },
+  "overwhelmed": {
+    "definition": "Feeling like there is too much to handle; completely overcome.",
+    "chinese": "不堪重負的",
+    "example": "She felt overwhelmed by all her responsibilities."
+  },
+  "irritates": {
+    "definition": "Makes someone slightly angry or annoyed.",
+    "chinese": "惹惱",
+    "example": "It irritates me when people are late."
+  },
+  "expectations": {
+    "definition": "Beliefs about what should happen or what someone should be like.",
+    "chinese": "期望",
+    "example": "Parents often have high expectations for their children."
+  },
+  "millennia": {
+    "definition": "Thousands of years (plural of millennium).",
+    "chinese": "數千年",
+    "example": "Humans have been raising children for millennia."
+  },
+  "chain": {
+    "definition": "A series of connected things, one after another.",
+    "chinese": "鏈條",
+    "example": "Each generation is a link in a chain."
+  },
+  "reshape": {
+    "definition": "To change the form or character of something.",
+    "chinese": "重塑",
+    "example": "You can reshape your habits with practice."
+  },
+  "ditch": {
+    "definition": "To get rid of something you no longer want.",
+    "chinese": "丟棄",
+    "example": "It is time to ditch old bad habits."
+  },
+  "unpack": {
+    "definition": "To examine something carefully by looking at all its parts.",
+    "chinese": "拆解分析",
+    "example": "Let's unpack what happened during your childhood."
+  },
+  "familiar": {
+    "definition": "Well known to you because you have seen or experienced it before.",
+    "chinese": "熟悉的",
+    "example": "The feeling was painfully familiar."
+  },
+  "examine": {
+    "definition": "To look at something carefully and in detail.",
+    "chinese": "檢視",
+    "example": "Take time to examine your own behavior."
+  },
+  "respected": {
+    "definition": "Treated with care and consideration; valued.",
+    "chinese": "被尊重的",
+    "example": "Every child deserves to be respected."
+  },
+  "unconditional": {
+    "definition": "Without any conditions or limits; complete and total.",
+    "chinese": "無條件的",
+    "example": "Parents should give their children unconditional love."
+  },
+  "rewarding": {
+    "definition": "Giving you satisfaction and a sense of achievement.",
+    "chinese": "有回報的",
+    "example": "Having close family relationships is very rewarding."
+  },
+  "blueprint": {
+    "definition": "A detailed plan or guide for how to build or do something.",
+    "chinese": "藍圖",
+    "example": "A happy childhood gives you a blueprint for good relationships."
+  },
+  "functional": {
+    "definition": "Working well; healthy and effective.",
+    "chinese": "正常運作的",
+    "example": "They built a functional and loving family."
+  },
+  "contribute": {
+    "definition": "To give something (effort, time, ideas) to help achieve a result.",
+    "chinese": "貢獻",
+    "example": "Everyone can contribute to the community."
+  },
+  "proportion": {
+    "definition": "A part or share of a whole group.",
+    "chinese": "比例",
+    "example": "A large proportion of people struggle with this."
+  },
+  "discomfort": {
+    "definition": "A feeling of being slightly upset, uneasy, or in pain.",
+    "chinese": "不適感",
+    "example": "Looking at your past may bring some discomfort."
+  },
+  "self-aware": {
+    "definition": "Knowing your own feelings, character, and behaviour.",
+    "chinese": "有自我覺察的",
+    "example": "Being self-aware helps you become a better parent."
+  },
+  "mindful": {
+    "definition": "Paying careful attention to your thoughts and feelings in the moment.",
+    "chinese": "留心的",
+    "example": "Be mindful of how your words affect your child."
+  },
+  "inherited": {
+    "definition": "Received from parents or earlier generations through behavior or genes.",
+    "chinese": "繼承的",
+    "example": "Many of our habits are inherited from our parents."
+  },
+  "awareness": {
+    "definition": "Knowledge and understanding of what is happening.",
+    "chinese": "意識",
+    "example": "Self-awareness is the first step to change."
+  },
+  "rooted": {
+    "definition": "Coming from or based in something deep.",
+    "chinese": "根植於",
+    "example": "His anger was rooted in his childhood."
+  },
+  "illustrate": {
+    "definition": "To show or explain something by giving an example.",
+    "chinese": "說明",
+    "example": "This story will illustrate my point."
+  },
+  "psychotherapist": {
+    "definition": "A person trained to help people with emotional problems by talking with them.",
+    "chinese": "心理治療師",
+    "example": "A psychotherapist can help you understand your feelings."
+  },
+  "mentioning": {
+    "definition": "Talking about something briefly.",
+    "chinese": "提到",
+    "example": "I'm mentioning this because it is important."
+  },
+  "well-meaning": {
+    "definition": "Having good intentions, even if the result is not perfect.",
+    "chinese": "好意的",
+    "example": "She was well-meaning but her advice was wrong."
+  },
+  "slip": {
+    "definition": "To accidentally fall into an old habit or pattern.",
+    "chinese": "不小心滑入",
+    "example": "Even experts slip into old patterns sometimes."
+  },
+  "warp": {
+    "definition": "A period where you are mentally transported to another time.",
+    "chinese": "扭曲；時空穿越",
+    "example": "Old feelings can create an emotional time warp."
+  },
+  "climbing": {
+    "definition": "The activity of going up something using your hands and feet.",
+    "chinese": "攀爬",
+    "example": "The children played on the climbing frame."
+  },
+  "frame": {
+    "definition": "A structure made of bars or poles for climbing or supporting something.",
+    "chinese": "架子",
+    "example": "She got stuck on the climbing frame."
+  },
+  "furious": {
+    "definition": "Extremely angry.",
+    "chinese": "狂怒的",
+    "example": "He was furious when he found out the truth."
+  },
+  "ridiculous": {
+    "definition": "Very silly or unreasonable.",
+    "chinese": "荒謬的",
+    "example": "The idea seemed ridiculous at first."
+  },
+  "howled": {
+    "definition": "Cried very loudly with a long sound.",
+    "chinese": "嚎啕大哭",
+    "example": "The child howled when she fell down."
+  },
+  "guilt": {
+    "definition": "A feeling of having done something wrong.",
+    "chinese": "內疚",
+    "example": "He felt a flash of guilt about his behavior."
+  },
+  "fearfully": {
+    "definition": "In a way that shows fear or worry.",
+    "chinese": "害怕地",
+    "example": "The child looked up fearfully at her parent."
+  },
+  "encouraging": {
+    "definition": "Giving support, hope, or confidence.",
+    "chinese": "鼓勵的",
+    "example": "Her encouraging words helped him try again."
+  },
+  "grab": {
+    "definition": "To take hold of something quickly and firmly.",
+    "chinese": "抓住",
+    "example": "Grab the bar and pull yourself up."
+  },
+  "princess": {
+    "definition": "The daughter of a king or queen; here means treated as someone very delicate.",
+    "chinese": "公主",
+    "example": "Her grandmother treated her like a princess."
+  },
+  "incapable": {
+    "definition": "Not able to do something.",
+    "chinese": "無能的",
+    "example": "Being overprotected can make a child feel incapable."
+  },
+  "overcome": {
+    "definition": "To be affected so strongly by a feeling that you cannot think clearly.",
+    "chinese": "被（情緒）壓倒",
+    "example": "She was overcome with anger."
+  },
+  "judgements": {
+    "definition": "Opinions or decisions formed quickly, sometimes without enough thought.",
+    "chinese": "判斷",
+    "example": "Be careful about making quick judgements."
+  },
+  "assumptions": {
+    "definition": "Things you believe to be true without proof.",
+    "chinese": "假設",
+    "example": "Don't make assumptions about why your child is upset."
+  },
+  "reaction": {
+    "definition": "A response to something that happens.",
+    "chinese": "反應",
+    "example": "His angry reaction surprised everyone."
+  },
+  "triggered": {
+    "definition": "Caused to happen; set off an emotional response.",
+    "chinese": "被觸發的",
+    "example": "The situation triggered memories from his past."
+  },
+  "resentment": {
+    "definition": "A feeling of anger about something unfair that happened to you.",
+    "chinese": "怨恨",
+    "example": "He carried resentment from his childhood."
+  },
+  "envy": {
+    "definition": "A feeling of wanting what someone else has.",
+    "chinese": "嫉妒",
+    "example": "She felt envy when she saw her friend's success."
+  },
+  "disgust": {
+    "definition": "A strong feeling of dislike or disapproval.",
+    "chinese": "厭惡",
+    "example": "He looked at the mess with disgust."
+  },
+  "panic": {
+    "definition": "A sudden strong feeling of fear that makes it hard to think clearly.",
+    "chinese": "恐慌",
+    "example": "She felt panic when she lost her child in the crowd."
+  },
+  "irritation": {
+    "definition": "A slight feeling of anger or annoyance.",
+    "chinese": "惱怒",
+    "example": "Her irritation grew as the noise continued."
+  },
+  "dread": {
+    "definition": "A strong feeling of fear about something that might happen.",
+    "chinese": "恐懼",
+    "example": "She felt dread every Sunday night before work."
+  },
+  "et cetera": {
+    "definition": "And other similar things (Latin phrase often written as 'etc.').",
+    "chinese": "等等",
+    "example": "We bought bread, milk, eggs, et cetera."
+  },
+  "warning": {
+    "definition": "A sign that something bad might happen or that you should be careful.",
+    "chinese": "警告",
+    "example": "Take your child's anger as a warning sign."
+  },
+  "buttons": {
+    "definition": "Here means sensitive emotional spots that cause strong reactions when touched.",
+    "chinese": "敏感點",
+    "example": "Your children know how to press your buttons."
+  },
+  "pressed": {
+    "definition": "Pushed; here means your emotional weak spots have been activated.",
+    "chinese": "被按到",
+    "example": "When your buttons are pressed, stop and think."
+  },
+  "pattern": {
+    "definition": "A regular and repeated way of behaving.",
+    "chinese": "模式",
+    "example": "There is a pattern to how she reacts."
+  },
+  "charged": {
+    "definition": "Filled with strong emotion.",
+    "chinese": "充滿（強烈情緒）的",
+    "example": "His voice was charged with anger."
+  },
+  "defend": {
+    "definition": "To protect yourself from something threatening.",
+    "chinese": "防禦",
+    "example": "We defend ourselves from painful feelings."
+  },
+  "despair": {
+    "definition": "A complete loss of hope.",
+    "chinese": "絕望",
+    "example": "She felt despair when nothing seemed to work."
+  },
+  "longing": {
+    "definition": "A deep, strong feeling of wanting something you cannot have.",
+    "chinese": "渴望",
+    "example": "He felt a longing for his childhood home."
+  },
+  "loneliness": {
+    "definition": "The sad feeling of being alone and having no one close to you.",
+    "chinese": "孤獨",
+    "example": "Loneliness can affect people at any age."
+  },
+  "jealousy": {
+    "definition": "An unhappy feeling of wanting what someone else has.",
+    "chinese": "嫉妒",
+    "example": "Jealousy between siblings is common."
+  },
+  "neediness": {
+    "definition": "The quality of needing too much attention or emotional support from others.",
+    "chinese": "情感依賴",
+    "example": "His neediness pushed people away."
+  },
+  "empathizing": {
+    "definition": "Understanding and sharing the feelings of another person.",
+    "chinese": "同理",
+    "example": "Empathizing with your child helps them feel safe."
+  },
+  "short-circuit": {
+    "definition": "To skip the normal process and jump straight to a reaction.",
+    "chinese": "短路；跳過正常過程",
+    "example": "Instead of thinking, he short-circuits to anger."
+  },
+  "shrieks": {
+    "definition": "Very high, loud screams or cries.",
+    "chinese": "尖叫聲",
+    "example": "The shrieks of children playing filled the park."
+  },
+  "alert": {
+    "definition": "A state of being very watchful and ready to react.",
+    "chinese": "警覺的",
+    "example": "She went into an alert state when she heard the noise."
+  },
+  "appropriately": {
+    "definition": "In a way that is suitable and correct for the situation.",
+    "chinese": "適當地",
+    "example": "The children were playing appropriately."
+  },
+  "noisily": {
+    "definition": "In a loud way that makes a lot of noise.",
+    "chinese": "吵鬧地",
+    "example": "The children played noisily in the yard."
+  },
+  "tiptoe": {
+    "definition": "To walk very quietly on the front part of your feet.",
+    "chinese": "踮腳走",
+    "example": "The children had to tiptoe so they wouldn't disturb their grandfather."
+  },
+  "headaches": {
+    "definition": "Pain in the head.",
+    "chinese": "頭痛",
+    "example": "Stress can cause headaches."
+  },
+  "scared": {
+    "definition": "Feeling afraid or frightened.",
+    "chinese": "害怕的",
+    "example": "She was scared to admit her true feelings."
+  },
+  "admit": {
+    "definition": "To say or accept that something is true, often something you don't want to accept.",
+    "chinese": "承認",
+    "example": "It is hard to admit you were wrong."
+  },
+  "intensify": {
+    "definition": "To become or make something stronger or more extreme.",
+    "chinese": "加強",
+    "example": "Ignoring a problem can intensify it."
+  },
+  "naming": {
+    "definition": "Saying what something is; identifying and putting words to something.",
+    "chinese": "命名；指認",
+    "example": "Naming your feelings helps you deal with them."
+  },
+  "inconvenient": {
+    "definition": "Causing trouble or difficulty; not suitable.",
+    "chinese": "不方便的",
+    "example": "These inconvenient feelings are still important."
+  },
+  "narrative": {
+    "definition": "A story or explanation that gives meaning to events.",
+    "chinese": "敘述",
+    "example": "She found a new narrative for her anger."
+  },
+  "responsible": {
+    "definition": "Being the cause of something; having the duty to take care of something.",
+    "chinese": "負責的",
+    "example": "Children are not responsible for their parents' feelings."
+  },
+  "fault": {
+    "definition": "The reason for a mistake or problem; blame.",
+    "chinese": "過錯",
+    "example": "It is not the child's fault."
+  },
+  "trace": {
+    "definition": "To follow something back to its beginning or origin.",
+    "chinese": "追溯",
+    "example": "Can you trace this feeling back to your childhood?"
+  },
+  "annoying": {
+    "definition": "Making someone slightly angry or bothered.",
+    "chinese": "令人煩惱的",
+    "example": "The constant noise was annoying."
+  },
+  "exasperating": {
+    "definition": "Very annoying and frustrating.",
+    "chinese": "令人惱怒的",
+    "example": "Dealing with tantrums can be exasperating."
+  },
+  "clumsy": {
+    "definition": "Moving in an awkward way; tending to drop things or fall.",
+    "chinese": "笨拙的",
+    "example": "The clumsy child kept dropping his cup."
+  },
+  "default": {
+    "definition": "The usual or automatic way of doing something when you don't make a different choice.",
+    "chinese": "預設的",
+    "example": "Yelling is his default response to stress."
+  },
+  "overnight": {
+    "definition": "Very suddenly, in a very short time.",
+    "chinese": "一夜之間",
+    "example": "Overnight, your child becomes your biggest priority."
+  },
+  "demanding": {
+    "definition": "Requiring a lot of attention, time, or effort.",
+    "chinese": "要求很高的",
+    "example": "Having a baby is very demanding."
+  },
+  "priority": {
+    "definition": "Something that is more important than other things and should be done first.",
+    "chinese": "優先事項",
+    "example": "Your child should be your top priority."
+  },
+  "realize": {
+    "definition": "To suddenly understand something you did not know before.",
+    "chinese": "意識到",
+    "example": "She didn't realize how tired she was."
+  },
+  "appreciate": {
+    "definition": "To understand and be thankful for something.",
+    "chinese": "感激",
+    "example": "I appreciate everything my parents did for me."
+  },
+  "identify": {
+    "definition": "To recognize or understand something; to feel connected to someone's experience.",
+    "chinese": "認同",
+    "example": "Parents often identify with their own parents."
+  },
+  "compassion": {
+    "definition": "A deep feeling of care and concern for someone who is suffering.",
+    "chinese": "同情心",
+    "example": "Show compassion to yourself and your child."
+  },
+  "contemplating": {
+    "definition": "Thinking deeply and carefully about something.",
+    "chinese": "深思",
+    "example": "Spend time contemplating what your child might be feeling."
+  },
+  "empathy": {
+    "definition": "The ability to understand and share another person's feelings.",
+    "chinese": "同理心",
+    "example": "Empathy helps you connect with your child."
+  },
+  "client": {
+    "definition": "A person who receives professional help or services.",
+    "chinese": "個案；客戶",
+    "example": "The therapist met with her client every week."
+  },
+  "adopted": {
+    "definition": "Legally took another person's child to raise as your own.",
+    "chinese": "收養的",
+    "example": "They adopted a baby boy last year."
+  },
+  "rage": {
+    "definition": "Very strong, sometimes violent anger.",
+    "chinese": "暴怒",
+    "example": "He felt rage rise up when his child misbehaved."
+  },
+  "rapping": {
+    "definition": "Hitting something quickly and sharply.",
+    "chinese": "敲擊",
+    "example": "His grandfather punished him by rapping his knuckles."
+  },
+  "knuckles": {
+    "definition": "The hard bumps on your fingers where they bend.",
+    "chinese": "指關節",
+    "example": "He rapped the child's knuckles with a knife handle."
+  },
+  "patience": {
+    "definition": "The ability to wait calmly and accept delays without getting angry.",
+    "chinese": "耐心",
+    "example": "Parenting requires a lot of patience."
+  },
+  "assume": {
+    "definition": "To believe something is true without proof.",
+    "chinese": "假設",
+    "example": "Don't assume you know what your child is feeling."
+  },
+  "recipient": {
+    "definition": "A person who receives something.",
+    "chinese": "接受者",
+    "example": "The child was the happy recipient of many gifts."
+  },
+  "unconsciously": {
+    "definition": "Without being aware of it; without realizing.",
+    "chinese": "無意識地",
+    "example": "We unconsciously repeat our parents' habits."
+  },
+  "undeserving": {
+    "definition": "Not worthy of receiving something.",
+    "chinese": "不配的",
+    "example": "No child is undeserving of love."
+  },
+  "leaks": {
+    "definition": "Comes out slowly and often without meaning to.",
+    "chinese": "洩漏",
+    "example": "Her frustration leaks out in a sharp tone."
+  },
+  "unreasonably": {
+    "definition": "In a way that is not fair or sensible.",
+    "chinese": "不合理地",
+    "example": "He was unreasonably expecting a toddler to share."
+  },
+  "mature": {
+    "definition": "Behaving in a grown-up, sensible way.",
+    "chinese": "成熟的",
+    "example": "A four-year-old cannot be expected to be mature."
+  },
+  "competitive": {
+    "definition": "Wanting to win or do better than others.",
+    "chinese": "好勝的",
+    "example": "He felt competitive with his own child."
+  },
+  "lash": {
+    "definition": "To suddenly attack or speak angrily.",
+    "chinese": "猛烈抨擊",
+    "example": "He would lash out at his child in anger."
+  },
+  "anonymous": {
+    "definition": "Done by someone whose name is not known.",
+    "chinese": "匿名的",
+    "example": "The angry comments came from anonymous sources."
+  },
+  "jealous": {
+    "definition": "Feeling unhappy because someone has something you want.",
+    "chinese": "嫉妒的",
+    "example": "Some parents feel jealous of their own children."
+  },
+  "trolling": {
+    "definition": "Saying hurtful things to someone, usually online, to upset them.",
+    "chinese": "惡意挑釁",
+    "example": "Children don't need parental trolling."
+  },
+  "exercises": {
+    "definition": "Activities designed to help you practice or learn something.",
+    "chinese": "練習",
+    "example": "The book includes exercises to help you understand yourself."
+  },
+  "overwhelming": {
+    "definition": "So strong or powerful that it is hard to deal with.",
+    "chinese": "令人難以承受的",
+    "example": "The feelings were overwhelming at first."
+  },
+  "skip": {
+    "definition": "To pass over something; to not do it.",
+    "chinese": "跳過",
+    "example": "You can skip the exercise and come back to it later."
+  },
+  "wholly": {
+    "definition": "Completely; entirely.",
+    "chinese": "完全地",
+    "example": "Does this feeling wholly belong to the present?"
+  },
+  "standpoint": {
+    "definition": "The way someone sees things; their point of view.",
+    "chinese": "立場；觀點",
+    "example": "Try to see the situation from their standpoint."
+  },
+  "calm": {
+    "definition": "To become or make someone quiet and peaceful.",
+    "chinese": "冷靜",
+    "example": "Take a moment to calm down before speaking."
+  },
+  "guidance": {
+    "definition": "Help and advice about how to do something or how to behave.",
+    "chinese": "引導",
+    "example": "Children need guidance from their parents."
+  },
+  "variation": {
+    "definition": "A slightly different form of something.",
+    "chinese": "變化形式",
+    "example": "Try this variation of the exercise."
+  },
+  "self-righteous": {
+    "definition": "Feeling certain that you are morally right and others are wrong.",
+    "chinese": "自以為是的",
+    "example": "Don't be self-righteous about your parenting style."
+  },
+  "indignant": {
+    "definition": "Feeling angry because something seems unfair or wrong.",
+    "chinese": "憤慨的",
+    "example": "She was indignant when accused unfairly."
+  },
+  "panicky": {
+    "definition": "Feeling sudden strong fear that makes it hard to think.",
+    "chinese": "驚慌的",
+    "example": "She felt panicky when the child ran toward the road."
+  },
+  "ashamed": {
+    "definition": "Feeling embarrassed or guilty about something you did or something about yourself.",
+    "chinese": "羞愧的",
+    "example": "He felt ashamed of how he treated his child."
+  },
+  "self-loathing": {
+    "definition": "A strong feeling of hatred toward yourself.",
+    "chinese": "自我厭惡",
+    "example": "Self-loathing can prevent people from being good parents."
+  },
+  "disconnected": {
+    "definition": "Not feeling emotionally close to others; separate.",
+    "chinese": "疏離的",
+    "example": "He felt disconnected from his family."
+  },
+  "tracing": {
+    "definition": "Following something back to find where it started.",
+    "chinese": "追溯",
+    "example": "Tracing your feelings back to childhood can be helpful."
+  },
+  "habit": {
+    "definition": "Something you do regularly, often without thinking about it.",
+    "chinese": "習慣",
+    "example": "Bad habits are hard to break."
+  },
+  "spoilt": {
+    "definition": "Given too many things or too much attention, making a child expect everything.",
+    "chinese": "被寵壞的",
+    "example": "They called the child spoilt for not sharing."
+  },
+  "sharply": {
+    "definition": "In a harsh, sudden, or angry way.",
+    "chinese": "嚴厲地",
+    "example": "She spoke sharply to the child."
+  },
+  "presents": {
+    "definition": "Gifts given to someone, especially on a special occasion.",
+    "chinese": "禮物",
+    "example": "The child received a pile of presents on her birthday."
+  },
+  "pile": {
+    "definition": "A large amount of things placed on top of each other.",
+    "chinese": "一堆",
+    "example": "There was a huge pile of presents."
+  },
+  "birthday": {
+    "definition": "The day each year that is the same date as when a person was born.",
+    "chinese": "生日",
+    "example": "They had a party for her birthday."
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "recently": {
+    "definition": "Not long ago; a short time before now.",
+    "chinese": "最近",
+    "example": "I recently started learning to cook."
+  },
+  "routine": {
+    "definition": "A performance, usually comedy, done in front of an audience.",
+    "chinese": "表演節目",
+    "example": "The comedian did a funny routine about families."
+  },
+  "comedian": {
+    "definition": "A person whose job is to make people laugh.",
+    "chinese": "喜劇演員",
+    "example": "The comedian told jokes about daily life."
+  },
+  "fantasy": {
+    "definition": "An imagined situation that is not real, usually something you wish for.",
+    "chinese": "幻想",
+    "example": "He had a fantasy about living on a beach."
+  },
+  "meadows": {
+    "definition": "Large fields of grass, often with flowers.",
+    "chinese": "草地",
+    "example": "The children ran through the green meadows."
+  },
+  "picnics": {
+    "definition": "Meals eaten outside, usually on a blanket on the ground.",
+    "chinese": "野餐",
+    "example": "We love having picnics in the park."
+  },
+  "reality": {
+    "definition": "The way things actually are, not how you imagine them.",
+    "chinese": "現實",
+    "example": "The reality of the job was harder than expected."
+  },
+  "ongoing": {
+    "definition": "Continuing to happen; not finished.",
+    "chinese": "持續進行的",
+    "example": "The construction is an ongoing project."
+  },
+  "battle": {
+    "definition": "A difficult fight or struggle.",
+    "chinese": "戰鬥；鬥爭",
+    "example": "Getting the kids to bed is a daily battle."
+  },
+  "persuading": {
+    "definition": "Trying to make someone agree to do something.",
+    "chinese": "說服",
+    "example": "She spent an hour persuading him to come."
+  },
+  "laughter": {
+    "definition": "The sound of people laughing.",
+    "chinese": "笑聲",
+    "example": "The room was filled with laughter."
+  },
+  "audience": {
+    "definition": "A group of people watching or listening to a performance.",
+    "chinese": "觀眾",
+    "example": "The audience clapped after the show."
+  },
+  "described": {
+    "definition": "Told about something using words so others can picture it.",
+    "chinese": "描述",
+    "example": "She described the beautiful sunset to me."
+  },
+  "boring": {
+    "definition": "Not interesting; dull.",
+    "chinese": "無聊的",
+    "example": "The meeting was long and boring."
+  },
+  "dispiriting": {
+    "definition": "Making you feel hopeless or without energy.",
+    "chinese": "令人沮喪的",
+    "example": "The constant rain was dispiriting."
+  },
+  "frustrating": {
+    "definition": "Making you feel annoyed because you cannot do what you want.",
+    "chinese": "令人挫折的",
+    "example": "It is frustrating when the computer is slow."
+  },
+  "taxing": {
+    "definition": "Using a lot of your energy; tiring and difficult.",
+    "chinese": "費力的",
+    "example": "Taking care of a baby is very taxing."
+  },
+  "joyful": {
+    "definition": "Full of happiness and delight.",
+    "chinese": "充滿喜悅的",
+    "example": "The wedding was a joyful occasion."
+  },
+  "brilliant": {
+    "definition": "Wonderful; extremely good.",
+    "chinese": "極好的",
+    "example": "The show was absolutely brilliant."
+  },
+  "experience": {
+    "definition": "Something that happens to you or that you do, especially something important.",
+    "chinese": "經歷",
+    "example": "Traveling was a life-changing experience."
+  },
+  "bogged": {
+    "definition": "Stuck and unable to move forward or make progress.",
+    "chinese": "陷入困境的",
+    "example": "I got bogged down in paperwork."
+  },
+  "minutiae": {
+    "definition": "Very small and unimportant details.",
+    "chinese": "瑣碎細節",
+    "example": "Don't worry about the minutiae; focus on the big picture."
+  },
+  "nappies": {
+    "definition": "Soft cloth or paper worn by babies to catch waste (British English for diapers).",
+    "chinese": "尿布",
+    "example": "We need to buy more nappies for the baby."
+  },
+  "tantrums": {
+    "definition": "Sudden bursts of anger, crying, or screaming, especially by a child.",
+    "chinese": "發脾氣",
+    "example": "The toddler had a tantrum in the store."
+  },
+  "toddler": {
+    "definition": "A very young child who is just learning to walk, usually age 1-3.",
+    "chinese": "學步兒童",
+    "example": "The toddler took her first steps today."
+  },
+  "teenager": {
+    "definition": "A young person between 13 and 19 years old.",
+    "chinese": "青少年",
+    "example": "Teenagers often want more independence."
+  },
+  "scraping": {
+    "definition": "Removing something by rubbing it with a hard tool.",
+    "chinese": "刮除",
+    "example": "She was scraping ice off the car window."
+  },
+  "banana": {
+    "definition": "A long yellow fruit that is soft inside.",
+    "chinese": "香蕉",
+    "example": "I eat a banana every morning."
+  },
+  "cracks": {
+    "definition": "Thin narrow gaps or openings in a surface.",
+    "chinese": "裂縫",
+    "example": "Water leaked through the cracks in the wall."
+  },
+  "headteacher": {
+    "definition": "The person in charge of a school (British English for principal).",
+    "chinese": "校長",
+    "example": "The headteacher called a meeting with parents."
+  },
+  "summoning": {
+    "definition": "Officially asking or ordering someone to come to a place.",
+    "chinese": "召喚",
+    "example": "The boss was summoning everyone to a meeting."
+  },
+  "perspective": {
+    "definition": "A way of thinking about something; the ability to see what is really important.",
+    "chinese": "觀點；眼光",
+    "example": "Try to see things from a different perspective."
+  },
+  "core": {
+    "definition": "The most important or central part of something.",
+    "chinese": "核心",
+    "example": "Trust is the core of any friendship."
+  },
+  "soil": {
+    "definition": "The earth that plants grow in.",
+    "chinese": "土壤",
+    "example": "Good soil helps plants grow strong."
+  },
+  "nurtures": {
+    "definition": "Cares for and helps something or someone grow.",
+    "chinese": "培育",
+    "example": "A loving family nurtures a child's confidence."
+  },
+  "inhibits": {
+    "definition": "Stops or slows down something from happening.",
+    "chinese": "抑制",
+    "example": "Fear inhibits people from trying new things."
+  },
+  "lean": {
+    "definition": "To rest against something for support.",
+    "chinese": "依靠",
+    "example": "A child needs someone to lean on."
+  },
+  "security": {
+    "definition": "The feeling of being safe and protected.",
+    "chinese": "安全感",
+    "example": "Children need a sense of security."
+  },
+  "compromised": {
+    "definition": "Weakened or damaged so it does not work well.",
+    "chinese": "受損的",
+    "example": "His health was compromised by stress."
+  },
+  "source": {
+    "definition": "The place where something comes from.",
+    "chinese": "來源",
+    "example": "Family can be a source of strength."
+  },
+  "strength": {
+    "definition": "The quality of being strong, either physically or emotionally.",
+    "chinese": "力量",
+    "example": "Her love gave him strength during hard times."
+  },
+  "psychotherapist": {
+    "definition": "A person trained to help people with emotional or mental problems by talking with them.",
+    "chinese": "心理治療師",
+    "example": "She visited a psychotherapist to help with her anxiety."
+  },
+  "struggle": {
+    "definition": "To try very hard to do something difficult.",
+    "chinese": "掙扎",
+    "example": "Many parents struggle with lack of sleep."
+  },
+  "aspects": {
+    "definition": "Different parts or features of something.",
+    "chinese": "方面",
+    "example": "There are many aspects of being a good parent."
+  },
+  "opportunity": {
+    "definition": "A chance to do something.",
+    "chinese": "機會",
+    "example": "This job gave me the opportunity to travel."
+  },
+  "dysfunctional": {
+    "definition": "Not working normally or in a healthy way.",
+    "chinese": "功能失調的",
+    "example": "Growing up in a dysfunctional family can be hard."
+  },
+  "objective": {
+    "definition": "A goal or purpose that you are trying to reach.",
+    "chinese": "目標",
+    "example": "The objective of this class is to improve your writing."
+  },
+  "relevant": {
+    "definition": "Connected to what is being discussed or considered; important to the topic.",
+    "chinese": "相關的",
+    "example": "Only share information that is relevant to the discussion."
+  },
+  "attune": {
+    "definition": "To make yourself aware of and sensitive to someone's feelings or needs.",
+    "chinese": "使協調；調適",
+    "example": "Good parents attune themselves to their child's emotions."
+  },
+  "exhausting": {
+    "definition": "Making you feel extremely tired.",
+    "chinese": "令人精疲力竭的",
+    "example": "Running a marathon is exhausting."
+  },
+  "patterns": {
+    "definition": "Things that happen in the same way again and again.",
+    "chinese": "模式",
+    "example": "She noticed patterns in her child's behavior."
+  },
+  "conflict": {
+    "definition": "A serious disagreement or fight between people.",
+    "chinese": "衝突",
+    "example": "There was conflict between the two brothers."
+  },
+  "withdrawal": {
+    "definition": "Pulling away from someone emotionally; becoming distant.",
+    "chinese": "退縮",
+    "example": "His withdrawal from the family worried everyone."
+  },
+  "encourage": {
+    "definition": "To give someone support and confidence to do something.",
+    "chinese": "鼓勵",
+    "example": "Teachers should encourage students to ask questions."
+  },
+  "babyhood": {
+    "definition": "The time when someone is a baby.",
+    "chinese": "嬰兒期",
+    "example": "She has no memories of her babyhood."
+  },
+  "upbringing": {
+    "definition": "The way a child is raised and taught by their parents.",
+    "chinese": "教養方式",
+    "example": "Her strict upbringing shaped who she is today."
+  },
+  "attitudes": {
+    "definition": "Ways of thinking or feeling about something.",
+    "chinese": "態度",
+    "example": "Positive attitudes help you face challenges."
+  },
+  "pregnancy": {
+    "definition": "The time when a woman carries a baby inside her body before birth.",
+    "chinese": "懷孕",
+    "example": "She exercised regularly during her pregnancy."
+  },
+  "bond": {
+    "definition": "A strong feeling of closeness and connection between people.",
+    "chinese": "紐帶；連結",
+    "example": "The bond between mother and child is very strong."
+  },
+  "adolescent": {
+    "definition": "A young person who is developing from a child into an adult, usually a teenager.",
+    "chinese": "青少年",
+    "example": "Adolescents often question the rules."
+  },
+  "satisfaction": {
+    "definition": "A good feeling you get when you achieve something or when things go well.",
+    "chinese": "滿足感",
+    "example": "Finishing the project gave her great satisfaction."
+  },
+  "manipulate": {
+    "definition": "To control or influence someone in a clever or unfair way.",
+    "chinese": "操控",
+    "example": "It is wrong to manipulate people to get what you want."
+  },
+  "relate": {
+    "definition": "To connect with someone; to understand and communicate well with them.",
+    "chinese": "建立關係",
+    "example": "It is important to learn how to relate to others."
+  },
+  "leisure": {
+    "definition": "Free time when you are not working.",
+    "chinese": "休閒",
+    "example": "She enjoys reading in her leisure time."
+  },
+  "pursuits": {
+    "definition": "Activities that you spend time doing, especially for enjoyment.",
+    "chinese": "活動；追求",
+    "example": "His leisure pursuits include hiking and painting."
+  },
+  "vegetable": {
+    "definition": "A plant or part of a plant used as food, such as carrots or broccoli.",
+    "chinese": "蔬菜",
+    "example": "Children should eat at least one vegetable at dinner."
+  },
+  "coat": {
+    "definition": "A piece of warm clothing worn over other clothes.",
+    "chinese": "外套",
+    "example": "Put on your coat before going outside."
+  },
+  "supports": {
+    "definition": "Holds up or gives help and encouragement to someone or something.",
+    "chinese": "支持",
+    "example": "A good friend supports you during hard times."
+  },
+  "share": {
+    "definition": "To give part of something to others; to tell others about your thoughts or feelings.",
+    "chinese": "分享",
+    "example": "I want to share what I have learned with you."
+  },
+  "include": {
+    "definition": "To contain something as part of a whole.",
+    "chinese": "包括",
+    "example": "The price includes breakfast."
+  },
+  "feelings": {
+    "definition": "Emotions such as happiness, sadness, fear, or anger.",
+    "chinese": "感受",
+    "example": "It is healthy to talk about your feelings."
+  },
+  "approach": {
+    "definition": "A way of dealing with a situation or problem.",
+    "chinese": "方法",
+    "example": "We need a new approach to solve this problem."
+  },
+  "particular": {
+    "definition": "Specific; one certain thing rather than others.",
+    "chinese": "特定的",
+    "example": "Is there a particular reason you are late?"
+  },
+  "behaviour": {
+    "definition": "The way a person acts or conducts themselves.",
+    "chinese": "行為",
+    "example": "Good behaviour is rewarded at school."
+  },
+  "interested": {
+    "definition": "Wanting to learn more about something or give it attention.",
+    "chinese": "感興趣的",
+    "example": "She is very interested in science."
+  },
+  "stand-up": {
+    "definition": "A type of comedy where one person tells jokes alone on stage.",
+    "chinese": "單口喜劇",
+    "example": "He performed a stand-up show last night."
+  },
+  "dressed": {
+    "definition": "Wearing clothes; having clothes put on.",
+    "chinese": "穿好衣服的",
+    "example": "The children got dressed for school."
+  },
+  "illnesses": {
+    "definition": "Diseases or periods of being sick.",
+    "chinese": "疾病",
+    "example": "Childhood illnesses are usually mild."
+  },
+  "childhood": {
+    "definition": "The time of life when you are a child.",
+    "chinese": "童年",
+    "example": "She had a happy childhood."
+  },
+  "unique": {
+    "definition": "Being the only one of its kind; special and different from everything else.",
+    "chinese": "獨特的",
+    "example": "Every child is unique."
+  },
+  "individual": {
+    "definition": "A single person, considered separately from others.",
+    "chinese": "個人",
+    "example": "Each individual has their own story."
+  },
+  "plant": {
+    "definition": "A living thing that grows in the ground, with leaves and roots.",
+    "chinese": "植物",
+    "example": "Water the plant every day."
+  }
+}

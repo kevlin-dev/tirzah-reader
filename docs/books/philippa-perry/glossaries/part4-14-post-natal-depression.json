@@ -1,0 +1,417 @@
+{
+  "post-natal": {
+    "definition": "Happening after the birth of a baby.",
+    "chinese": "產後的",
+    "example": "Post-natal depression is common among new parents."
+  },
+  "depression": {
+    "definition": "A mental health condition causing deep sadness, hopelessness, and loss of interest.",
+    "chinese": "憂鬱症",
+    "example": "Depression can make even small tasks feel impossible."
+  },
+  "acquisition": {
+    "definition": "The act of getting or receiving something new.",
+    "chinese": "獲得",
+    "example": "The acquisition of parental responsibility can trigger depression."
+  },
+  "parental": {
+    "definition": "Related to being a parent.",
+    "chinese": "父母的",
+    "example": "Parental responsibility brings both joy and challenges."
+  },
+  "symptoms": {
+    "definition": "Signs that show you have a sickness or condition.",
+    "chinese": "症狀",
+    "example": "Common symptoms include deep sadness and trouble sleeping."
+  },
+  "irritability": {
+    "definition": "The state of being easily annoyed or made angry.",
+    "chinese": "易怒",
+    "example": "Irritability is a common symptom of post-natal depression."
+  },
+  "despair": {
+    "definition": "A complete loss of hope.",
+    "chinese": "絕望",
+    "example": "She felt deep sadness and despair after the birth."
+  },
+  "insomnia": {
+    "definition": "Not being able to sleep even when you want to.",
+    "chinese": "失眠",
+    "example": "Insomnia made her exhaustion even worse."
+  },
+  "psychosis": {
+    "definition": "A very serious mental condition where a person loses touch with reality.",
+    "chinese": "精神病",
+    "example": "In extreme cases, post-natal depression can lead to psychosis."
+  },
+  "post-partum": {
+    "definition": "The period of time after giving birth (same as post-natal).",
+    "chinese": "產後的",
+    "example": "Post-partum depression affects many new mothers each year."
+  },
+  "psychological": {
+    "definition": "Related to the mind and how it works.",
+    "chinese": "心理的",
+    "example": "Depression is a psychological disorder that needs treatment."
+  },
+  "disorder": {
+    "definition": "A medical condition where something in the body or mind is not working normally.",
+    "chinese": "疾病；障礙",
+    "example": "Post-natal depression is a serious psychological disorder."
+  },
+  "terrified": {
+    "definition": "Extremely scared.",
+    "chinese": "非常害怕的",
+    "example": "She was terrified she would somehow hurt the baby."
+  },
+  "nappy": {
+    "definition": "Soft cloth or paper worn by a baby to catch waste (British English for diaper).",
+    "chinese": "尿布",
+    "example": "She was afraid of hurting the baby during a nappy change."
+  },
+  "ashamed": {
+    "definition": "Feeling shame or embarrassment about something.",
+    "chinese": "羞愧的",
+    "example": "She was so ashamed of her feelings that she told no one."
+  },
+  "surgery": {
+    "definition": "The place where a doctor sees patients (British English); also a medical operation.",
+    "chinese": "診所（英式）；手術",
+    "example": "She took the baby to the GP's surgery for a checkup."
+  },
+  "breastfeed": {
+    "definition": "To feed a baby with milk from the mother's breast.",
+    "chinese": "母乳餵養",
+    "example": "She could not breastfeed because her nipples hurt too much."
+  },
+  "nipples": {
+    "definition": "The raised parts on the breast where milk comes out.",
+    "chinese": "乳頭",
+    "example": "Her nipples hurt so much that feeding felt like pins going through her."
+  },
+  "pins": {
+    "definition": "Thin, sharp pointed pieces of metal.",
+    "chinese": "針",
+    "example": "The pain felt like pins going through her."
+  },
+  "bottle-feeding": {
+    "definition": "Feeding a baby with milk from a bottle instead of the breast.",
+    "chinese": "瓶餵",
+    "example": "Bottle-feeding made her feel like even more of a failure."
+  },
+  "failure": {
+    "definition": "A person or thing that does not succeed; feeling you are not good enough.",
+    "chinese": "失敗者；失敗感",
+    "example": "She felt like a failure as a mother."
+  },
+  "confess": {
+    "definition": "To admit something that is difficult or embarrassing to say.",
+    "chinese": "坦白；承認",
+    "example": "She had to confess that she wanted to die."
+  },
+  "bleak": {
+    "definition": "Without hope; dark and depressing.",
+    "chinese": "淒涼的；絕望的",
+    "example": "She had never felt so bleak in her entire life."
+  },
+  "dense": {
+    "definition": "Thick and heavy; hard to see through.",
+    "chinese": "濃密的",
+    "example": "A dense cloud of misery had descended on her."
+  },
+  "descended": {
+    "definition": "Came down upon; arrived and covered.",
+    "chinese": "降臨",
+    "example": "A cloud of depression descended on her after the birth."
+  },
+  "misery": {
+    "definition": "Great unhappiness and suffering.",
+    "chinese": "痛苦",
+    "example": "She was trapped in a cloud of misery for months."
+  },
+  "therapy": {
+    "definition": "Treatment for mental or emotional problems, usually by talking to a professional.",
+    "chinese": "心理治療",
+    "example": "Her partner made her go to therapy."
+  },
+  "matter-of-fact": {
+    "definition": "In a calm, practical way, without showing emotions.",
+    "chinese": "實事求是的；冷靜的",
+    "example": "She was planning to kill herself in a matter-of-fact way."
+  },
+  "babyhood": {
+    "definition": "The time when someone was a baby.",
+    "chinese": "嬰兒時期",
+    "example": "The therapist asked her to think about her own babyhood."
+  },
+  "cousin": {
+    "definition": "The child of your aunt or uncle.",
+    "chinese": "表/堂兄弟姊妹",
+    "example": "Her cousin told her what happened when she was a baby."
+  },
+  "abroad": {
+    "definition": "In a foreign country; away from home country.",
+    "chinese": "在國外",
+    "example": "Her parents went abroad for a month without her."
+  },
+  "alien": {
+    "definition": "Something or someone that feels very strange and unfamiliar.",
+    "chinese": "陌生的；外星人般的",
+    "example": "The baby felt like an alien to her, not like her own child."
+  },
+  "indiscernibly": {
+    "definition": "So slowly or slightly that you almost cannot notice it.",
+    "chinese": "難以察覺地",
+    "example": "She began slowly, indiscernibly, to get better."
+  },
+  "acceptance": {
+    "definition": "Agreeing that something is true and being at peace with it.",
+    "chinese": "接受",
+    "example": "She came to an acceptance that she was his mother."
+  },
+  "narrative": {
+    "definition": "A story or account that explains events and makes sense of them.",
+    "chinese": "敘事",
+    "example": "Finding a narrative that makes sense of your feelings can help."
+  },
+  "sufficient": {
+    "definition": "Enough; as much as is needed.",
+    "chinese": "足夠的",
+    "example": "Just knowing there is an explanation can be sufficient to help."
+  },
+  "impulses": {
+    "definition": "Sudden strong feelings that make you want to do something without thinking.",
+    "chinese": "衝動",
+    "example": "Talking about your impulses can help you control them."
+  },
+  "perceive": {
+    "definition": "To see or understand something in a particular way.",
+    "chinese": "感知；理解",
+    "example": "Talking helps us perceive the baby as a baby, not a threat."
+  },
+  "projecting": {
+    "definition": "Putting your own feelings or thoughts onto someone else without realizing it.",
+    "chinese": "投射",
+    "example": "Parents sometimes project their fears onto their baby."
+  },
+  "monster": {
+    "definition": "A scary, imaginary creature; something that frightens you.",
+    "chinese": "怪物",
+    "example": "The baby is not a monster, even when the crying feels unbearable."
+  },
+  "ghost": {
+    "definition": "The spirit of a dead person; here, a painful memory from the past.",
+    "chinese": "鬼魂；過去的幽靈",
+    "example": "Old feelings can haunt us like a ghost from our past."
+  },
+  "fantasize": {
+    "definition": "To imagine something you want to happen, especially something unlikely.",
+    "chinese": "幻想",
+    "example": "It is normal to fantasize about escaping when you feel overwhelmed."
+  },
+  "fantasy": {
+    "definition": "Something you imagine that is not real.",
+    "chinese": "幻想",
+    "example": "A fantasy is not harmful when it stays just a thought."
+  },
+  "minimize": {
+    "definition": "To make something smaller or less important.",
+    "chinese": "減少；降到最低",
+    "example": "Talking about feelings can help minimize their power over you."
+  },
+  "non-judgemental": {
+    "definition": "Not making harsh decisions about whether someone is right or wrong.",
+    "chinese": "不批判的",
+    "example": "We all need someone non-judgemental to talk to."
+  },
+  "unapologetically": {
+    "definition": "Without saying sorry or feeling ashamed.",
+    "chinese": "不道歉地；毫無歉意地",
+    "example": "You need someone you can be fully and unapologetically yourself with."
+  },
+  "warrant": {
+    "definition": "To deserve or justify something.",
+    "chinese": "值得；有理由",
+    "example": "Do not think you are not in a bad enough state to warrant help."
+  },
+  "hesitate": {
+    "definition": "To pause or wait before doing something because you are not sure.",
+    "chinese": "猶豫",
+    "example": "Do not hesitate to seek professional help."
+  },
+  "exaggerating": {
+    "definition": "Making something seem bigger or stronger than it really is.",
+    "chinese": "誇大",
+    "example": "Hormones may be exaggerating your emotions after birth."
+  },
+  "withdraw": {
+    "definition": "To pull back from people or activities; to become less involved.",
+    "chinese": "退縮",
+    "example": "If your feelings cause you to withdraw from your baby, seek help."
+  },
+  "interacting": {
+    "definition": "Communicating and spending time with someone.",
+    "chinese": "互動",
+    "example": "Depression can make it hard to keep interacting with your family."
+  },
+  "achiever": {
+    "definition": "A person who is successful and gets good results.",
+    "chinese": "成就者",
+    "example": "At work, she was a high achiever with high standards."
+  },
+  "lacking": {
+    "definition": "Not having enough of something; falling short.",
+    "chinese": "缺乏的",
+    "example": "She compared herself to other mothers and found herself lacking."
+  },
+  "grated": {
+    "definition": "Irritated or annoyed in a strong way.",
+    "chinese": "使惱火；刺耳的",
+    "example": "When the baby cried, it grated on her rather than making her want to help."
+  },
+  "stressful": {
+    "definition": "Causing a lot of worry and pressure.",
+    "chinese": "壓力大的",
+    "example": "Leaving the house felt stressful with a new baby."
+  },
+  "forceps": {
+    "definition": "A medical tool shaped like tongs, used to help deliver a baby.",
+    "chinese": "產鉗",
+    "example": "She needed forceps during the delivery."
+  },
+  "invasive": {
+    "definition": "Entering your body or personal space in an unwelcome way.",
+    "chinese": "侵入性的",
+    "example": "She found the whole birth procedure very invasive."
+  },
+  "nightmarish": {
+    "definition": "Like a bad dream; very frightening and upsetting.",
+    "chinese": "如噩夢般的",
+    "example": "She kept reliving the nightmarish experience of the birth."
+  },
+  "reliving": {
+    "definition": "Experiencing something again in your mind as if it is happening now.",
+    "chinese": "重新經歷",
+    "example": "She kept reliving the birth experience in her dreams."
+  },
+  "dragged": {
+    "definition": "Forced yourself to go somewhere even though you did not want to.",
+    "chinese": "拖著自己去",
+    "example": "She dragged herself to the mother-and-baby group."
+  },
+  "pretend": {
+    "definition": "To act as if something is true when it is not.",
+    "chinese": "假裝",
+    "example": "She was ready to pretend she was fine again."
+  },
+  "announced": {
+    "definition": "Said something publicly and openly.",
+    "chinese": "宣布",
+    "example": "One woman announced that she was not coping."
+  },
+  "coping": {
+    "definition": "Dealing with something difficult successfully.",
+    "chinese": "應對",
+    "example": "She admitted that she was not coping with the new baby."
+  },
+  "courage": {
+    "definition": "The ability to do something that is scary or difficult.",
+    "chinese": "勇氣",
+    "example": "She took her courage in both hands and spoke up."
+  },
+  "collages": {
+    "definition": "Art made by sticking different materials like paper and cloth onto a surface.",
+    "chinese": "拼貼畫",
+    "example": "The group made collages by sticking bits of cloth on paper."
+  },
+  "crafts": {
+    "definition": "Activities where you make things by hand.",
+    "chinese": "手工藝",
+    "example": "The group did crafts together while they talked."
+  },
+  "sticky": {
+    "definition": "Difficult or unpleasant (informal); also literally something that sticks.",
+    "chinese": "棘手的",
+    "example": "Their sticky start did not seem to cause lasting damage."
+  },
+  "hormonal": {
+    "definition": "Caused by or related to hormones in the body.",
+    "chinese": "荷爾蒙引起的",
+    "example": "She believed her depression was hormonal."
+  },
+  "weird": {
+    "definition": "Strange; unusual in a way that makes you feel uncomfortable.",
+    "chinese": "奇怪的",
+    "example": "However weird your feelings seem, do not keep them to yourself."
+  },
+  "visualization": {
+    "definition": "A technique where you picture something in your mind to explore your feelings.",
+    "chinese": "想像練習；視覺化",
+    "example": "The exercise uses guided visualization to help you understand yourself."
+  },
+  "scenario": {
+    "definition": "A situation that you imagine or describe.",
+    "chinese": "情境",
+    "example": "Visualize a scenario in your mind's eye."
+  },
+  "reception": {
+    "definition": "A room or area where visitors are received or welcomed.",
+    "chinese": "接待室",
+    "example": "The first room is a reception room where you meet visitors."
+  },
+  "vulnerability": {
+    "definition": "The state of being open to being hurt or affected emotionally.",
+    "chinese": "脆弱",
+    "example": "The second room represents your difficulty and vulnerability."
+  },
+  "regretful": {
+    "definition": "Feeling sorry about something you did or did not do.",
+    "chinese": "後悔的",
+    "example": "In the room of difficulty, you may feel regretful or ashamed."
+  },
+  "frustrated": {
+    "definition": "Feeling upset because you cannot do what you want or things are not working.",
+    "chinese": "沮喪的",
+    "example": "She felt frustrated that she could not bond with her baby."
+  },
+  "dissatisfied": {
+    "definition": "Not happy or pleased with something.",
+    "chinese": "不滿意的",
+    "example": "She felt dissatisfied with herself as a mother."
+  },
+  "shallowly": {
+    "definition": "Not deeply; taking only small, light breaths.",
+    "chinese": "淺淺地",
+    "example": "If you were breathing shallowly, try to breathe normally again."
+  },
+  "pride": {
+    "definition": "A feeling of happiness and satisfaction about something you did well.",
+    "chinese": "自豪",
+    "example": "In the positive room, you feel a sense of pride as a parent."
+  },
+  "ambiguous": {
+    "definition": "Having more than one meaning; not clear or certain.",
+    "chinese": "模糊的；矛盾的",
+    "example": "Parenting brings up ambiguous feelings that are hard to explain."
+  },
+  "flooded": {
+    "definition": "Completely filled with something, especially a strong emotion.",
+    "chinese": "被（情緒）淹沒的",
+    "example": "Someone who can hear you when you feel flooded with love."
+  },
+  "owe": {
+    "definition": "To have a duty or responsibility to someone.",
+    "chinese": "欠；有義務",
+    "example": "You owe it to yourself and your child to seek help."
+  },
+  "present": {
+    "definition": "Here, feeling mentally engaged and aware in the moment.",
+    "chinese": "活在當下的；存在的",
+    "example": "You deserve to feel present and correct in your life."
+  },
+  "crèche": {
+    "definition": "A place where babies and young children are cared for while parents are nearby.",
+    "chinese": "托兒所",
+    "example": "The support group had a crèche so mothers could talk freely."
+  }
+}

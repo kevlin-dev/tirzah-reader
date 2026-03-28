@@ -1,0 +1,492 @@
+{
+  "beating": {
+    "definition": "Here in 'beating yourself up' means criticizing yourself very harshly.",
+    "chinese": "自我責備",
+    "example": "Stop beating yourself up over small mistakes."
+  },
+  "adopt": {
+    "definition": "To start doing or using something, especially a habit or way of behaving.",
+    "chinese": "採用",
+    "example": "Children may adopt the same bad habits as their parents."
+  },
+  "potentially": {
+    "definition": "Possibly; with the chance of happening.",
+    "chinese": "可能地",
+    "example": "This is a potentially damaging habit."
+  },
+  "mirror": {
+    "definition": "A piece of glass that shows a reflection of what is in front of it.",
+    "chinese": "鏡子",
+    "example": "She looked in the mirror and criticized herself."
+  },
+  "picking": {
+    "definition": "Here in 'picking fault' means finding and pointing out mistakes or flaws.",
+    "chinese": "挑剔",
+    "example": "She was always picking fault with herself."
+  },
+  "fault": {
+    "definition": "A mistake or weakness in someone or something.",
+    "chinese": "缺點",
+    "example": "She could always find a fault in herself."
+  },
+  "exact": {
+    "definition": "The same in every detail; precisely the same.",
+    "chinese": "完全一樣的",
+    "example": "Years later, she did the exact same thing."
+  },
+  "astute": {
+    "definition": "Very quick to notice and understand things; clever.",
+    "chinese": "敏銳的",
+    "example": "Her astute teenage daughter noticed the behavior."
+  },
+  "inherited": {
+    "definition": "Received from parents or earlier generations through behavior or example.",
+    "chinese": "繼承的",
+    "example": "Our inherited patterns shape how we behave."
+  },
+  "patterns": {
+    "definition": "Regular and repeated ways of behaving.",
+    "chinese": "模式",
+    "example": "We repeat patterns we learned as children."
+  },
+  "fault-finder": {
+    "definition": "A voice or habit that always looks for things that are wrong.",
+    "chinese": "吹毛求疵者",
+    "example": "Everyone has an inner fault-finder."
+  },
+  "continual": {
+    "definition": "Happening again and again without stopping.",
+    "chinese": "持續不斷的",
+    "example": "There is continual chatter in our heads."
+  },
+  "chatter": {
+    "definition": "Talk that goes on and on, often without much meaning.",
+    "chinese": "喋喋不休",
+    "example": "The chatter in your mind can be very negative."
+  },
+  "commentary": {
+    "definition": "A running explanation or description of what is happening.",
+    "chinese": "評論",
+    "example": "We have a continual commentary running in our heads."
+  },
+  "harsh": {
+    "definition": "Cruel and unkind; very strict and critical.",
+    "chinese": "嚴厲的",
+    "example": "The harsh inner critic makes you feel terrible."
+  },
+  "critic": {
+    "definition": "A voice (real or in your mind) that finds fault and judges negatively.",
+    "chinese": "批評者",
+    "example": "Your inner critic can hold you back."
+  },
+  "hopeless": {
+    "definition": "Feeling that there is no chance of success; without hope.",
+    "chinese": "絕望的",
+    "example": "She told herself she was hopeless."
+  },
+  "useless": {
+    "definition": "Not able to do anything well; having no value.",
+    "chinese": "無用的",
+    "example": "The inner voice told her she was useless."
+  },
+  "steer": {
+    "definition": "To guide or influence the direction something goes.",
+    "chinese": "引導方向",
+    "example": "That inner talk has a powerful steer on your life."
+  },
+  "impact": {
+    "definition": "A strong effect or influence on something.",
+    "chinese": "影響",
+    "example": "Your self-talk has an impact on your child."
+  },
+  "influencing": {
+    "definition": "Having an effect on how someone thinks, feels, or acts.",
+    "chinese": "影響",
+    "example": "Your habits are influencing your children."
+  },
+  "judgements": {
+    "definition": "Opinions or decisions about whether something is good or bad.",
+    "chinese": "判斷",
+    "example": "Harmful judgements can damage a child's confidence."
+  },
+  "harmful": {
+    "definition": "Causing damage or injury.",
+    "chinese": "有害的",
+    "example": "Negative self-talk is harmful to everyone."
+  },
+  "exaggerate": {
+    "definition": "To make something seem bigger, worse, or more important than it really is.",
+    "chinese": "誇大",
+    "example": "The inner voice can exaggerate a low mood."
+  },
+  "mood": {
+    "definition": "The way you feel at a particular time.",
+    "chinese": "情緒",
+    "example": "A negative inner voice can worsen a bad mood."
+  },
+  "knock": {
+    "definition": "Here means to reduce or weaken something.",
+    "chinese": "打擊",
+    "example": "Negative thoughts knock your confidence."
+  },
+  "inadequate": {
+    "definition": "Not good enough; not having what is needed.",
+    "chinese": "不足的",
+    "example": "The voice makes us feel generally inadequate."
+  },
+  "capacity": {
+    "definition": "The ability or power to do or experience something.",
+    "chinese": "能力",
+    "example": "Everyone has the capacity for happiness."
+  },
+  "happiness": {
+    "definition": "The state of feeling joy and pleasure.",
+    "chinese": "幸福",
+    "example": "The inner critic can block your capacity for happiness."
+  },
+  "fundamental": {
+    "definition": "The most basic and important part of something.",
+    "chinese": "根本的",
+    "example": "Childhood experience is the fundamental way we develop."
+  },
+  "shake": {
+    "definition": "Here in 'shake off' means to get rid of something that bothers you.",
+    "chinese": "擺脫",
+    "example": "It is hard to shake off old habits."
+  },
+  "critical": {
+    "definition": "Finding fault; expressing disapproval.",
+    "chinese": "批判性的",
+    "example": "The critical voice in your head is hard to stop."
+  },
+  "pat": {
+    "definition": "Here in 'pat on the back' means praise or recognition for doing well.",
+    "chinese": "讚許",
+    "example": "Give yourself a pat on the back for noticing."
+  },
+  "gallery": {
+    "definition": "A building or room where art is displayed for people to look at.",
+    "chinese": "藝廊",
+    "example": "She works as an art-gallery assistant."
+  },
+  "assistant": {
+    "definition": "A person who helps someone with their work.",
+    "chinese": "助理",
+    "example": "She works as a gallery assistant."
+  },
+  "aware": {
+    "definition": "Knowing about something; having knowledge of it.",
+    "chinese": "意識到的",
+    "example": "She is aware of her inner negative voice."
+  },
+  "failure": {
+    "definition": "Not succeeding at something you tried to do.",
+    "chinese": "失敗",
+    "example": "She was always afraid of failure."
+  },
+  "embarrass": {
+    "definition": "To make someone feel shy, uncomfortable, or ashamed in front of others.",
+    "chinese": "使尷尬",
+    "example": "She was afraid she would embarrass herself."
+  },
+  "dissuade": {
+    "definition": "To talk someone out of doing something; to persuade them not to do it.",
+    "chinese": "勸阻",
+    "example": "The inner voice dissuades her from trying new things."
+  },
+  "criticize": {
+    "definition": "To say what is wrong with something or someone.",
+    "chinese": "批評",
+    "example": "She would criticize herself for not being adventurous."
+  },
+  "unadventurous": {
+    "definition": "Not willing to try new or exciting things.",
+    "chinese": "不愛冒險的",
+    "example": "She told herself she was unadventurous."
+  },
+  "applying": {
+    "definition": "Here means making an effort or working hard at something.",
+    "chinese": "努力投入",
+    "example": "She criticized herself for not applying herself."
+  },
+  "shallow": {
+    "definition": "Not deep in thought or feeling; only caring about surface things.",
+    "chinese": "膚淺的",
+    "example": "She told herself she was shallow."
+  },
+  "passion": {
+    "definition": "A very strong feeling of love or interest in something.",
+    "chinese": "熱情",
+    "example": "She felt she had no real passion for anything."
+  },
+  "expertise": {
+    "definition": "Special skill or knowledge in a particular area.",
+    "chinese": "專業知識",
+    "example": "She believed she had no expertise in anything."
+  },
+  "guilty": {
+    "definition": "Feeling bad because you think you have done something wrong.",
+    "chinese": "內疚的",
+    "example": "She felt guilty blaming her mother."
+  },
+  "worrier": {
+    "definition": "A person who worries a lot about things.",
+    "chinese": "愛擔心的人",
+    "example": "Her mother has always been a worrier."
+  },
+  "negativity": {
+    "definition": "A tendency to focus on the bad parts of things.",
+    "chinese": "消極",
+    "example": "Her mother's negativity affected the whole family."
+  },
+  "compliment": {
+    "definition": "A nice thing said about someone or something they did.",
+    "chinese": "讚美",
+    "example": "She can never take a compliment."
+  },
+  "delicious": {
+    "definition": "Very tasty and enjoyable to eat.",
+    "chinese": "美味的",
+    "example": "What a delicious lasagne!"
+  },
+  "lasagne": {
+    "definition": "An Italian dish made with layers of pasta, meat sauce, and cheese.",
+    "chinese": "千層麵",
+    "example": "She made a lasagne for dinner."
+  },
+  "flavour": {
+    "definition": "The taste of food or drink.",
+    "chinese": "味道",
+    "example": "She said the lasagne had no flavour."
+  },
+  "dwell": {
+    "definition": "To think about something for too long, especially something negative.",
+    "chinese": "沉溺於",
+    "example": "We dwell on our failures instead of moving on."
+  },
+  "evidence": {
+    "definition": "Information that shows whether something is true or false.",
+    "chinese": "證據",
+    "example": "She used failures as evidence she was no good."
+  },
+  "bother": {
+    "definition": "To make an effort to do something; also can mean to worry about something.",
+    "chinese": "費心",
+    "example": "She felt she shouldn't even bother trying."
+  },
+  "fitting": {
+    "definition": "A session where you try on clothes to see if they fit properly, especially for a wedding dress.",
+    "chinese": "試穿",
+    "example": "At the final fitting, she tried on her wedding dress."
+  },
+  "wedding": {
+    "definition": "The ceremony where two people get married.",
+    "chinese": "婚禮",
+    "example": "She was excited about her wedding day."
+  },
+  "pursed": {
+    "definition": "Pressed together tightly, usually the lips, showing worry or disapproval.",
+    "chinese": "抿緊的",
+    "example": "Her mother pursed her lips and looked worried."
+  },
+  "veil": {
+    "definition": "A piece of thin fabric worn over the face or head, often by a bride.",
+    "chinese": "面紗",
+    "example": "With the veil and flowers, the dress looked perfect."
+  },
+  "unwittingly": {
+    "definition": "Without knowing or meaning to; accidentally.",
+    "chinese": "不知不覺地",
+    "example": "She unwittingly passed on her anxiety to her children."
+  },
+  "anxiety": {
+    "definition": "A feeling of worry and nervousness about what might happen.",
+    "chinese": "焦慮",
+    "example": "Her mother's anxiety affected everyone around her."
+  },
+  "insecurities": {
+    "definition": "Feelings of not being good enough or of being uncertain about yourself.",
+    "chinese": "不安全感",
+    "example": "Her mother's insecurities showed in her comments."
+  },
+  "lay waste": {
+    "definition": "To destroy or damage greatly.",
+    "chinese": "摧毀",
+    "example": "Her anxiety can lay waste to the people around her."
+  },
+  "self-torturous": {
+    "definition": "Causing pain and suffering to yourself in your own mind.",
+    "chinese": "自我折磨的",
+    "example": "Her self-torturous inner critic was always active."
+  },
+  "demonize": {
+    "definition": "To make someone seem very bad or evil.",
+    "chinese": "妖魔化",
+    "example": "I don't want to demonize her mother."
+  },
+  "unaware": {
+    "definition": "Not knowing about something; not noticing.",
+    "chinese": "不知道的",
+    "example": "She was unaware of how her self-talk affected her children."
+  },
+  "determined": {
+    "definition": "Having a strong decision to do something and not giving up.",
+    "chinese": "堅定的",
+    "example": "She was determined not to pass it on."
+  },
+  "demoralizing": {
+    "definition": "Making you lose hope and confidence.",
+    "chinese": "令人喪氣的",
+    "example": "Constant self-criticism is so demoralizing."
+  },
+  "argue": {
+    "definition": "To disagree with someone using words; to fight with words.",
+    "chinese": "爭論",
+    "example": "She used to argue with the inner voice."
+  },
+  "engage": {
+    "definition": "To get involved with something; to give it your attention.",
+    "chinese": "參與；回應",
+    "example": "Don't engage with the negative voice."
+  },
+  "colleague": {
+    "definition": "A person you work with.",
+    "chinese": "同事",
+    "example": "Treat the inner critic like a difficult work colleague."
+  },
+  "entitled": {
+    "definition": "Having the right to something.",
+    "chinese": "有權利的",
+    "example": "You are entitled to your opinion."
+  },
+  "override": {
+    "definition": "To use your will to go against something; to overpower.",
+    "chinese": "克服",
+    "example": "She makes herself override her fears."
+  },
+  "discourage": {
+    "definition": "To make someone feel less confident or willing to do something.",
+    "chinese": "使氣餒",
+    "example": "Don't let fear discourage your children."
+  },
+  "unexpected": {
+    "definition": "Not expected; surprising.",
+    "chinese": "意想不到的",
+    "example": "An unexpected side effect was more confidence."
+  },
+  "side effect": {
+    "definition": "An extra result that happens in addition to the main one.",
+    "chinese": "副作用",
+    "example": "The unexpected side effect was feeling better about life."
+  },
+  "separate": {
+    "definition": "To divide into different parts.",
+    "chinese": "分開",
+    "example": "Let's separate what she did into steps."
+  },
+  "content": {
+    "definition": "Here means the substance or meaning of what someone is doing.",
+    "chinese": "內容",
+    "example": "If we separate the content into a process, it goes like this."
+  },
+  "process": {
+    "definition": "A series of steps or actions taken to achieve something.",
+    "chinese": "過程",
+    "example": "Follow this four-step process."
+  },
+  "awkward": {
+    "definition": "Difficult to deal with; making you feel uncomfortable.",
+    "chinese": "令人尷尬的",
+    "example": "Treat the voice like someone awkward."
+  },
+  "acknowledge": {
+    "definition": "To accept or recognize that something exists or is true.",
+    "chinese": "承認",
+    "example": "Acknowledge what the voice says but don't agree."
+  },
+  "colluding": {
+    "definition": "Secretly working together with someone, usually in a bad way; agreeing with something harmful.",
+    "chinese": "共謀",
+    "example": "Don't collude with the inner critic."
+  },
+  "expand": {
+    "definition": "To make something bigger or wider.",
+    "chinese": "擴展",
+    "example": "Expand your comfort zone by trying new things."
+  },
+  "comfort zone": {
+    "definition": "The range of activities where you feel safe and relaxed.",
+    "chinese": "舒適圈",
+    "example": "Growth happens when you step outside your comfort zone."
+  },
+  "self-doubt": {
+    "definition": "A feeling of not being sure about your own abilities.",
+    "chinese": "自我懷疑",
+    "example": "Self-doubt can be overcome with practice."
+  },
+  "creeps": {
+    "definition": "Moves slowly and quietly; here means gradually appears.",
+    "chinese": "悄悄出現",
+    "example": "Self-doubt creeps in when you are tired."
+  },
+  "incentive": {
+    "definition": "Something that motivates you to do something.",
+    "chinese": "動機",
+    "example": "Protecting your child is an extra incentive to change."
+  },
+  "mindful": {
+    "definition": "Being careful and aware of something.",
+    "chinese": "留心的",
+    "example": "Be mindful of your inner critic."
+  },
+  "reveal": {
+    "definition": "To show or make something known that was hidden.",
+    "chinese": "揭示",
+    "example": "The exercise helps reveal your inner critic."
+  },
+  "pencil": {
+    "definition": "A thin writing tool, usually made of wood with a dark center.",
+    "chinese": "鉛筆",
+    "example": "Keep a pencil and pad nearby."
+  },
+  "pad": {
+    "definition": "A number of sheets of paper held together for writing notes.",
+    "chinese": "便條本",
+    "example": "Write your thoughts on a pad."
+  },
+  "self-critical": {
+    "definition": "Being very hard on yourself; always finding your own faults.",
+    "chinese": "自我批判的",
+    "example": "Note down any self-critical thoughts during the day."
+  },
+  "articulate": {
+    "definition": "To express thoughts or feelings clearly in words.",
+    "chinese": "清楚表達",
+    "example": "Do you recognize these criticisms as ones you have seen others articulate?"
+  },
+  "achieve": {
+    "definition": "To succeed in doing something you worked for.",
+    "chinese": "達成",
+    "example": "Think of something you would like to achieve."
+  },
+  "steps": {
+    "definition": "Individual actions taken one at a time toward a goal.",
+    "chinese": "步驟",
+    "example": "What steps do you need to take?"
+  },
+  "remind": {
+    "definition": "To make someone think of something they might have forgotten.",
+    "chinese": "提醒",
+    "example": "Does this voice remind you of anyone?"
+  },
+  "vibe": {
+    "definition": "A feeling or atmosphere that someone or something gives off.",
+    "chinese": "氛圍；感覺",
+    "example": "She passed on this not-good-enough vibe to her children."
+  },
+  "stick": {
+    "definition": "Here in 'stick at things' means to continue doing something and not give up.",
+    "chinese": "堅持",
+    "example": "She tells herself she doesn't stick at things."
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "mood": {
+    "definition": "the way you feel at a particular time, such as happy or sad",
+    "chinese": "情緒；心情",
+    "example": "Her mood changed quickly from happy to angry."
+  },
+  "capacity": {
+    "definition": "the ability to do or hold something",
+    "chinese": "能力",
+    "example": "Children have a great capacity for happiness when they feel loved."
+  },
+  "invested": {
+    "definition": "having put a lot of time, energy, or feeling into something",
+    "chinese": "投入的",
+    "example": "Parents have too much invested in the idea of being perfect."
+  },
+  "gambolling": {
+    "definition": "running and jumping around happily, like a playful animal",
+    "chinese": "蹦蹦跳跳",
+    "example": "The children were gambolling in the field on a sunny day."
+  },
+  "meadow": {
+    "definition": "a field of grass, often with wild flowers",
+    "chinese": "草地",
+    "example": "They had a picnic in the meadow."
+  },
+  "picnic": {
+    "definition": "a meal eaten outside, usually in a park or field",
+    "chinese": "野餐",
+    "example": "The family enjoyed a picnic by the river."
+  },
+  "emotional": {
+    "definition": "related to feelings, or showing strong feelings",
+    "chinese": "情感的",
+    "example": "He had many emotional reactions to the news."
+  },
+  "compare": {
+    "definition": "to look at two things to see how they are different or the same",
+    "chinese": "比較",
+    "example": "You need other feelings to compare happiness to."
+  },
+  "scolded": {
+    "definition": "spoken to angrily because you did something wrong",
+    "chinese": "被責罵",
+    "example": "The child was scolded for breaking the glass."
+  },
+  "distracted": {
+    "definition": "having your attention taken away from what you were doing or feeling",
+    "chinese": "分心的",
+    "example": "She was distracted from her sadness by a funny video."
+  },
+  "aspects": {
+    "definition": "different parts or sides of something",
+    "chinese": "方面",
+    "example": "Parents should accept all aspects of their child's personality."
+  },
+  "experience": {
+    "definition": "something that happens to you, or the knowledge you gain from living",
+    "chinese": "經歷；體驗",
+    "example": "Every child's experience of the world is different."
+  },
+  "overheard": {
+    "definition": "heard something by accident, not on purpose",
+    "chinese": "無意中聽到",
+    "example": "My father overheard what I said to his friend."
+  },
+  "remonstrate": {
+    "definition": "to argue against someone, to tell them they are wrong",
+    "chinese": "抗議；責備",
+    "example": "He turned angrily to remonstrate with me about what I said."
+  },
+  "nonsense": {
+    "definition": "something that makes no sense or is not true",
+    "chinese": "胡說",
+    "example": "He said my feelings were nonsense."
+  },
+  "idyllic": {
+    "definition": "extremely peaceful, happy, and beautiful",
+    "chinese": "田園般美好的",
+    "example": "He described my childhood as idyllic, but I did not feel that way."
+  },
+  "rubbish": {
+    "definition": "something that is not true or has no value (British English)",
+    "chinese": "廢話；胡說",
+    "example": "He said what I felt was rubbish."
+  },
+  "beloved": {
+    "definition": "loved very much",
+    "chinese": "心愛的",
+    "example": "He was my beloved father, even though he scared me."
+  },
+  "confused": {
+    "definition": "not able to think clearly, not sure what is happening",
+    "chinese": "困惑的",
+    "example": "She felt confused about her own feelings."
+  },
+  "mistaken": {
+    "definition": "wrong about something, having an incorrect idea",
+    "chinese": "弄錯的",
+    "example": "I felt I must have been mistaken about my feelings."
+  },
+  "contradicted": {
+    "definition": "said the opposite of what someone else said",
+    "chinese": "反駁了",
+    "example": "When my father contradicted me, I felt confused."
+  },
+  "fug": {
+    "definition": "a feeling of being unclear and unable to think, like being in a fog",
+    "chinese": "迷糊混亂的感覺",
+    "example": "My brain went into an unclear fug when he told me I was wrong."
+  },
+  "shame": {
+    "definition": "a painful feeling that you have done something wrong or are not good enough",
+    "chinese": "羞恥",
+    "example": "In the fug there was also shame."
+  },
+  "viewpoint": {
+    "definition": "the way you see or think about something",
+    "chinese": "觀點",
+    "example": "My viewpoint was different from my father's."
+  },
+  "valid": {
+    "definition": "reasonable and acceptable, having a real basis",
+    "chinese": "合理的",
+    "example": "Her viewpoint was a valid way of seeing things."
+  },
+  "negatives": {
+    "definition": "bad things or bad qualities",
+    "chinese": "負面的事物",
+    "example": "He treated her sadness as a negative to be corrected."
+  },
+  "corrected": {
+    "definition": "fixed or changed to be right",
+    "chinese": "被糾正的",
+    "example": "Feelings should not be treated as mistakes to be corrected."
+  },
+  "deepen": {
+    "definition": "to make something stronger or more meaningful",
+    "chinese": "加深",
+    "example": "Accepting your child's feelings will deepen your bond."
+  },
+  "bond": {
+    "definition": "a strong feeling of closeness between people",
+    "chinese": "情感連結",
+    "example": "A parent and child share a special bond."
+  },
+  "likelihood": {
+    "definition": "the chance that something will happen",
+    "chinese": "可能性",
+    "example": "There is every likelihood you will increase their happiness."
+  },
+  "foul": {
+    "definition": "very bad or unpleasant",
+    "chinese": "糟糕的",
+    "example": "I had a foul day at work today."
+  },
+  "batted": {
+    "definition": "pushed away quickly and without care",
+    "chinese": "被打發掉",
+    "example": "She felt batted away by his cold response."
+  },
+  "habitually": {
+    "definition": "done regularly as a habit, all the time",
+    "chinese": "習慣性地",
+    "example": "If this is the response you habitually get, you might stop sharing."
+  },
+  "confiding": {
+    "definition": "sharing private or personal things with someone you trust",
+    "chinese": "傾訴",
+    "example": "She gave up confiding in her partner about her problems."
+  },
+  "unfair": {
+    "definition": "not right or equal, treating someone badly",
+    "chinese": "不公平的",
+    "example": "She said her boss had been very unfair to her."
+  },
+  "carelessness": {
+    "definition": "not paying enough attention, making mistakes because you are not careful",
+    "chinese": "粗心大意",
+    "example": "His carelessness caused everyone extra work."
+  },
+  "squirrel": {
+    "definition": "a small animal with a big tail that climbs trees",
+    "chinese": "松鼠",
+    "example": "Look at that cute squirrel out of the window."
+  },
+  "sympathetic": {
+    "definition": "showing that you understand and care about someone's problems",
+    "chinese": "有同情心的",
+    "example": "It is easy to be sympathetic when your child has a bad day."
+  },
+  "sibling": {
+    "definition": "a brother or sister",
+    "chinese": "兄弟姐妹",
+    "example": "You cannot tell a child that they love their sibling."
+  },
+  "container": {
+    "definition": "something that holds things inside it; here it means a safe space for feelings",
+    "chinese": "容器",
+    "example": "Children need a safe container for their feelings."
+  },
+  "revelled": {
+    "definition": "enjoyed something very much",
+    "chinese": "陶醉於",
+    "example": "She revelled in being told she was a big sister."
+  },
+  "novelty": {
+    "definition": "the quality of being new and exciting",
+    "chinese": "新鮮感",
+    "example": "The novelty of having a new baby wore off quickly."
+  },
+  "tantrums": {
+    "definition": "sudden bursts of anger, usually by a child",
+    "chinese": "發脾氣",
+    "example": "She began having more tantrums after the baby arrived."
+  },
+  "cooperate": {
+    "definition": "to work together, to do what is asked of you",
+    "chinese": "合作",
+    "example": "The child refused to cooperate at bedtime."
+  },
+  "wetting": {
+    "definition": "making wet with urine, losing control of your bladder",
+    "chinese": "尿床",
+    "example": "She started wetting the bed again when the baby came."
+  },
+  "exhausting": {
+    "definition": "making you very tired",
+    "chinese": "令人精疲力竭的",
+    "example": "Caring for two small children is exhausting."
+  },
+  "frank": {
+    "definition": "honest and direct in what you say",
+    "chinese": "坦白的",
+    "example": "To be frank, the bedtime was perfectly horrible."
+  },
+  "horrible": {
+    "definition": "very bad and unpleasant",
+    "chinese": "可怕的",
+    "example": "It was a perfectly horrible evening."
+  },
+  "irritated": {
+    "definition": "slightly angry or annoyed",
+    "chinese": "惱怒的",
+    "example": "I can still be irritated by my sister for no reason."
+  },
+  "articulate": {
+    "definition": "to express a thought or feeling clearly in words",
+    "chinese": "清楚表達",
+    "example": "I wanted to understand her feelings and articulate them to her."
+  },
+  "inconvenient": {
+    "definition": "causing problems or difficulty, not easy to deal with",
+    "chinese": "不方便的",
+    "example": "Her feelings were inconvenient but still real."
+  },
+  "inconvenienced": {
+    "definition": "caused trouble or difficulty for someone",
+    "chinese": "造成不便",
+    "example": "Whenever she was inconvenienced, I described how she must feel."
+  },
+  "cooperation": {
+    "definition": "working together and helping each other",
+    "chinese": "合作",
+    "example": "It was great to get her cooperation back."
+  },
+  "fetching": {
+    "definition": "going to get something and bringing it back",
+    "chinese": "去拿",
+    "example": "She started helping by fetching nappies for the baby."
+  },
+  "nappies": {
+    "definition": "soft cloth or paper that babies wear to catch waste (British English for diapers)",
+    "chinese": "尿布",
+    "example": "She helped by fetching nappies for the baby."
+  },
+  "wipes": {
+    "definition": "wet cloths used to clean a baby's skin",
+    "chinese": "濕紙巾",
+    "example": "She helped by passing wipes during diaper changes."
+  },
+  "nap": {
+    "definition": "a short sleep during the day",
+    "chinese": "小睡",
+    "example": "The baby just woke up from his nap."
+  },
+  "fountains": {
+    "definition": "structures where water sprays up into the air, often in parks",
+    "chinese": "噴泉",
+    "example": "The children loved playing under the fountains in the park."
+  },
+  "soaking": {
+    "definition": "very wet, completely covered in water",
+    "chinese": "濕透的",
+    "example": "He would be soaking wet after playing in the fountains."
+  },
+  "persuade": {
+    "definition": "to try to make someone believe or do something by giving reasons",
+    "chinese": "說服",
+    "example": "My mum tried to persuade him he did not want to get wet."
+  },
+  "disappointed": {
+    "definition": "sad because something did not happen as you hoped",
+    "chinese": "失望的",
+    "example": "I'm sorry you're disappointed that we have to leave."
+  },
+  "squabbles": {
+    "definition": "small, not serious fights or arguments",
+    "chinese": "小爭吵",
+    "example": "There are squabbles between the siblings sometimes."
+  },
+  "animosity": {
+    "definition": "a strong feeling of dislike or anger toward someone",
+    "chinese": "敵意",
+    "example": "They play together without animosity most of the time."
+  },
+  "empathy": {
+    "definition": "the ability to understand and share another person's feelings",
+    "chinese": "同理心",
+    "example": "Empathy is harder work than it may seem."
+  },
+  "circumstances": {
+    "definition": "the facts or conditions around a situation",
+    "chinese": "情況；環境",
+    "example": "Think about their circumstances before judging them."
+  },
+  "conclusion": {
+    "definition": "a decision or opinion you reach after thinking about something",
+    "chinese": "結論",
+    "example": "They came to a different conclusion about the problem."
+  },
+  "practising": {
+    "definition": "doing something again and again to get better at it",
+    "chinese": "練習",
+    "example": "Practising empathy will make it easier over time."
+  },
+  "validate": {
+    "definition": "to show that someone's feelings are real and important",
+    "chinese": "認可",
+    "example": "I need to validate how they are feeling."
+  },
+  "teatime": {
+    "definition": "the time in the late afternoon when you have a light meal (British English)",
+    "chinese": "下午茶時間",
+    "example": "By teatime her behaviour had improved."
+  },
+  "granted": {
+    "definition": "accepted as true without thinking about it carefully",
+    "chinese": "視為理所當然",
+    "example": "Parents take it for granted that their happiness equals their child's."
+  },
+  "failure": {
+    "definition": "the feeling of not succeeding or not being good enough",
+    "chinese": "失敗",
+    "example": "You may feel like a failure if your child seems unhappy."
+  },
+  "opportunity": {
+    "definition": "a chance to do something good",
+    "chinese": "機會",
+    "example": "What my father missed was an opportunity to connect with me."
+  },
+  "scared": {
+    "definition": "feeling afraid",
+    "chinese": "害怕的",
+    "example": "He was my beloved, if scared, father."
+  }
+}

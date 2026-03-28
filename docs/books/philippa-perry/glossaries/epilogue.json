@@ -1,0 +1,257 @@
+{
+  "epilogue": {
+    "definition": "A short section at the end of a book that adds final thoughts.",
+    "chinese": "後記",
+    "example": "The epilogue wrapped up the story beautifully."
+  },
+  "comedian": {
+    "definition": "A person whose job is to make people laugh.",
+    "chinese": "喜劇演員",
+    "example": "The comedian told a funny joke about parenting."
+  },
+  "envisaged": {
+    "definition": "Imagined or expected something to be a certain way.",
+    "chinese": "設想",
+    "example": "The trip was not what I had envisaged."
+  },
+  "picnic": {
+    "definition": "A meal eaten outside, usually on a blanket.",
+    "chinese": "野餐",
+    "example": "We had a lovely picnic by the lake."
+  },
+  "aside": {
+    "definition": "To one side; away from you.",
+    "chinese": "放到一邊",
+    "example": "Put aside your worries and relax."
+  },
+  "blocks": {
+    "definition": "Things that prevent you from doing or feeling something.",
+    "chinese": "障礙",
+    "example": "Emotional blocks can stop you from connecting with others."
+  },
+  "inhibit": {
+    "definition": "To stop or slow down something from happening.",
+    "chinese": "抑制",
+    "example": "Fear can inhibit your ability to try new things."
+  },
+  "warmth": {
+    "definition": "A friendly and caring feeling toward someone.",
+    "chinese": "溫暖",
+    "example": "Her warmth made everyone feel welcome."
+  },
+  "acceptance": {
+    "definition": "Being willing to receive someone or something without trying to change them.",
+    "chinese": "接納",
+    "example": "Children need acceptance from their parents."
+  },
+  "physical": {
+    "definition": "Related to the body rather than the mind.",
+    "chinese": "身體的",
+    "example": "Physical touch is important for babies."
+  },
+  "presence": {
+    "definition": "Being there with someone, giving them your attention.",
+    "chinese": "存在；在場",
+    "example": "Your presence means more than any gift."
+  },
+  "harmonious": {
+    "definition": "Peaceful; with everyone getting along well.",
+    "chinese": "和諧的",
+    "example": "They created a harmonious home for their children."
+  },
+  "environment": {
+    "definition": "The conditions and surroundings where someone lives.",
+    "chinese": "環境",
+    "example": "A safe environment helps children learn."
+  },
+  "differences": {
+    "definition": "Ways in which people or things are not the same.",
+    "chinese": "差異",
+    "example": "They learned to respect their differences."
+  },
+  "soothing": {
+    "definition": "Making someone feel calm and less worried or upset.",
+    "chinese": "令人安慰的",
+    "example": "The mother's soothing voice calmed the baby."
+  },
+  "attention": {
+    "definition": "The act of watching, listening, or thinking about something carefully.",
+    "chinese": "注意力",
+    "example": "Children need a lot of attention from their parents."
+  },
+  "situations": {
+    "definition": "Particular sets of conditions or circumstances at a certain time.",
+    "chinese": "情況",
+    "example": "Different situations require different responses."
+  },
+  "express": {
+    "definition": "To show or tell others what you think or feel.",
+    "chinese": "表達",
+    "example": "It is important to express your feelings."
+  },
+  "validate": {
+    "definition": "To show that someone's feelings or opinions are understood and accepted.",
+    "chinese": "認可",
+    "example": "A good listener will validate your feelings."
+  },
+  "attempt": {
+    "definition": "To try to do something.",
+    "chinese": "嘗試",
+    "example": "She made an attempt to learn the piano."
+  },
+  "rescue": {
+    "definition": "To save someone from a dangerous or difficult situation.",
+    "chinese": "拯救",
+    "example": "Parents should not always rescue their children from problems."
+  },
+  "brainstorm": {
+    "definition": "To think of many different ideas or solutions quickly.",
+    "chinese": "腦力激盪",
+    "example": "Let's brainstorm ways to solve this problem."
+  },
+  "boundaries": {
+    "definition": "Rules or limits that show what is acceptable behavior.",
+    "chinese": "界限",
+    "example": "Setting boundaries helps children feel safe."
+  },
+  "defining": {
+    "definition": "Explaining clearly what something means or what you stand for.",
+    "chinese": "界定",
+    "example": "She is defining her own values as a parent."
+  },
+  "non-defensive": {
+    "definition": "Not trying to protect yourself from blame; open to hearing criticism.",
+    "chinese": "不防禦的",
+    "example": "Being non-defensive helps you learn from mistakes."
+  },
+  "repair": {
+    "definition": "To fix something that was broken or damaged.",
+    "chinese": "修復",
+    "example": "It takes effort to repair a broken relationship."
+  },
+  "owning": {
+    "definition": "Accepting that something is your fault or responsibility.",
+    "chinese": "承認",
+    "example": "Owning your mistakes makes you a stronger person."
+  },
+  "dynamics": {
+    "definition": "The way people interact and the forces that drive their behavior together.",
+    "chinese": "動態；互動方式",
+    "example": "Family dynamics change when a new baby arrives."
+  },
+  "cooperation": {
+    "definition": "Working together with others to achieve something.",
+    "chinese": "合作",
+    "example": "The project was a success thanks to cooperation."
+  },
+  "collaboration": {
+    "definition": "Working with someone else to create or produce something together.",
+    "chinese": "協作",
+    "example": "Their collaboration resulted in a wonderful book."
+  },
+  "treasure": {
+    "definition": "To value something very highly; to care for it deeply.",
+    "chinese": "珍惜",
+    "example": "Treasure the time you spend with your family."
+  },
+  "authentic": {
+    "definition": "Real and genuine; true to who you really are.",
+    "chinese": "真實的",
+    "example": "Children respond well to authentic emotions."
+  },
+  "concentrate": {
+    "definition": "To focus all your attention on one thing.",
+    "chinese": "專注",
+    "example": "Concentrate on the problem, not just the child."
+  },
+  "general": {
+    "definition": "Applying to all or most cases, not specific.",
+    "chinese": "一般的",
+    "example": "These are general rules for good parenting."
+  },
+  "apply": {
+    "definition": "To be relevant or true in a situation.",
+    "chinese": "適用",
+    "example": "These rules apply to children of all ages."
+  },
+  "whatever": {
+    "definition": "No matter what; regardless of what.",
+    "chinese": "無論什麼",
+    "example": "I will support you whatever happens."
+  },
+  "amazing": {
+    "definition": "Very surprising and wonderful.",
+    "chinese": "令人驚嘆的",
+    "example": "It is amazing how fast children grow."
+  },
+  "despite": {
+    "definition": "Even though something else is happening; regardless of.",
+    "chinese": "儘管",
+    "example": "Despite the rain, we had a good time."
+  },
+  "dump": {
+    "definition": "To put or throw something onto someone carelessly and unfairly.",
+    "chinese": "傾倒",
+    "example": "Don't dump your anger on your children."
+  },
+  "rush": {
+    "definition": "To do something too quickly without enough care.",
+    "chinese": "催促",
+    "example": "Don't rush the children; let them take their time."
+  },
+  "unavailable": {
+    "definition": "Not able to be reached or not present for someone who needs you.",
+    "chinese": "無法接近的",
+    "example": "The parent was emotionally unavailable to the child."
+  },
+  "standpoint": {
+    "definition": "A particular way of seeing or thinking about something; a point of view.",
+    "chinese": "立場",
+    "example": "Try to see things from your child's standpoint."
+  },
+  "overidentify": {
+    "definition": "To connect too strongly with someone else's feelings, losing your own separate view.",
+    "chinese": "過度認同",
+    "example": "Parents can overidentify with their child and lose perspective."
+  },
+  "merge": {
+    "definition": "To blend together and lose the difference between two things.",
+    "chinese": "融合",
+    "example": "Try not to merge your identity with your child's."
+  },
+  "separate": {
+    "definition": "To become independent; to exist apart from someone else.",
+    "chinese": "分離",
+    "example": "Children need to learn to separate from their parents."
+  },
+  "bonded": {
+    "definition": "Joined together by a strong emotional connection.",
+    "chinese": "建立深厚連結的",
+    "example": "The mother and baby bonded quickly after birth."
+  },
+  "reassuring": {
+    "definition": "Making you feel less worried; comforting.",
+    "chinese": "令人安心的",
+    "example": "It is reassuring to know you can fix mistakes."
+  },
+  "ruptures": {
+    "definition": "Breaks or tears in a relationship caused by hurt or misunderstanding.",
+    "chinese": "裂痕",
+    "example": "Ruptures in relationships can be repaired with honesty."
+  },
+  "forgiving": {
+    "definition": "Willing to stop being angry at someone who did wrong.",
+    "chinese": "寬容的",
+    "example": "Being forgiving of yourself is important as a parent."
+  },
+  "brave": {
+    "definition": "Having the courage to face something difficult or scary.",
+    "chinese": "勇敢的",
+    "example": "It takes being brave to admit your mistakes."
+  },
+  "honest": {
+    "definition": "Telling the truth; not lying or hiding things.",
+    "chinese": "誠實的",
+    "example": "Be honest with your children about your feelings."
+  }
+}

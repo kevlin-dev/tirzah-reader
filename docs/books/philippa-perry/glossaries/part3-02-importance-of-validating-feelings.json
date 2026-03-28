@@ -1,0 +1,402 @@
+{
+  "validating": {
+    "definition": "Showing someone that their feelings are real and important.",
+    "chinese": "認可",
+    "example": "Validating a child's feelings helps them feel heard."
+  },
+  "bearing": {
+    "definition": "An effect or influence on something.",
+    "chinese": "影響",
+    "example": "How you manage feelings has a bearing on your child."
+  },
+  "instincts": {
+    "definition": "Natural feelings that tell you what to do without thinking.",
+    "chinese": "直覺",
+    "example": "Trust your instincts when something feels wrong."
+  },
+  "deny": {
+    "definition": "To say something is not true or not important.",
+    "chinese": "否認",
+    "example": "If we deny how a child feels, we dull their instincts."
+  },
+  "dulling": {
+    "definition": "Making something less sharp or sensitive.",
+    "chinese": "使遲鈍",
+    "example": "Denying feelings risks dulling a child's natural instincts."
+  },
+  "excellent": {
+    "definition": "Very good; of very high quality.",
+    "chinese": "優秀的",
+    "example": "It is an excellent book about talking to children."
+  },
+  "pretend": {
+    "definition": "To act as if something is true when it is not.",
+    "chinese": "假裝",
+    "example": "The older boy wanted to pretend to be a dog."
+  },
+  "icky": {
+    "definition": "Feeling disgusted or uncomfortable.",
+    "chinese": "噁心的",
+    "example": "It made her feel icky, so she left the pool."
+  },
+  "react": {
+    "definition": "To act in response to something that happened.",
+    "chinese": "反應",
+    "example": "Her friends had been trained not to react to certain things."
+  },
+  "dismiss": {
+    "definition": "To treat something as not important.",
+    "chinese": "忽視",
+    "example": "It is too easy to dismiss a child's fears."
+  },
+  "hack": {
+    "definition": "A quick, clever trick or shortcut.",
+    "chinese": "技巧",
+    "example": "If there is one big hack, it is this: do not fight about feelings."
+  },
+  "battle": {
+    "definition": "A fight or struggle.",
+    "chinese": "戰鬥",
+    "example": "Do not get into a battle about what a child is feeling."
+  },
+  "agenda": {
+    "definition": "A list of things you need to do; your plan.",
+    "chinese": "議程",
+    "example": "You have your own agenda to worry about."
+  },
+  "dialogue": {
+    "definition": "A conversation between people.",
+    "chinese": "對話",
+    "example": "Saying 'You hate school right now' opens up the dialogue."
+  },
+  "shutting": {
+    "definition": "Closing something, stopping it from continuing.",
+    "chinese": "關閉",
+    "example": "Saying 'that's that' shuts down the conversation."
+  },
+  "grab": {
+    "definition": "To take something quickly and roughly.",
+    "chinese": "抓",
+    "example": "We grab a toddler to put their coat on."
+  },
+  "toddler": {
+    "definition": "A very young child who has just started walking.",
+    "chinese": "幼兒",
+    "example": "The toddler refused to put on her coat."
+  },
+  "observing": {
+    "definition": "Watching carefully.",
+    "chinese": "觀察",
+    "example": "Start by observing and listening to your child."
+  },
+  "reflecting": {
+    "definition": "Thinking about something carefully; also, repeating back what someone said.",
+    "chinese": "反思",
+    "example": "Reflecting their feelings back to them shows you understand."
+  },
+  "pace": {
+    "definition": "The speed at which someone does something.",
+    "chinese": "步調",
+    "example": "Respect your child's slower pace in the morning."
+  },
+  "catastrophe": {
+    "definition": "A terrible event; a disaster.",
+    "chinese": "災難",
+    "example": "What seems small to you can feel like a catastrophe to a toddler."
+  },
+  "resilience": {
+    "definition": "The ability to recover quickly from difficult situations.",
+    "chinese": "韌性",
+    "example": "She worried her son would never build up resilience."
+  },
+  "floods": {
+    "definition": "A very large amount, like water rushing in.",
+    "chinese": "大量",
+    "example": "Before, he would cry in floods of tears."
+  },
+  "imperceptibly": {
+    "definition": "So slowly that you cannot notice it happening.",
+    "chinese": "不知不覺地",
+    "example": "The change happened gradually and imperceptibly."
+  },
+  "soothing": {
+    "definition": "Making someone feel calm and less upset.",
+    "chinese": "安撫",
+    "example": "Keep soothing your child — it works over time."
+  },
+  "expedient": {
+    "definition": "The quickest and most practical way to do something.",
+    "chinese": "權宜的",
+    "example": "Accepting feelings is actually the most expedient path."
+  },
+  "philosophy": {
+    "definition": "A belief or way of thinking about something.",
+    "chinese": "哲學",
+    "example": "Stick with the philosophy of soothing the tears."
+  },
+  "internalize": {
+    "definition": "To make something part of yourself; to absorb it.",
+    "chinese": "內化",
+    "example": "Over time, children internalize the soothing their parents give them."
+  },
+  "revert": {
+    "definition": "To go back to an old habit or way of doing things.",
+    "chinese": "恢復",
+    "example": "It is easy to revert to how your parents treated you."
+  },
+  "disapproved": {
+    "definition": "Showed that you think something is wrong or bad.",
+    "chinese": "不贊同的",
+    "example": "She was disapproved of for having inconvenient feelings."
+  },
+  "apologizing": {
+    "definition": "Saying sorry.",
+    "chinese": "道歉",
+    "example": "You may find yourself apologizing for crying."
+  },
+  "leap": {
+    "definition": "A big jump; here, a big, brave step.",
+    "chinese": "跳躍",
+    "example": "Accepting feelings can feel like taking a leap into the unknown."
+  },
+  "ancestral": {
+    "definition": "Coming from your family in the past, going back many generations.",
+    "chinese": "祖先的",
+    "example": "You are breaking links in your ancestral emotional chain."
+  },
+  "chain": {
+    "definition": "A series of connected things; here, patterns passed from parent to child.",
+    "chinese": "鏈條",
+    "example": "Break the chain of denying feelings."
+  },
+  "slip-ups": {
+    "definition": "Small mistakes.",
+    "chinese": "小失誤",
+    "example": "Slip-ups are normal and will not ruin your child forever."
+  },
+  "adequate": {
+    "definition": "Good enough; sufficient.",
+    "chinese": "足夠的",
+    "example": "You must be an adequate container for your child's emotions."
+  },
+  "practise": {
+    "definition": "To do something regularly to get better at it.",
+    "chinese": "練習",
+    "example": "Practise dealing with your own emotions."
+  },
+  "define": {
+    "definition": "To explain what something means; to describe clearly.",
+    "chinese": "定義",
+    "example": "Define the feeling rather than defining yourself by it."
+  },
+  "identifying": {
+    "definition": "Seeing yourself as the same as something.",
+    "chinese": "認同",
+    "example": "Say 'I feel sad' instead of identifying with sadness."
+  },
+  "mature": {
+    "definition": "To grow and develop; to become more adult.",
+    "chinese": "成熟",
+    "example": "As children mature, they can use words for their feelings."
+  },
+  "logical": {
+    "definition": "Based on reason and thinking, not feelings.",
+    "chinese": "邏輯的",
+    "example": "The logical part of the brain becomes stronger with age."
+  },
+  "dominant": {
+    "definition": "Stronger or more powerful than others.",
+    "chinese": "主導的",
+    "example": "As they grow, the logical part of the brain becomes dominant."
+  },
+  "mercy": {
+    "definition": "The power someone has over you; being at the mercy of means being controlled by.",
+    "chinese": "支配",
+    "example": "Without words, children are at the mercy of their feelings."
+  },
+  "sibling": {
+    "definition": "A brother or sister.",
+    "chinese": "兄弟姊妹",
+    "example": "It is normal for a child to have strong feelings about a sibling."
+  },
+  "granny": {
+    "definition": "Grandmother.",
+    "chinese": "奶奶",
+    "example": "The child did not want to visit Granny."
+  },
+  "protest": {
+    "definition": "To say or show that you disagree with something.",
+    "chinese": "抗議",
+    "example": "Feeling understood gives them one less thing to protest about."
+  },
+  "orchid": {
+    "definition": "A delicate flower; here, a child who is very sensitive to their environment.",
+    "chinese": "蘭花",
+    "example": "An Orchid child needs extra care and attention."
+  },
+  "dandelion": {
+    "definition": "A tough wild flower; here, a child who is naturally strong in any environment.",
+    "chinese": "蒲公英",
+    "example": "A Dandelion child handles changes more easily."
+  },
+  "ultra-sensitive": {
+    "definition": "Extremely sensitive; affected by things more than most people.",
+    "chinese": "極度敏感的",
+    "example": "Some children are ultra-sensitive to changes around them."
+  },
+  "robust": {
+    "definition": "Strong and able to handle difficult conditions.",
+    "chinese": "強健的",
+    "example": "Dandelion children are naturally more robust."
+  },
+  "immune": {
+    "definition": "The body's system that protects you from getting sick.",
+    "chinese": "免疫的",
+    "example": "Stress can weaken your immune system."
+  },
+  "earthquake": {
+    "definition": "When the ground shakes strongly and suddenly.",
+    "chinese": "地震",
+    "example": "The earthquake happened while researchers were studying children."
+  },
+  "dismayed": {
+    "definition": "Feeling shocked and disappointed.",
+    "chinese": "沮喪的",
+    "example": "The researchers were dismayed because the earthquake changed their study."
+  },
+  "stressor": {
+    "definition": "Something that causes stress.",
+    "chinese": "壓力源",
+    "example": "The earthquake was an extra stressor for the children."
+  },
+  "jeopardize": {
+    "definition": "To put something at risk of being harmed or lost.",
+    "chinese": "危及",
+    "example": "The earthquake could jeopardize their study results."
+  },
+  "capitalize": {
+    "definition": "To take advantage of a situation.",
+    "chinese": "利用",
+    "example": "They decided to capitalize on the earthquake by studying its effects."
+  },
+  "crayons": {
+    "definition": "Colored sticks of wax used for drawing.",
+    "chinese": "蠟筆",
+    "example": "The children were given crayons and paper to draw."
+  },
+  "cheery": {
+    "definition": "Happy and bright.",
+    "chinese": "開朗的",
+    "example": "Some children drew cheery pictures of the disaster."
+  },
+  "depicted": {
+    "definition": "Showed or drew something in a picture.",
+    "chinese": "描繪",
+    "example": "Some children depicted fear and fire in their drawings."
+  },
+  "respiratory": {
+    "definition": "Related to breathing and the lungs.",
+    "chinese": "呼吸的",
+    "example": "The happy-drawing group had more respiratory illnesses."
+  },
+  "fatalities": {
+    "definition": "Deaths, especially in a disaster or accident.",
+    "chinese": "死亡人數",
+    "example": "Some drawings showed fatalities from the earthquake."
+  },
+  "trait": {
+    "definition": "A quality or characteristic that a person has.",
+    "chinese": "特質",
+    "example": "Expression through art is a human trait."
+  },
+  "ownership": {
+    "definition": "Taking control of something as your own.",
+    "chinese": "擁有",
+    "example": "Art helps us take ownership of the things that scare us."
+  },
+  "diminish": {
+    "definition": "To become less or smaller.",
+    "chinese": "減少",
+    "example": "Each time we express sadness, the sadness diminishes."
+  },
+  "essential": {
+    "definition": "Absolutely necessary; must have.",
+    "chinese": "必要的",
+    "example": "It is essential that parents listen to their child's feelings."
+  },
+  "luxury": {
+    "definition": "Something nice that not everyone can have.",
+    "chinese": "奢侈",
+    "example": "Not many families have the luxury of one parent staying home."
+  },
+  "temperament": {
+    "definition": "A person's natural way of thinking and behaving.",
+    "chinese": "氣質",
+    "example": "Staying home may not suit your temperament."
+  },
+  "miserable": {
+    "definition": "Very unhappy.",
+    "chinese": "悲慘的",
+    "example": "Children prefer happy parents over miserable ones."
+  },
+  "martyred": {
+    "definition": "Suffering in a way that makes others feel guilty.",
+    "chinese": "犧牲的",
+    "example": "A child prefers happy parents to martyred ones."
+  },
+  "domestic": {
+    "definition": "Related to the home and family life.",
+    "chinese": "家庭的",
+    "example": "Children should be allowed to have feelings about domestic arrangements."
+  },
+  "denial": {
+    "definition": "Refusing to accept that something is true.",
+    "chinese": "否認",
+    "example": "Being in denial about your child's feelings is not helpful."
+  },
+  "capacity": {
+    "definition": "The ability to do or hold something.",
+    "chinese": "能力",
+    "example": "A child has more capacity for happiness when all feelings are allowed."
+  },
+  "convenient": {
+    "definition": "Easy and fitting well into your plans.",
+    "chinese": "方便的",
+    "example": "Parents want to hear only the convenient feelings."
+  },
+  "interpretation": {
+    "definition": "The way you understand or explain something.",
+    "chinese": "解釋",
+    "example": "Dr Boyce's interpretation of the study was surprising."
+  },
+  "desperately": {
+    "definition": "Very much; with great need.",
+    "chinese": "極度地",
+    "example": "We want our children to be happy so desperately."
+  },
+  "trap": {
+    "definition": "A situation that catches you and is hard to get out of.",
+    "chinese": "陷阱",
+    "example": "We can fall into the trap of denying our child's feelings."
+  },
+  "wisest": {
+    "definition": "Most wise; having the best judgment.",
+    "chinese": "最明智的",
+    "example": "Denial is not the wisest course of action."
+  },
+  "compromised": {
+    "definition": "Made weaker or less safe.",
+    "chinese": "受損的",
+    "example": "Ignoring feelings compromised their safety."
+  },
+  "stings": {
+    "definition": "Hurts with a sharp, quick pain.",
+    "chinese": "刺痛",
+    "example": "Give me a hug while my knee stings."
+  },
+  "childminder": {
+    "definition": "A person who is paid to look after children in their home.",
+    "chinese": "保姆",
+    "example": "The child went to a childminder while her parents worked."
+  }
+}

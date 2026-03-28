@@ -1,0 +1,257 @@
+{
+  "parental": {
+    "definition": "Related to being a parent.",
+    "chinese": "父母的",
+    "example": "Parental lying can hurt a child's trust."
+  },
+  "lying": {
+    "definition": "Saying things that are not true.",
+    "chinese": "說謊",
+    "example": "Lying to children can damage their instincts."
+  },
+  "secrets": {
+    "definition": "Things that are hidden and not told to others.",
+    "chinese": "秘密",
+    "example": "Family secrets can affect a child's behaviour."
+  },
+  "withholding": {
+    "definition": "Keeping something back and not sharing it.",
+    "chinese": "隱瞞",
+    "example": "Withholding information is a form of lying."
+  },
+  "consciously": {
+    "definition": "In a way that you are aware of and thinking about.",
+    "chinese": "有意識地",
+    "example": "Even if family members are not consciously aware, they can sense it."
+  },
+  "straightforward": {
+    "definition": "Simple, honest, and without hidden meaning.",
+    "chinese": "坦率的",
+    "example": "Children can feel when something is not straightforward."
+  },
+  "omitting": {
+    "definition": "Leaving something out; not including it.",
+    "chinese": "省略",
+    "example": "Omitting important information is a kind of lie."
+  },
+  "dulling": {
+    "definition": "Making something less sharp or less strong.",
+    "chinese": "使遲鈍",
+    "example": "Lying to children is dulling their instincts."
+  },
+  "instincts": {
+    "definition": "Natural feelings that help you know something without thinking.",
+    "chinese": "直覺",
+    "example": "Trust your child's instincts about how things feel."
+  },
+  "sensing": {
+    "definition": "Feeling or noticing something without being told directly.",
+    "chinese": "感覺到",
+    "example": "Children are sensing something different from what you tell them."
+  },
+  "discomfort": {
+    "definition": "A feeling of being uneasy or not comfortable.",
+    "chinese": "不適",
+    "example": "The child's discomfort came out as bad behaviour."
+  },
+  "surface": {
+    "definition": "To appear or come out, especially after being hidden.",
+    "chinese": "浮現",
+    "example": "Hidden feelings are likely to surface in behaviour."
+  },
+  "phenomenon": {
+    "definition": "Something that happens or exists, especially something unusual.",
+    "chinese": "現象",
+    "example": "This case study teaches about this phenomenon."
+  },
+  "psychotherapist": {
+    "definition": "A trained professional who helps people with mental and emotional problems through talking.",
+    "chinese": "心理治療師",
+    "example": "They went to see a psychotherapist about their son."
+  },
+  "truant": {
+    "definition": "Staying away from school without permission.",
+    "chinese": "逃學",
+    "example": "He was playing truant from school."
+  },
+  "sullen": {
+    "definition": "Quiet and angry; refusing to talk or be friendly.",
+    "chinese": "悶悶不樂的",
+    "example": "The teenager was sullen and uncommunicative."
+  },
+  "uncommunicative": {
+    "definition": "Not willing to talk or share information.",
+    "chinese": "不愛說話的",
+    "example": "He became sullen and uncommunicative."
+  },
+  "stealing": {
+    "definition": "Taking something that belongs to someone else without permission.",
+    "chinese": "偷竊",
+    "example": "He had been stealing from his mother's bag."
+  },
+  "toe the line": {
+    "definition": "To follow the rules and behave properly.",
+    "chinese": "遵守規矩",
+    "example": "They wanted advice on how to get him to toe the line."
+  },
+  "adolescence": {
+    "definition": "The time of life between being a child and being an adult, usually ages 12-18.",
+    "chinese": "青春期",
+    "example": "During adolescence, teenagers try to separate from parents."
+  },
+  "separate": {
+    "definition": "To become independent and different from someone.",
+    "chinese": "分離",
+    "example": "Teenagers feel a need to separate from their parents."
+  },
+  "tribe": {
+    "definition": "A group of people who share something in common.",
+    "chinese": "族群",
+    "example": "Teenagers form their own new tribe of friends."
+  },
+  "identity": {
+    "definition": "Who you are; the qualities that make you different from others.",
+    "chinese": "身份",
+    "example": "They need to establish a separate identity from their parents."
+  },
+  "stilted": {
+    "definition": "Stiff and unnatural, not flowing easily.",
+    "chinese": "生硬的",
+    "example": "Their description of his childhood sounded stilted and bland."
+  },
+  "bland": {
+    "definition": "Lacking interest; plain and not exciting.",
+    "chinese": "乏味的",
+    "example": "The story they told was bland and without details."
+  },
+  "glanced": {
+    "definition": "Looked quickly at something.",
+    "chinese": "瞥了一眼",
+    "example": "They glanced at each other nervously."
+  },
+  "prompted": {
+    "definition": "Encouraged or pushed someone to say or do something.",
+    "chinese": "促使",
+    "example": "The therapist prompted them to share more."
+  },
+  "stern": {
+    "definition": "Very serious and strict, not friendly.",
+    "chinese": "嚴厲的",
+    "example": "His wife shot him a stern look."
+  },
+  "womanized": {
+    "definition": "Had many romantic relationships with women, often unfaithfully.",
+    "chinese": "到處拈花惹草",
+    "example": "The father had womanized and was an alcoholic."
+  },
+  "alcoholic": {
+    "definition": "A person who cannot stop drinking alcohol.",
+    "chinese": "酗酒者",
+    "example": "His real father was an alcoholic."
+  },
+  "genes": {
+    "definition": "Parts of your body's cells that control what you look like and how you grow, passed from parents.",
+    "chinese": "基因",
+    "example": "They worried the behaviour was in his genes."
+  },
+  "omission": {
+    "definition": "The act of leaving something out.",
+    "chinese": "遺漏",
+    "example": "Not telling the truth is lying by omission."
+  },
+  "furious": {
+    "definition": "Extremely angry.",
+    "chinese": "狂怒的",
+    "example": "When they told him the truth, he was furious."
+  },
+  "rupture": {
+    "definition": "A break or serious damage in a relationship.",
+    "chinese": "裂痕",
+    "example": "They needed to repair the rupture with their son."
+  },
+  "owning up": {
+    "definition": "Admitting that you did something wrong.",
+    "chinese": "承認錯誤",
+    "example": "They needed to own up to preferring a perfect picture."
+  },
+  "acknowledging": {
+    "definition": "Accepting and recognizing that something is true or real.",
+    "chinese": "承認",
+    "example": "They needed to acknowledge the impact on their son."
+  },
+  "apologizing": {
+    "definition": "Saying you are sorry for something you did wrong.",
+    "chinese": "道歉",
+    "example": "Apologizing and accepting his feelings was necessary."
+  },
+  "terrified": {
+    "definition": "Very, very afraid.",
+    "chinese": "極度害怕的",
+    "example": "It is not their feelings that are a problem but our being terrified of them."
+  },
+  "soothe": {
+    "definition": "To calm someone down and make them feel better.",
+    "chinese": "安撫",
+    "example": "If they are worried, you can soothe them."
+  },
+  "reassurance": {
+    "definition": "Words or actions that help someone feel less worried.",
+    "chinese": "安慰",
+    "example": "Bad news needs to be given with reassurance."
+  },
+  "desperately": {
+    "definition": "In a very strong, extreme way because of great need.",
+    "chinese": "極度地",
+    "example": "Although we feel desperately sad now, life will go on."
+  },
+  "bereavement": {
+    "definition": "The sadness you feel when someone you love dies.",
+    "chinese": "喪親之痛",
+    "example": "We cannot protect children from bereavement."
+  },
+  "hitherto": {
+    "definition": "Until now; up to this point in time.",
+    "chinese": "到目前為止",
+    "example": "The parent who had hitherto lived in the home was moving out."
+  },
+  "predictable": {
+    "definition": "Happening in a way that you can expect and prepare for.",
+    "chinese": "可預測的",
+    "example": "Children need a regular and predictable routine."
+  },
+  "age-appropriate": {
+    "definition": "Suitable for a child of a particular age.",
+    "chinese": "適齡的",
+    "example": "Share the truth in an age-appropriate way."
+  },
+  "adopted": {
+    "definition": "Legally taken into a family that is not your birth family.",
+    "chinese": "被收養的",
+    "example": "If your child is adopted, tell them from the start."
+  },
+  "calamities": {
+    "definition": "Terrible events that cause great harm or suffering.",
+    "chinese": "災難",
+    "example": "We cannot protect children from calamities."
+  },
+  "alongside": {
+    "definition": "Next to and together with someone.",
+    "chinese": "在...旁邊",
+    "example": "We can be alongside our children when bad things happen."
+  },
+  "inevitable": {
+    "definition": "Certain to happen; cannot be avoided.",
+    "chinese": "不可避免的",
+    "example": "Difficult times are inevitable in life."
+  },
+  "leisure": {
+    "definition": "Free time to relax and enjoy yourself.",
+    "chinese": "閒暇",
+    "example": "Parents need leisure to enjoy being with their children."
+  },
+  "interactions": {
+    "definition": "Times when people communicate or do things together.",
+    "chinese": "互動",
+    "example": "Love is shown in the give and take of your interactions."
+  }
+}

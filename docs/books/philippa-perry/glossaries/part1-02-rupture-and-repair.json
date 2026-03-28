@@ -1,0 +1,417 @@
+{
+  "rupture": {
+    "definition": "A break or tear, especially in a relationship caused by hurt or misunderstanding.",
+    "chinese": "裂痕",
+    "example": "Every relationship will have some rupture at times."
+  },
+  "repair": {
+    "definition": "To fix something that was broken or damaged.",
+    "chinese": "修復",
+    "example": "It is important to repair your relationship after a fight."
+  },
+  "ideal": {
+    "definition": "Perfect; the best possible.",
+    "chinese": "理想的",
+    "example": "In an ideal world, no one would get hurt."
+  },
+  "acted": {
+    "definition": "Did something based on a feeling or thought.",
+    "chinese": "行動了",
+    "example": "She acted on her anger without thinking."
+  },
+  "inappropriately": {
+    "definition": "In a way that is not suitable or correct for the situation.",
+    "chinese": "不恰當地",
+    "example": "He responded inappropriately to the child's request."
+  },
+  "threaten": {
+    "definition": "To say you will do something bad to someone if they don't do what you want.",
+    "chinese": "威脅",
+    "example": "Parents should not threaten their children."
+  },
+  "unrealistic": {
+    "definition": "Not possible or practical in real life.",
+    "chinese": "不切實際的",
+    "example": "It is unrealistic to never make mistakes."
+  },
+  "experienced": {
+    "definition": "Having a lot of skill or knowledge from doing something for a long time.",
+    "chinese": "有經驗的",
+    "example": "Even an experienced parent makes mistakes."
+  },
+  "fury": {
+    "definition": "Extreme, powerful anger.",
+    "chinese": "狂怒",
+    "example": "She acted on her fury without thinking."
+  },
+  "mend": {
+    "definition": "To fix or heal something that is broken.",
+    "chinese": "修補",
+    "example": "We need to mend the hurt between us."
+  },
+  "inevitable": {
+    "definition": "Certain to happen; cannot be avoided.",
+    "chinese": "不可避免的",
+    "example": "Mistakes in parenting are inevitable."
+  },
+  "intimate": {
+    "definition": "Very close and personal, with deep feelings of connection.",
+    "chinese": "親密的",
+    "example": "Intimate relationships require trust and honesty."
+  },
+  "familial": {
+    "definition": "Related to or typical of a family.",
+    "chinese": "家庭的",
+    "example": "Familial bonds are some of the strongest."
+  },
+  "recognize": {
+    "definition": "To identify or notice something you have seen or experienced before.",
+    "chinese": "認出；意識到",
+    "example": "Learn to recognize your emotional triggers."
+  },
+  "triggers": {
+    "definition": "Things that cause a strong emotional reaction, often from past experiences.",
+    "chinese": "觸發因素",
+    "example": "Understanding your triggers helps you react better."
+  },
+  "apologize": {
+    "definition": "To say you are sorry for something you did wrong.",
+    "chinese": "道歉",
+    "example": "It is important to apologize when you make a mistake."
+  },
+  "moons": {
+    "definition": "Here means months; 'many moons' means a long time ago.",
+    "chinese": "很久（口語用法）",
+    "example": "Even many moons after it happened, you can still apologize."
+  },
+  "tremendous": {
+    "definition": "Very great in amount, size, or importance.",
+    "chinese": "巨大的",
+    "example": "An apology can mean a tremendous amount to a child."
+  },
+  "belief": {
+    "definition": "Something you accept as true or real.",
+    "chinese": "信念",
+    "example": "She carried the belief that her mother didn't care."
+  },
+  "assumed": {
+    "definition": "Believed something to be true without proof.",
+    "chinese": "假設",
+    "example": "The child assumed her mother did not love her."
+  },
+  "relief": {
+    "definition": "A feeling of happiness when something bad stops or does not happen.",
+    "chinese": "如釋重負",
+    "example": "It was a relief to learn the truth."
+  },
+  "merely": {
+    "definition": "Only; just; nothing more than.",
+    "chinese": "只是",
+    "example": "She had merely been confused, not uncaring."
+  },
+  "muddle": {
+    "definition": "A state of confusion or disorder.",
+    "chinese": "混亂",
+    "example": "Her mother had been in a muddle about her feelings."
+  },
+  "dangerous": {
+    "definition": "Able to cause harm or hurt.",
+    "chinese": "危險的",
+    "example": "Is it dangerous to apologize to children?"
+  },
+  "secure": {
+    "definition": "Feeling safe and protected.",
+    "chinese": "安全的",
+    "example": "Children need to feel secure with their parents."
+  },
+  "authentic": {
+    "definition": "Real and genuine; true to who you really are.",
+    "chinese": "真實的",
+    "example": "Children need authentic, not perfect, parents."
+  },
+  "instincts": {
+    "definition": "Natural feelings that guide behavior without conscious thought.",
+    "chinese": "直覺",
+    "example": "Trust your parenting instincts."
+  },
+  "tune": {
+    "definition": "Here means in harmony or agreement with someone's feelings.",
+    "chinese": "協調",
+    "example": "Are you in tune with your child?"
+  },
+  "pretend": {
+    "definition": "To act as if something is true when it is not.",
+    "chinese": "假裝",
+    "example": "Don't pretend that everything is fine when it's not."
+  },
+  "dull": {
+    "definition": "To make something less sharp or sensitive.",
+    "chinese": "使遲鈍",
+    "example": "Pretending will dull their natural instincts."
+  },
+  "overadapts": {
+    "definition": "Changes too much to please others, losing their own sense of self.",
+    "chinese": "過度適應",
+    "example": "A child who overadapts may lose their own identity."
+  },
+  "vulnerable": {
+    "definition": "Easily hurt or harmed, physically or emotionally.",
+    "chinese": "脆弱的",
+    "example": "Children are vulnerable and need protection."
+  },
+  "interests": {
+    "definition": "Things that are good for someone; their benefit or well-being.",
+    "chinese": "利益",
+    "example": "Act in your child's best interests."
+  },
+  "instinct": {
+    "definition": "A natural feeling that helps you know what to do without thinking.",
+    "chinese": "直覺",
+    "example": "Trust your instinct when something feels wrong."
+  },
+  "component": {
+    "definition": "An important part of something larger.",
+    "chinese": "組成部分",
+    "example": "Instinct is a major component of confidence."
+  },
+  "competence": {
+    "definition": "The ability to do something well.",
+    "chinese": "能力",
+    "example": "Her competence grew with practice."
+  },
+  "intelligence": {
+    "definition": "The ability to learn, understand, and think clearly.",
+    "chinese": "智力",
+    "example": "Emotional intelligence is as important as academic intelligence."
+  },
+  "workshop": {
+    "definition": "A meeting where people learn about a topic through discussion and activities.",
+    "chinese": "工作坊",
+    "example": "She attended a parenting workshop."
+  },
+  "attend": {
+    "definition": "To go to an event or meeting.",
+    "chinese": "參加",
+    "example": "His wife suggested he attend the workshop."
+  },
+  "agreed": {
+    "definition": "Had the same opinion; made a decision together.",
+    "chinese": "同意",
+    "example": "They agreed not to have children at first."
+  },
+  "IVF": {
+    "definition": "A medical process to help people have a baby when they cannot naturally (In Vitro Fertilization).",
+    "chinese": "試管嬰兒",
+    "example": "After a year of IVF, she got pregnant."
+  },
+  "pregnant": {
+    "definition": "Having a baby growing inside the body.",
+    "chinese": "懷孕的",
+    "example": "She got pregnant after IVF treatment."
+  },
+  "miraculously": {
+    "definition": "In a way that seems like a miracle; amazingly.",
+    "chinese": "奇蹟般地",
+    "example": "On TV, the baby is miraculously always asleep."
+  },
+  "cot": {
+    "definition": "A small bed with high sides for a baby (British English for crib).",
+    "chinese": "嬰兒床",
+    "example": "The baby slept peacefully in the cot."
+  },
+  "spontaneity": {
+    "definition": "The quality of doing things suddenly without planning.",
+    "chinese": "自發性",
+    "example": "Having a baby means losing some spontaneity."
+  },
+  "flexibility": {
+    "definition": "The ability to change easily and adapt to different situations.",
+    "chinese": "彈性",
+    "example": "Parenting requires giving up some flexibility."
+  },
+  "tedium": {
+    "definition": "The state of being very boring and lasting a long time.",
+    "chinese": "乏味",
+    "example": "The tedium of daily baby care can be overwhelming."
+  },
+  "duty": {
+    "definition": "Something you are required to do as part of your job or role.",
+    "chinese": "責任",
+    "example": "One parent is always on baby duty."
+  },
+  "swing": {
+    "definition": "To move back and forth between two different feelings or states.",
+    "chinese": "搖擺",
+    "example": "He would swing between feeling resentful and depressed."
+  },
+  "resentful": {
+    "definition": "Feeling bitter and angry about something you think is unfair.",
+    "chinese": "怨恨的",
+    "example": "He felt resentful about losing his freedom."
+  },
+  "depressed": {
+    "definition": "Feeling very sad, hopeless, and without energy for a long time.",
+    "chinese": "憂鬱的",
+    "example": "After the baby was born, he felt depressed."
+  },
+  "reverts": {
+    "definition": "Goes back to an earlier or original state.",
+    "chinese": "回復",
+    "example": "The conversation always reverts to the baby."
+  },
+  "selfish": {
+    "definition": "Caring only about yourself and not thinking about others.",
+    "chinese": "自私的",
+    "example": "He felt selfish for wanting time alone."
+  },
+  "fuse": {
+    "definition": "Here in 'short fuse' means getting angry very quickly.",
+    "chinese": "導火線",
+    "example": "He was on a short fuse with everyone."
+  },
+  "exploring": {
+    "definition": "Looking at something carefully to learn about it.",
+    "chinese": "探索",
+    "example": "He wasn't interested in exploring his childhood."
+  },
+  "clue": {
+    "definition": "A piece of information that helps you understand something.",
+    "chinese": "線索",
+    "example": "His resistance was a clue to his pain."
+  },
+  "distance": {
+    "definition": "To separate yourself from something emotionally.",
+    "chinese": "疏遠",
+    "example": "He wanted to distance himself from his past."
+  },
+  "suspected": {
+    "definition": "Believed something was true based on evidence but without being certain.",
+    "chinese": "懷疑",
+    "example": "I suspected he was hiding painful feelings."
+  },
+  "frequent": {
+    "definition": "Happening often.",
+    "chinese": "頻繁的",
+    "example": "His father's visits became less frequent."
+  },
+  "disappearance": {
+    "definition": "The act of going away and not being seen anymore.",
+    "chinese": "消失",
+    "example": "The disappearance of his father affected him deeply."
+  },
+  "desertion": {
+    "definition": "The act of leaving someone who depends on you, permanently.",
+    "chinese": "遺棄",
+    "example": "His father's desertion left deep emotional scars."
+  },
+  "painful": {
+    "definition": "Causing emotional suffering or sadness.",
+    "chinese": "痛苦的",
+    "example": "It was too painful to remember his father leaving."
+  },
+  "unlock": {
+    "definition": "To open something that was locked; here means to allow hidden feelings to come out.",
+    "chinese": "打開",
+    "example": "He needed to unlock his box of difficult emotions."
+  },
+  "sensitive": {
+    "definition": "Able to understand and respond to other people's feelings.",
+    "chinese": "敏感的",
+    "example": "A parent needs to be sensitive to their child's needs."
+  },
+  "dismissing": {
+    "definition": "Treating something as not important; ignoring it.",
+    "chinese": "忽視",
+    "example": "Rather than dismissing his sadness, he sought help."
+  },
+  "therapy": {
+    "definition": "Treatment of emotional or mental problems by talking with a trained professional.",
+    "chinese": "治療",
+    "example": "Therapy helped him understand his anger."
+  },
+  "surprise": {
+    "definition": "An unexpected event or feeling.",
+    "chinese": "驚訝",
+    "example": "To his surprise, he started crying in therapy."
+  },
+  "crying": {
+    "definition": "Producing tears because of strong emotions like sadness or pain.",
+    "chinese": "哭泣",
+    "example": "He found himself crying about his father."
+  },
+  "shouting": {
+    "definition": "Speaking very loudly, often because of anger.",
+    "chinese": "大喊",
+    "example": "He was shouting about his father leaving."
+  },
+  "discontent": {
+    "definition": "A feeling of not being satisfied; unhappiness.",
+    "chinese": "不滿",
+    "example": "His discontent turned to hope after therapy."
+  },
+  "gratitude": {
+    "definition": "A feeling of being thankful and appreciative.",
+    "chinese": "感恩",
+    "example": "He felt gratitude for his family."
+  },
+  "foundations": {
+    "definition": "The basic parts on which something is built or depends.",
+    "chinese": "基礎",
+    "example": "They were laying the foundations of a great relationship."
+  },
+  "valuable": {
+    "definition": "Very useful, important, or worth a lot.",
+    "chinese": "有價值的",
+    "example": "Every child should feel valuable."
+  },
+  "freed": {
+    "definition": "Made someone able to do something by removing a restriction.",
+    "chinese": "釋放了",
+    "example": "His change freed his wife to think about other things."
+  },
+  "attitude": {
+    "definition": "The way you think and feel about something.",
+    "chinese": "態度",
+    "example": "He changed his attitude towards being a parent."
+  },
+  "grief": {
+    "definition": "Very deep sadness, especially after losing someone important.",
+    "chinese": "悲傷",
+    "example": "He could not unlock his love until he had unlocked his grief."
+  },
+  "desire": {
+    "definition": "A strong wish or want to do something.",
+    "chinese": "渴望",
+    "example": "His desire to leave was rooted in his past."
+  },
+  "desert": {
+    "definition": "To leave someone who depends on you; to abandon them.",
+    "chinese": "遺棄",
+    "example": "He did not want to desert his son."
+  },
+  "hazy": {
+    "definition": "Not clear; vague and unclear in your mind.",
+    "chinese": "模糊的",
+    "example": "His idea of parenthood was hazy before the baby came."
+  },
+  "parenthood": {
+    "definition": "The state of being a parent.",
+    "chinese": "為人父母",
+    "example": "Parenthood is harder than most people expect."
+  },
+  "misunderstand": {
+    "definition": "To not understand correctly; to get the wrong meaning.",
+    "chinese": "誤解",
+    "example": "Ruptures happen when we misunderstand each other."
+  },
+  "moods": {
+    "definition": "The way you feel at a particular time (happy, sad, angry, etc.).",
+    "chinese": "情緒",
+    "example": "Children should not be blamed for their parents' bad moods."
+  },
+  "overadapts": {
+    "definition": "Changes too much to fit what others expect, losing their own self.",
+    "chinese": "過度適應",
+    "example": "A child who overadapts may struggle to trust their own feelings."
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "fantastic": {
+    "definition": "Extremely good or wonderful.",
+    "chinese": "極好的",
+    "example": "The weather today is fantastic."
+  },
+  "society": {
+    "definition": "All the people living together in a country or area.",
+    "chinese": "社會",
+    "example": "Our society values education."
+  },
+  "bolster": {
+    "definition": "To support or make something stronger.",
+    "chinese": "支持；加強",
+    "example": "Kind words can bolster someone's confidence."
+  },
+  "crisis": {
+    "definition": "A very difficult or dangerous time when things could get much worse.",
+    "chinese": "危機",
+    "example": "The hospital is in crisis because there are too many patients."
+  },
+  "section": {
+    "definition": "A separate part of a book, document, or area.",
+    "chinese": "章節；部分",
+    "example": "Please read the next section of the book."
+  },
+  "refer": {
+    "definition": "To talk about or mention something.",
+    "chinese": "提及；參考",
+    "example": "She often refers to her childhood memories."
+  },
+  "instilling": {
+    "definition": "Gradually putting a feeling or idea into someone's mind.",
+    "chinese": "灌輸",
+    "example": "Parents play a role in instilling good values."
+  },
+  "security": {
+    "definition": "The feeling of being safe and protected.",
+    "chinese": "安全感",
+    "example": "Children need a sense of security at home."
+  },
+  "emphasizing": {
+    "definition": "Giving special importance to something when speaking or writing.",
+    "chinese": "強調",
+    "example": "The teacher kept emphasizing the importance of reading."
+  },
+  "attempt": {
+    "definition": "To try to do something, especially something difficult.",
+    "chinese": "嘗試",
+    "example": "She made an attempt to learn a new language."
+  },
+  "repair": {
+    "definition": "To fix something that is broken or damaged.",
+    "chinese": "修復",
+    "example": "It takes time to repair a broken friendship."
+  },
+  "rupture": {
+    "definition": "A break or tear in something; a sudden end to a good relationship.",
+    "chinese": "破裂",
+    "example": "The argument caused a rupture in their friendship."
+  },
+  "guarantees": {
+    "definition": "Promises that something will definitely happen.",
+    "chinese": "保證",
+    "example": "There are no guarantees of success in life."
+  },
+  "deprived": {
+    "definition": "Not having the things that are necessary for a comfortable life.",
+    "chinese": "被剝奪的；匱乏的",
+    "example": "Some children grow up in deprived areas."
+  },
+  "terrible": {
+    "definition": "Extremely bad or serious.",
+    "chinese": "糟糕的；可怕的",
+    "example": "The storm caused terrible damage."
+  },
+  "result": {
+    "definition": "Something that happens because of something else.",
+    "chinese": "結果",
+    "example": "Hard work can result in great success."
+  },
+  "ideal": {
+    "definition": "Perfect or the best possible.",
+    "chinese": "理想的",
+    "example": "This is an ideal place to raise children."
+  },
+  "protect": {
+    "definition": "To keep someone or something safe from harm.",
+    "chinese": "保護",
+    "example": "Parents want to protect their children."
+  },
+  "minimize": {
+    "definition": "To make something as small or unimportant as possible.",
+    "chinese": "減到最小",
+    "example": "We should minimize waste at home."
+  },
+  "potential": {
+    "definition": "Possible in the future but not yet happening.",
+    "chinese": "潛在的",
+    "example": "There is potential for improvement."
+  },
+  "likelihood": {
+    "definition": "The chance that something will happen.",
+    "chinese": "可能性",
+    "example": "There is a strong likelihood of rain today."
+  },
+  "indicators": {
+    "definition": "Signs that show what something is like or how it is changing.",
+    "chinese": "指標",
+    "example": "Happiness is one of the indicators of good health."
+  },
+  "bond": {
+    "definition": "A strong feeling of connection between people.",
+    "chinese": "紐帶；情感連結",
+    "example": "The bond between mother and child is very strong."
+  },
+  "pack": {
+    "definition": "A group of animals that live and hunt together.",
+    "chinese": "群體",
+    "example": "Wolves live in a pack."
+  },
+  "tribes": {
+    "definition": "Groups of people who live together and share the same culture.",
+    "chinese": "部落",
+    "example": "Ancient tribes lived by hunting and gathering."
+  },
+  "millennia": {
+    "definition": "Thousands of years (plural of millennium).",
+    "chinese": "數千年",
+    "example": "Humans have used fire for millennia."
+  },
+  "wired": {
+    "definition": "Naturally built or designed to do something.",
+    "chinese": "天生被設定的",
+    "example": "Humans are wired to seek connection."
+  },
+  "survive": {
+    "definition": "To continue to live, especially after a difficult situation.",
+    "chinese": "生存",
+    "example": "Plants need water to survive."
+  },
+  "species": {
+    "definition": "A group of living things that are the same kind.",
+    "chinese": "物種",
+    "example": "Humans are a social species."
+  },
+  "primary": {
+    "definition": "The most important; main.",
+    "chinese": "主要的；首要的",
+    "example": "Safety is our primary concern."
+  },
+  "rewarding": {
+    "definition": "Giving a feeling of satisfaction or pleasure.",
+    "chinese": "有回報的；令人滿足的",
+    "example": "Teaching can be a very rewarding job."
+  },
+  "capacity": {
+    "definition": "The ability to do or feel something.",
+    "chinese": "能力",
+    "example": "She has a great capacity for kindness."
+  },
+  "alongside": {
+    "definition": "Next to or together with.",
+    "chinese": "在旁邊；和⋯一起",
+    "example": "I sat alongside my friend during the movie."
+  },
+  "experience": {
+    "definition": "Something that happens to you that affects how you feel or think.",
+    "chinese": "經歷；體驗",
+    "example": "Traveling is a great experience."
+  },
+  "moods": {
+    "definition": "The way someone feels at a particular time.",
+    "chinese": "情緒",
+    "example": "Her moods change quickly."
+  },
+  "physically": {
+    "definition": "Related to the body, not the mind.",
+    "chinese": "身體上地",
+    "example": "Exercise keeps you physically healthy."
+  },
+  "emotionally": {
+    "definition": "Related to feelings and emotions.",
+    "chinese": "情感上地",
+    "example": "She was emotionally affected by the movie."
+  },
+  "addition": {
+    "definition": "Something extra that is added.",
+    "chinese": "此外；額外",
+    "example": "In addition to reading, she likes painting."
+  },
+  "mutual": {
+    "definition": "Shared between two or more people.",
+    "chinese": "相互的",
+    "example": "They have mutual respect for each other."
+  },
+  "influence": {
+    "definition": "The power to change how someone thinks or acts.",
+    "chinese": "影響",
+    "example": "Parents have a big influence on their children."
+  },
+  "obvious": {
+    "definition": "Easy to see or understand; clear.",
+    "chinese": "明顯的",
+    "example": "It was obvious that she was tired."
+  },
+  "affect": {
+    "definition": "To change or have an effect on something.",
+    "chinese": "影響",
+    "example": "The weather can affect your mood."
+  },
+  "unique": {
+    "definition": "Being the only one of its kind; special.",
+    "chinese": "獨特的",
+    "example": "Every person has a unique personality."
+  },
+  "relationship": {
+    "definition": "The way people are connected to and feel about each other.",
+    "chinese": "關係",
+    "example": "A good relationship needs trust."
+  },
+  "unconsciously": {
+    "definition": "Without being aware of it; automatically.",
+    "chinese": "無意識地",
+    "example": "She unconsciously started humming a song."
+  },
+  "infants": {
+    "definition": "Very young children or babies.",
+    "chinese": "嬰兒",
+    "example": "Infants need constant care and attention."
+  },
+  "parenting": {
+    "definition": "The activity of raising and caring for children.",
+    "chinese": "育兒",
+    "example": "Parenting requires a lot of patience."
+  },
+  "communication": {
+    "definition": "The sharing of information or feelings between people.",
+    "chinese": "溝通",
+    "example": "Good communication is key in any relationship."
+  },
+  "desirability": {
+    "definition": "The quality of being wanted or wished for.",
+    "chinese": "可取性；理想程度",
+    "example": "The desirability of this plan is clear."
+  },
+  "dialogue": {
+    "definition": "A conversation between two or more people.",
+    "chinese": "對話",
+    "example": "Open dialogue helps solve problems."
+  },
+  "collaborative": {
+    "definition": "Done by working together with others.",
+    "chinese": "合作的",
+    "example": "The project was a collaborative effort."
+  },
+  "relevant": {
+    "definition": "Connected to what is being talked about; important to the topic.",
+    "chinese": "相關的",
+    "example": "Please share only relevant information."
+  },
+  "mental": {
+    "definition": "Related to the mind and thinking.",
+    "chinese": "心理的；精神的",
+    "example": "Mental health is just as important as physical health."
+  },
+  "conditions": {
+    "definition": "The things that must exist for something to happen.",
+    "chinese": "條件",
+    "example": "Good conditions are needed for plants to grow."
+  },
+  "course": {
+    "definition": "A direction or path of action.",
+    "chinese": "方向；途徑",
+    "example": "We need to decide on the best course of action."
+  },
+  "probable": {
+    "definition": "Likely to happen or be true.",
+    "chinese": "可能的",
+    "example": "It is probable that it will rain."
+  }
+}

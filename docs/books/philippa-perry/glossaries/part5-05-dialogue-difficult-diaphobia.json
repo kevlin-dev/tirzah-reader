@@ -1,0 +1,412 @@
+{
+  "personally": {
+    "definition": "Speaking about yourself; from your own experience.",
+    "chinese": "就個人而言",
+    "example": "Personally, I found it hard at first."
+  },
+  "reciprocity": {
+    "definition": "A situation where two people give and receive equally.",
+    "chinese": "互惠；相互回應",
+    "example": "Reciprocity is important in any relationship."
+  },
+  "unconscious": {
+    "definition": "Not aware; happening without you knowing.",
+    "chinese": "無意識的",
+    "example": "We often follow unconscious rules from childhood."
+  },
+  "belief": {
+    "definition": "Something you think is true.",
+    "chinese": "信念",
+    "example": "Her belief was that children should be quiet."
+  },
+  "adapt": {
+    "definition": "To change to fit a new situation.",
+    "chinese": "適應",
+    "example": "Parents must adapt to their child's needs."
+  },
+  "resistance": {
+    "definition": "The act of refusing to accept or do something.",
+    "chinese": "抗拒",
+    "example": "She noticed some resistance to letting her child lead."
+  },
+  "toddler": {
+    "definition": "A young child who is just learning to walk, usually 1-3 years old.",
+    "chinese": "學步兒",
+    "example": "The toddler ran around the room."
+  },
+  "diaphobia": {
+    "definition": "A fear of real dialogue; fear of being affected by others.",
+    "chinese": "對話恐懼症",
+    "example": "Diaphobia can prevent parents from truly connecting."
+  },
+  "phobia": {
+    "definition": "A very strong fear of something.",
+    "chinese": "恐懼症",
+    "example": "A phobia can stop you from doing normal things."
+  },
+  "impacted": {
+    "definition": "Strongly affected or influenced.",
+    "chinese": "被影響的",
+    "example": "She was impacted by her child's sadness."
+  },
+  "tend": {
+    "definition": "To usually do something; to have a habit.",
+    "chinese": "傾向",
+    "example": "We tend to repeat patterns from our parents."
+  },
+  "innate": {
+    "definition": "Something you are born with; natural.",
+    "chinese": "與生俱來的",
+    "example": "Babies have an innate ability to bond."
+  },
+  "deadened": {
+    "definition": "Made less strong or less sensitive.",
+    "chinese": "變得遲鈍的",
+    "example": "His ability to feel was deadened by years of neglect."
+  },
+  "practical": {
+    "definition": "Related to real actions and daily life, not just ideas.",
+    "chinese": "實際的",
+    "example": "She provided practical help like cooking and cleaning."
+  },
+  "infancy": {
+    "definition": "The time when someone is a baby.",
+    "chinese": "嬰兒期",
+    "example": "Bonding begins in infancy."
+  },
+  "individual": {
+    "definition": "A single person, separate from others.",
+    "chinese": "個人；個體",
+    "example": "Every child is a unique individual."
+  },
+  "fostering": {
+    "definition": "Encouraging or helping something to develop.",
+    "chinese": "培養；促進",
+    "example": "Not responding to a child risks fostering insecurity."
+  },
+  "insecure": {
+    "definition": "Not feeling safe or confident.",
+    "chinese": "不安全的；沒有安全感的",
+    "example": "An insecure child may cling to their parent."
+  },
+  "avoidant": {
+    "definition": "Trying to stay away from closeness or connection.",
+    "chinese": "迴避的",
+    "example": "An avoidant child may not seek comfort from parents."
+  },
+  "attachment": {
+    "definition": "A strong emotional connection between people.",
+    "chinese": "依附",
+    "example": "Secure attachment helps children feel safe."
+  },
+  "personality": {
+    "definition": "The qualities that make a person different from others.",
+    "chinese": "性格；個性",
+    "example": "Her personality is warm and kind."
+  },
+  "traits": {
+    "definition": "Qualities or characteristics of a person.",
+    "chinese": "特質",
+    "example": "Kindness and patience are good traits."
+  },
+  "functional": {
+    "definition": "Working well; able to operate normally.",
+    "chinese": "正常運作的",
+    "example": "Children need functional relationships to grow."
+  },
+  "admonish": {
+    "definition": "To scold or warn someone about their behavior.",
+    "chinese": "告誡；責備",
+    "example": "Don't admonish yourself for past mistakes."
+  },
+  "blame": {
+    "definition": "To say that someone is responsible for something bad.",
+    "chinese": "責怪",
+    "example": "Don't blame yourself for not knowing better."
+  },
+  "ashamed": {
+    "definition": "Feeling bad or embarrassed about something you did.",
+    "chinese": "羞愧的",
+    "example": "She felt ashamed of her reaction."
+  },
+  "detected": {
+    "definition": "Found or discovered something.",
+    "chinese": "發現",
+    "example": "She detected a pattern in her behavior."
+  },
+  "shying": {
+    "definition": "Moving away from something because of fear or nervousness.",
+    "chinese": "退縮",
+    "example": "She was shying away from close contact."
+  },
+  "teenager": {
+    "definition": "A young person between 13 and 19 years old.",
+    "chinese": "青少年",
+    "example": "Her teenager still needed her attention."
+  },
+  "regretful": {
+    "definition": "Feeling sorry about something that happened.",
+    "chinese": "後悔的",
+    "example": "She had regretful feelings about the past."
+  },
+  "pangs": {
+    "definition": "Sudden sharp feelings of pain or emotion.",
+    "chinese": "一陣劇痛；刺痛感",
+    "example": "She felt pangs of guilt about her parenting."
+  },
+  "diaphobic": {
+    "definition": "Having a fear of real dialogue or being affected by others.",
+    "chinese": "有對話恐懼的",
+    "example": "A diaphobic parent avoids true connection."
+  },
+  "perspective": {
+    "definition": "A way of looking at something; a point of view.",
+    "chinese": "觀點；視角",
+    "example": "Try to see things from your child's perspective."
+  },
+  "surrender": {
+    "definition": "To give up control completely.",
+    "chinese": "放棄；投降",
+    "example": "I'm not saying you should surrender your opinions."
+  },
+  "defer": {
+    "definition": "To let someone else decide; to give way to another person.",
+    "chinese": "順從；讓步",
+    "example": "You don't need to defer to the child on everything."
+  },
+  "equally": {
+    "definition": "In the same way or to the same degree.",
+    "chinese": "同等地",
+    "example": "Both viewpoints are equally valid."
+  },
+  "valid": {
+    "definition": "Having a good reason; acceptable.",
+    "chinese": "有效的；合理的",
+    "example": "Your feelings are always valid."
+  },
+  "sarcastically": {
+    "definition": "In a way that means the opposite of what you say, often to be hurtful.",
+    "chinese": "諷刺地",
+    "example": "He sarcastically said, 'Oh, great job.'"
+  },
+  "muddle": {
+    "definition": "A state of confusion or mess.",
+    "chinese": "混亂；糊塗",
+    "example": "He was getting in a muddle with his pills."
+  },
+  "medication": {
+    "definition": "Medicine; drugs used to treat illness.",
+    "chinese": "藥物",
+    "example": "He needed help organizing his medication."
+  },
+  "chart": {
+    "definition": "A diagram or table that shows information clearly.",
+    "chinese": "圖表",
+    "example": "She drew up a chart for the daily schedule."
+  },
+  "labels": {
+    "definition": "Words or information written on something to describe it.",
+    "chinese": "標籤",
+    "example": "Read the labels on the medicine bottles."
+  },
+  "hurtful": {
+    "definition": "Causing emotional pain.",
+    "chinese": "傷人的",
+    "example": "His words were hurtful, even if he didn't mean them."
+  },
+  "appropriate": {
+    "definition": "Right or suitable for the situation.",
+    "chinese": "適當的",
+    "example": "A thank you would have been more appropriate."
+  },
+  "attitude": {
+    "definition": "The way you think and feel about something.",
+    "chinese": "態度",
+    "example": "His attitude towards being told things changed."
+  },
+  "patronizing": {
+    "definition": "Treating someone as if they are less important or less intelligent.",
+    "chinese": "居高臨下的",
+    "example": "Don't be patronizing when your child shows you something."
+  },
+  "improving": {
+    "definition": "Getting better.",
+    "chinese": "改善中的",
+    "example": "Their relationship is improving every day."
+  },
+  "curiosity": {
+    "definition": "A strong desire to know or learn.",
+    "chinese": "好奇心",
+    "example": "Children are full of curiosity about the world."
+  },
+  "crush": {
+    "definition": "To destroy or damage badly; to press something so hard it breaks.",
+    "chinese": "壓碎；摧毀",
+    "example": "Don't let shame crush your curiosity."
+  },
+  "opposite": {
+    "definition": "Completely different from something.",
+    "chinese": "相反的",
+    "example": "The result was the opposite of what I expected."
+  },
+  "consequences": {
+    "definition": "Results or effects of an action.",
+    "chinese": "後果",
+    "example": "Every action has consequences."
+  },
+  "behaviour": {
+    "definition": "The way a person acts.",
+    "chinese": "行為",
+    "example": "Small changes in behaviour can make a big difference."
+  },
+  "benefits": {
+    "definition": "Good results or advantages.",
+    "chinese": "好處",
+    "example": "Listening to your child has many benefits."
+  },
+  "chores": {
+    "definition": "Regular tasks that need to be done at home.",
+    "chinese": "家事",
+    "example": "She used chores as an excuse to avoid the baby."
+  },
+  "urgent": {
+    "definition": "Needing to be done right away.",
+    "chinese": "緊急的",
+    "example": "Nothing is more urgent than your child's needs."
+  },
+  "excuse": {
+    "definition": "A reason you give to explain why you did or did not do something.",
+    "chinese": "藉口",
+    "example": "Don't use work as an excuse to push them away."
+  },
+  "override": {
+    "definition": "To ignore or go against a natural reaction.",
+    "chinese": "推翻；克服",
+    "example": "Override the instinct to push your child away."
+  },
+  "instinct": {
+    "definition": "A natural feeling or reaction that you don't think about.",
+    "chinese": "本能",
+    "example": "Trust your instinct as a parent."
+  },
+  "trace": {
+    "definition": "To find the beginning or cause of something.",
+    "chinese": "追溯",
+    "example": "Can you trace this feeling back to your childhood?"
+  },
+  "origins": {
+    "definition": "Where something began or came from.",
+    "chinese": "起源",
+    "example": "The origins of her fear were in childhood."
+  },
+  "constant": {
+    "definition": "Happening all the time without stopping.",
+    "chinese": "持續不斷的",
+    "example": "You don't need constant face-to-face contact."
+  },
+  "ignore": {
+    "definition": "To not pay attention to something or someone.",
+    "chinese": "忽視",
+    "example": "If you ignore your baby's cries, they feel alone."
+  },
+  "bids": {
+    "definition": "Attempts to get someone's attention or response.",
+    "chinese": "嘗試（吸引注意）",
+    "example": "Children make many bids for their parents' attention."
+  },
+  "distressing": {
+    "definition": "Causing great worry, sadness, or pain.",
+    "chinese": "令人痛苦的",
+    "example": "Being ignored is distressing for a baby."
+  },
+  "experiment": {
+    "definition": "A test done to find out what happens.",
+    "chinese": "實驗",
+    "example": "The experiment showed how babies react to silence."
+  },
+  "instructed": {
+    "definition": "Told to do something.",
+    "chinese": "被指示的",
+    "example": "The mothers were instructed to show no expression."
+  },
+  "mimicking": {
+    "definition": "Copying someone's actions or expressions.",
+    "chinese": "模仿",
+    "example": "Babies learn by mimicking their parents."
+  },
+  "gesturing": {
+    "definition": "Making movements with hands or face to show meaning.",
+    "chinese": "做手勢",
+    "example": "The mother stopped gesturing to her baby."
+  },
+  "responsiveness": {
+    "definition": "The ability to react quickly and positively to someone.",
+    "chinese": "回應性",
+    "example": "Emotional responsiveness is key for babies."
+  },
+  "distress": {
+    "definition": "Great sadness, worry, or pain.",
+    "chinese": "痛苦；困擾",
+    "example": "The baby showed signs of distress."
+  },
+  "anxiety": {
+    "definition": "A feeling of worry or fear.",
+    "chinese": "焦慮",
+    "example": "The baby showed anxiety when ignored."
+  },
+  "shame": {
+    "definition": "A painful feeling of embarrassment or not being good enough.",
+    "chinese": "羞恥",
+    "example": "Even babies can feel shame."
+  },
+  "lingered": {
+    "definition": "Stayed for a longer time than expected.",
+    "chinese": "持續；逗留",
+    "example": "The sadness lingered for several minutes."
+  },
+  "caregivers": {
+    "definition": "People who take care of a child or someone who needs help.",
+    "chinese": "照顧者",
+    "example": "Caregivers play an important role in a child's life."
+  },
+  "helplessness": {
+    "definition": "The feeling that you cannot do anything to change your situation.",
+    "chinese": "無助感",
+    "example": "Children learn helplessness when they are ignored."
+  },
+  "accidentally": {
+    "definition": "Not on purpose; by mistake.",
+    "chinese": "意外地",
+    "example": "We can accidentally teach bad habits."
+  },
+  "cliché": {
+    "definition": "A phrase or idea that has been used too much and lost its meaning.",
+    "chinese": "陳詞濫調",
+    "example": "The classic man cliché is not asking for directions."
+  },
+  "directions": {
+    "definition": "Instructions on how to get somewhere.",
+    "chinese": "方向；路線指引",
+    "example": "He learned to ask for directions without feeling shame."
+  },
+  "classic": {
+    "definition": "A typical or well-known example of something.",
+    "chinese": "經典的；典型的",
+    "example": "It was the classic mistake of talking too much."
+  },
+  "pepper": {
+    "definition": "To fill or sprinkle with many of something.",
+    "chinese": "充斥；到處散佈",
+    "example": "He would pepper his sentences with 'I know.'"
+  },
+  "catchphrase": {
+    "definition": "A word or phrase that someone uses very often.",
+    "chinese": "口頭禪",
+    "example": "His catchphrase was 'I know.'"
+  },
+  "apparently": {
+    "definition": "It seems; based on what others say.",
+    "chinese": "顯然地",
+    "example": "Apparently, he says it without realizing."
+  }
+}

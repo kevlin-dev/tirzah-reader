@@ -1,0 +1,302 @@
+{
+  "fostering": {
+    "definition": "Helping something grow or develop.",
+    "chinese": "培養",
+    "example": "Fostering goodwill takes daily effort."
+  },
+  "bolster": {
+    "definition": "To make something stronger or better.",
+    "chinese": "增強",
+    "example": "You need to bolster your goodwill when it is running low."
+  },
+  "bids": {
+    "definition": "Small requests for attention or connection from someone.",
+    "chinese": "示意；請求",
+    "example": "When your child says 'look at this,' that is a bid for connection."
+  },
+  "solace": {
+    "definition": "Comfort during a time of sadness or difficulty.",
+    "chinese": "慰藉",
+    "example": "They found solace in each other during hard times."
+  },
+  "adversaries": {
+    "definition": "People who are against you; enemies.",
+    "chinese": "對手",
+    "example": "Family members should not see each other as adversaries."
+  },
+  "cooperation": {
+    "definition": "Working together towards the same goal.",
+    "chinese": "合作",
+    "example": "Cooperation makes family life much smoother."
+  },
+  "collaboration": {
+    "definition": "Working together with others on a shared task.",
+    "chinese": "協作",
+    "example": "The project was a collaboration between both parents."
+  },
+  "competition": {
+    "definition": "Trying to win or be better than someone else.",
+    "chinese": "競爭",
+    "example": "Competition between partners hurts the relationship."
+  },
+  "psychologist": {
+    "definition": "A person who studies how people think, feel, and behave.",
+    "chinese": "心理學家",
+    "example": "The psychologist studied what makes relationships work."
+  },
+  "colleague": {
+    "definition": "A person you work with.",
+    "chinese": "同事",
+    "example": "He and his colleague set up the study together."
+  },
+  "wired": {
+    "definition": "Connected with equipment to measure something.",
+    "chinese": "連接儀器的",
+    "example": "The couples were wired up to measure their stress."
+  },
+  "measured": {
+    "definition": "Found out the amount or level of something.",
+    "chinese": "測量",
+    "example": "Their stress levels were measured during the conversation."
+  },
+  "calm": {
+    "definition": "Peaceful and not worried or excited.",
+    "chinese": "平靜的",
+    "example": "Some couples appeared calm on the outside."
+  },
+  "sweated": {
+    "definition": "Produced liquid from the skin because of heat or stress.",
+    "chinese": "流汗了",
+    "example": "The stressed couples sweated a lot during the talk."
+  },
+  "fight-or-flight": {
+    "definition": "The body's automatic reaction to danger: either fight back or run away.",
+    "chinese": "戰鬥或逃跑反應",
+    "example": "Their bodies were in fight-or-flight mode even during a calm talk."
+  },
+  "revelation": {
+    "definition": "A surprising and important discovery.",
+    "chinese": "揭示",
+    "example": "The real revelation came six years later."
+  },
+  "follow-up": {
+    "definition": "A later check or meeting to see what happened since the first time.",
+    "chinese": "後續跟進",
+    "example": "At the follow-up session, researchers checked on the couples."
+  },
+  "dysfunctional": {
+    "definition": "Not working properly; having serious problems.",
+    "chinese": "功能失調的",
+    "example": "The high-stress couples were in dysfunctional relationships."
+  },
+  "disasters": {
+    "definition": "Very bad events or situations; here, couples whose relationships failed.",
+    "chinese": "災難",
+    "example": "Gottman called the struggling couples the Disasters."
+  },
+  "masters": {
+    "definition": "People who are very skilled; here, couples with strong relationships.",
+    "chinese": "大師",
+    "example": "The Masters had calm, healthy partnerships."
+  },
+  "indicators": {
+    "definition": "Signs or signals that show something.",
+    "chinese": "指標",
+    "example": "High stress indicators predicted relationship problems."
+  },
+  "hostile": {
+    "definition": "Unfriendly and ready to fight.",
+    "chinese": "敵對的",
+    "example": "Feeling stressed makes you act in a hostile way."
+  },
+  "hostility": {
+    "definition": "Unfriendly or aggressive feelings towards someone.",
+    "chinese": "敵意",
+    "example": "Hostility between partners hurts the whole family."
+  },
+  "vicious": {
+    "definition": "Very bad and harmful, often getting worse in a cycle.",
+    "chinese": "惡性的",
+    "example": "It becomes a vicious circle of anger and hurt."
+  },
+  "one-upmanship": {
+    "definition": "Trying to show you are better than someone else.",
+    "chinese": "互相較勁",
+    "example": "One-upmanship is common but harmful in relationships."
+  },
+  "superior": {
+    "definition": "Better than others.",
+    "chinese": "優越的",
+    "example": "Advertising makes people feel superior to others."
+  },
+  "desirable": {
+    "definition": "Attractive; something people want.",
+    "chinese": "令人嚮往的",
+    "example": "Ads try to make you feel sexually desirable."
+  },
+  "smug": {
+    "definition": "Feeling too pleased with yourself.",
+    "chinese": "自鳴得意的",
+    "example": "The ad makes you feel smug about your choice."
+  },
+  "conversely": {
+    "definition": "In the opposite way.",
+    "chinese": "相反地",
+    "example": "Conversely, calm couples are warmer to each other."
+  },
+  "soothed": {
+    "definition": "Made to feel calm and comfortable.",
+    "chinese": "被安撫的",
+    "example": "Feeling soothed by your partner makes you warmer."
+  },
+  "affectionate": {
+    "definition": "Showing love and warmth.",
+    "chinese": "溫柔的",
+    "example": "Calm couples are more affectionate with each other."
+  },
+  "socializing": {
+    "definition": "Spending time with other people for fun.",
+    "chinese": "社交",
+    "example": "He observed couples socializing at a holiday home."
+  },
+  "refers": {
+    "definition": "Calls or names something in a particular way.",
+    "chinese": "稱為",
+    "example": "Gottman refers to these requests as bids for connection."
+  },
+  "satisfied": {
+    "definition": "Happy because your needs or wants have been met.",
+    "chinese": "滿足的",
+    "example": "Their bid for connection was satisfied when the other listened."
+  },
+  "reciprocal": {
+    "definition": "Given or done in return; going both ways.",
+    "chinese": "互相的",
+    "example": "Kindness leads to reciprocal treatment."
+  },
+  "sustained": {
+    "definition": "Kept going over a long period of time.",
+    "chinese": "維持的",
+    "example": "Without these small acts, relationships cannot be sustained."
+  },
+  "responsive": {
+    "definition": "Quick to react or answer in a helpful way.",
+    "chinese": "回應的",
+    "example": "Be responsive when your child asks for attention."
+  },
+  "scan": {
+    "definition": "To look at quickly to find something specific.",
+    "chinese": "掃視",
+    "example": "You can scan for faults or look for things to appreciate."
+  },
+  "criticism": {
+    "definition": "Saying what is wrong with someone or something.",
+    "chinese": "批評",
+    "example": "Criticism hurts more than it helps."
+  },
+  "tipping": {
+    "definition": "Moving the balance from one side to another.",
+    "chinese": "傾斜",
+    "example": "Tipping the scales from criticism to appreciation changes everything."
+  },
+  "scales": {
+    "definition": "A device for measuring weight; here, the balance between two things.",
+    "chinese": "天平",
+    "example": "The scales were tipped towards criticism in her family."
+  },
+  "unbalanced": {
+    "definition": "Not equal; one side is heavier than the other.",
+    "chinese": "不平衡的",
+    "example": "The relationship felt unbalanced."
+  },
+  "crucial": {
+    "definition": "Extremely important.",
+    "chinese": "關鍵的",
+    "example": "Appreciation is crucial in a healthy partnership."
+  },
+  "toxic": {
+    "definition": "Poisonous; very harmful.",
+    "chinese": "有毒的",
+    "example": "Constant criticism feels like bathing in toxic soup."
+  },
+  "bathing": {
+    "definition": "Covering yourself in something, like water.",
+    "chinese": "沐浴",
+    "example": "Old habits felt like bathing in a toxic soup of criticism."
+  },
+  "victim": {
+    "definition": "A person who has been hurt or treated unfairly.",
+    "chinese": "受害者",
+    "example": "Being kind does not mean being a victim."
+  },
+  "unassertive": {
+    "definition": "Not confident enough to say what you want.",
+    "chinese": "不果斷的",
+    "example": "Kindness does not mean being unassertive."
+  },
+  "intentionally": {
+    "definition": "Done on purpose.",
+    "chinese": "故意地",
+    "example": "Even actions done unintentionally can hurt someone."
+  },
+  "validate": {
+    "definition": "To show that someone's feelings are real and important.",
+    "chinese": "認可",
+    "example": "It is important to validate how they feel."
+  },
+  "defensive": {
+    "definition": "Protecting yourself from being blamed or criticized.",
+    "chinese": "防禦的",
+    "example": "Try not to become defensive when someone tells you how they feel."
+  },
+  "counsel": {
+    "definition": "To give advice.",
+    "chinese": "建議",
+    "example": "Some people counsel dealing with small problems early."
+  },
+  "irritations": {
+    "definition": "Small things that annoy or bother you.",
+    "chinese": "煩惱",
+    "example": "Deal with minor irritations before they become big."
+  },
+  "empathized": {
+    "definition": "Understood and shared another person's feelings.",
+    "chinese": "感同身受",
+    "example": "Everyone benefits from being empathized with."
+  },
+  "priority": {
+    "definition": "The most important thing that should be done first.",
+    "chinese": "優先事項",
+    "example": "Make understanding each other a priority in your family."
+  },
+  "maintenance": {
+    "definition": "The work needed to keep something in good condition.",
+    "chinese": "維護",
+    "example": "Turning towards bids is a major part of relationship maintenance."
+  },
+  "precious": {
+    "definition": "Very valuable and important.",
+    "chinese": "珍貴的",
+    "example": "Relationships are precious and need care."
+  },
+  "product": {
+    "definition": "Something that is made or created by a process.",
+    "chinese": "產物",
+    "example": "We are a product of our environment."
+  },
+  "environment": {
+    "definition": "The conditions and people around you that affect your life.",
+    "chinese": "環境",
+    "example": "A healthy environment helps children grow."
+  },
+  "unilaterally": {
+    "definition": "Done by one side or person alone, without others.",
+    "chinese": "單方面地",
+    "example": "If you are unilaterally kind, your partner will notice."
+  },
+  "catching": {
+    "definition": "Spreading easily from one person to another.",
+    "chinese": "有傳染性的",
+    "example": "Kindness is catching — others will copy it."
+  }
+}

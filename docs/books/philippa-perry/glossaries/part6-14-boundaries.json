@@ -1,0 +1,392 @@
+{
+  "boundaries": {
+    "definition": "Rules or limits that show what is acceptable and what is not.",
+    "chinese": "界限",
+    "example": "Children need love plus boundaries."
+  },
+  "define": {
+    "definition": "To describe clearly what something means or is.",
+    "chinese": "定義",
+    "example": "Define yourself and not the child when setting rules."
+  },
+  "metaphorical": {
+    "definition": "Not real or physical; used as a comparison to explain something.",
+    "chinese": "比喻性的",
+    "example": "A boundary is a metaphorical line in the sand."
+  },
+  "calmly": {
+    "definition": "In a quiet and peaceful way, without anger.",
+    "chinese": "冷靜地",
+    "example": "State a boundary calmly but firmly."
+  },
+  "firmly": {
+    "definition": "In a strong, sure way that shows you mean it.",
+    "chinese": "堅定地",
+    "example": "She spoke firmly so her child knew she was serious."
+  },
+  "grabbing": {
+    "definition": "Taking something quickly and roughly.",
+    "chinese": "猛抓",
+    "example": "You might end up grabbing back your keys and yelling."
+  },
+  "yelling": {
+    "definition": "Shouting very loudly.",
+    "chinese": "大喊",
+    "example": "Yelling at a child can frighten them."
+  },
+  "longed-for": {
+    "definition": "Wanted very much for a long time.",
+    "chinese": "渴望已久的",
+    "example": "A much-longed-for child arrived after many difficulties."
+  },
+  "miscarriages": {
+    "definition": "When a pregnancy ends too early and the baby does not survive.",
+    "chinese": "流產",
+    "example": "They had several miscarriages before their child was born."
+  },
+  "IVF": {
+    "definition": "A medical process to help people have a baby when they cannot naturally.",
+    "chinese": "試管嬰兒",
+    "example": "After IVF, they finally had their child."
+  },
+  "tragic": {
+    "definition": "Very sad, often involving death or great suffering.",
+    "chinese": "悲慘的",
+    "example": "In some tragic circumstances, parents lose a child."
+  },
+  "blinded": {
+    "definition": "Unable to see or think clearly because of strong feelings.",
+    "chinese": "被蒙蔽的",
+    "example": "They were so blinded by love they forgot to set limits."
+  },
+  "miracle": {
+    "definition": "Something wonderful and unexpected that seems impossible.",
+    "chinese": "奇蹟",
+    "example": "The baby felt like a happy miracle."
+  },
+  "revere": {
+    "definition": "To respect and admire someone very deeply.",
+    "chinese": "崇敬",
+    "example": "Some parents revere their child like a god."
+  },
+  "progeny": {
+    "definition": "A person's children or offspring.",
+    "chinese": "後代",
+    "example": "They revere their progeny like a god."
+  },
+  "omnificent": {
+    "definition": "All-powerful; able to do anything.",
+    "chinese": "全能的",
+    "example": "Believing you are omnificent goes beyond healthy self-esteem."
+  },
+  "self-delusion": {
+    "definition": "Believing something about yourself that is not true.",
+    "chinese": "自我欺騙",
+    "example": "Without limits, a child may go from confidence into self-delusion."
+  },
+  "structure": {
+    "definition": "An organized system or framework that supports something.",
+    "chinese": "結構",
+    "example": "Boundaries provide structure to our lives."
+  },
+  "habit": {
+    "definition": "Something you do regularly, often without thinking.",
+    "chinese": "習慣",
+    "example": "Defining yourself is a good habit to get into."
+  },
+  "nagging": {
+    "definition": "Repeatedly telling someone to do something in an annoying way.",
+    "chinese": "嘮叨",
+    "example": "I'm tired of listening to my voice nagging about teeth."
+  },
+  "effective": {
+    "definition": "Working well and getting the result you want.",
+    "chinese": "有效的",
+    "example": "Make your boundaries effective by meaning what you say."
+  },
+  "threats": {
+    "definition": "Warnings that something bad will happen if rules are broken.",
+    "chinese": "威脅",
+    "example": "Don't dish out empty threats."
+  },
+  "shatter": {
+    "definition": "To break into many pieces; to destroy completely.",
+    "chinese": "粉碎",
+    "example": "A scary threat can shatter a child's ability to think."
+  },
+  "relent": {
+    "definition": "To give in after first refusing.",
+    "chinese": "讓步",
+    "example": "Do not relent and give the keys back after setting a boundary."
+  },
+  "spoiling": {
+    "definition": "Giving a child everything they want so they become badly behaved.",
+    "chinese": "溺愛",
+    "example": "Respecting a child is not spoiling them."
+  },
+  "tease": {
+    "definition": "To annoy or bother an animal or person in a playful or unkind way.",
+    "chinese": "捉弄",
+    "example": "I cannot let you tease the dog."
+  },
+  "disapprove": {
+    "definition": "To think that something is wrong or bad.",
+    "chinese": "不贊成",
+    "example": "Your tone will teach them you disapprove of the activity."
+  },
+  "embodied": {
+    "definition": "Felt or learned through the body, not just the mind.",
+    "chinese": "體現的",
+    "example": "They will learn on an embodied level what is appropriate."
+  },
+  "weapon": {
+    "definition": "Something used to hurt or fight.",
+    "chinese": "武器",
+    "example": "The child was using the toy keyboard as a weapon."
+  },
+  "inappropriate": {
+    "definition": "Not right or suitable for the situation.",
+    "chinese": "不適當的",
+    "example": "If the inappropriate behaviour continues, take the toy away."
+  },
+  "consistent": {
+    "definition": "Always doing things the same way; dependable.",
+    "chinese": "一致的",
+    "example": "Be consistent so your child knows you mean what you say."
+  },
+  "removal": {
+    "definition": "The act of taking something or someone away.",
+    "chinese": "移除",
+    "example": "Physical removal teaches your child to take you seriously."
+  },
+  "instructed": {
+    "definition": "Told to do something.",
+    "chinese": "被指示的",
+    "example": "They do as instructed because they know you mean it."
+  },
+  "empathize": {
+    "definition": "To understand and share how someone else feels.",
+    "chinese": "同理",
+    "example": "Listen and empathize with their feelings."
+  },
+  "manipulating": {
+    "definition": "Controlling someone in a clever, often unfair, way.",
+    "chinese": "操縱",
+    "example": "Make sure you are relating, not manipulating."
+  },
+  "boisterous": {
+    "definition": "Very noisy, active, and full of energy.",
+    "chinese": "喧鬧的",
+    "example": "The children were getting more and more boisterous."
+  },
+  "hysteria": {
+    "definition": "Wild, uncontrolled emotion or excitement.",
+    "chinese": "歇斯底里",
+    "example": "They were on the edge of hysteria."
+  },
+  "trooped": {
+    "definition": "Walked together as a group.",
+    "chinese": "列隊走",
+    "example": "In they all trooped when she said it was time to go inside."
+  },
+  "framing": {
+    "definition": "Presenting or saying something in a particular way.",
+    "chinese": "表述方式",
+    "example": "Framing boundaries with less negativity helps."
+  },
+  "negativity": {
+    "definition": "An attitude that focuses on bad things.",
+    "chinese": "消極性",
+    "example": "Use as little negativity as possible when setting rules."
+  },
+  "rupture": {
+    "definition": "A break or serious damage in a relationship.",
+    "chinese": "裂痕",
+    "example": "She learned to repair the rupture with her toddler."
+  },
+  "reward": {
+    "definition": "Something good you receive because of something you did.",
+    "chinese": "獎勵",
+    "example": "Her hug was my reward for good parenting."
+  },
+  "environment": {
+    "definition": "The world around you; the conditions you live in.",
+    "chinese": "環境",
+    "example": "Boundaries help children consider the environment and others."
+  },
+  "objective": {
+    "definition": "Based on facts, not personal feelings.",
+    "chinese": "客觀的",
+    "example": "Don't pretend to be objective when your feelings are involved."
+  },
+  "screen time": {
+    "definition": "Time spent watching TV, using a phone, or playing on a computer.",
+    "chinese": "螢幕時間",
+    "example": "Many parents limit their child's screen time."
+  },
+  "sane": {
+    "definition": "Mentally healthy and thinking clearly.",
+    "chinese": "理智的",
+    "example": "Listening to your feelings is key to staying sane."
+  },
+  "fact tennis": {
+    "definition": "An argument where each side hits back with reasons instead of sharing feelings.",
+    "chinese": "事實拉鋸戰",
+    "example": "Pretending to be objective invites a game of fact tennis."
+  },
+  "temper": {
+    "definition": "The tendency to get angry.",
+    "chinese": "脾氣",
+    "example": "Losing your temper can traumatize your child."
+  },
+  "traumatize": {
+    "definition": "To cause lasting emotional damage from a very upsetting experience.",
+    "chinese": "造成心理創傷",
+    "example": "Losing your temper can traumatize a child."
+  },
+  "fuse": {
+    "definition": "In 'blow a fuse': to suddenly become very angry.",
+    "chinese": "導火線",
+    "example": "The limit is when you blow a fuse."
+  },
+  "memes": {
+    "definition": "Funny pictures or videos shared widely on the internet.",
+    "chinese": "迷因",
+    "example": "Two hours of YouTube memes was too much for her."
+  },
+  "cartoons": {
+    "definition": "Drawings or animated shows, often funny, usually for children.",
+    "chinese": "卡通",
+    "example": "He watched cartoons for two hours."
+  },
+  "worthy": {
+    "definition": "Deserving respect or having a good purpose.",
+    "chinese": "有價值的",
+    "example": "Don't hide your real feelings behind worthy reasons."
+  },
+  "pornography": {
+    "definition": "Pictures or videos showing sexual content.",
+    "chinese": "色情內容",
+    "example": "It is important to talk to children about pornography."
+  },
+  "petty": {
+    "definition": "Small and not important; mean in a small way.",
+    "chinese": "瑣碎的",
+    "example": "Children may resent rules that seem petty."
+  },
+  "autistic": {
+    "definition": "Having autism, a condition that affects how a person communicates and interacts.",
+    "chinese": "自閉症的",
+    "example": "Their eldest child was autistic and needed routine."
+  },
+  "resent": {
+    "definition": "To feel angry or bitter because something seems unfair.",
+    "chinese": "怨恨",
+    "example": "Children may resent unfair or inflexible rules."
+  },
+  "resentment": {
+    "definition": "A lasting feeling of anger about something unfair.",
+    "chinese": "怨恨",
+    "example": "Storing up resentment is storing up trouble."
+  },
+  "thumb": {
+    "definition": "In 'rule of thumb': a general guide that is usually true.",
+    "chinese": "經驗法則",
+    "example": "The rule of thumb is to define yourself, not the child."
+  },
+  "absorbed": {
+    "definition": "Very interested in and focused on something.",
+    "chinese": "全神貫注的",
+    "example": "The child was absorbed in playing music."
+  },
+  "approaching": {
+    "definition": "Getting closer to something.",
+    "chinese": "接近",
+    "example": "You are approaching your limit."
+  },
+  "selfish": {
+    "definition": "Thinking only about yourself and not others.",
+    "chinese": "自私的",
+    "example": "It felt like a risk to own my selfishness."
+  },
+  "playground": {
+    "definition": "An outdoor area where children play.",
+    "chinese": "遊樂場",
+    "example": "She told her daughter she was bored at the playground."
+  },
+  "leftovers": {
+    "definition": "Food that was not eaten and is saved for later.",
+    "chinese": "剩菜",
+    "example": "We can eat the leftovers instead of cooking."
+  },
+  "negotiate": {
+    "definition": "To talk and try to reach an agreement that works for everyone.",
+    "chinese": "協商",
+    "example": "It is easier to negotiate when everyone shares their feelings."
+  },
+  "grumpy": {
+    "definition": "In a bad mood; easily annoyed.",
+    "chinese": "脾氣暴躁的",
+    "example": "I'll get grumpy if I don't have lunch."
+  },
+  "inclination": {
+    "definition": "A feeling that makes you want to do something.",
+    "chinese": "傾向",
+    "example": "A respected child has less inclination to act out."
+  },
+  "observing": {
+    "definition": "Watching carefully to learn or understand something.",
+    "chinese": "觀察",
+    "example": "With young children, you need to listen by observing."
+  },
+  "speech": {
+    "definition": "The ability to talk and use words.",
+    "chinese": "言語",
+    "example": "Paul has speech and language difficulties."
+  },
+  "autism": {
+    "definition": "A condition that affects how a person communicates and relates to others.",
+    "chinese": "自閉症",
+    "example": "His difficulties are probably related to autism."
+  },
+  "diagnosis": {
+    "definition": "A doctor's decision about what condition someone has.",
+    "chinese": "診斷",
+    "example": "They have had no formal diagnosis for his condition."
+  },
+  "war zone": {
+    "definition": "A place where there is a lot of fighting and conflict.",
+    "chinese": "戰區",
+    "example": "The house sometimes felt like a war zone."
+  },
+  "perspective": {
+    "definition": "A way of seeing or thinking about something.",
+    "chinese": "觀點",
+    "example": "We started to understand life from his perspective."
+  },
+  "patience": {
+    "definition": "The ability to wait calmly without getting annoyed.",
+    "chinese": "耐心",
+    "example": "He taught us patience."
+  },
+  "nudge": {
+    "definition": "A gentle push to encourage someone in a direction.",
+    "chinese": "輕推",
+    "example": "We learned when to nudge him further and when to back off."
+  },
+  "puzzle": {
+    "definition": "To try hard to understand something confusing.",
+    "chinese": "困惑",
+    "example": "We didn't have to puzzle her out as much."
+  },
+  "considerate": {
+    "definition": "Thinking about other people's feelings and needs.",
+    "chinese": "體貼的",
+    "example": "As we became more considerate, she did too."
+  },
+  "cornerstones": {
+    "definition": "The most important and basic parts of something.",
+    "chinese": "基石",
+    "example": "The four cornerstones of appropriate behaviour are essential."
+  }
+}

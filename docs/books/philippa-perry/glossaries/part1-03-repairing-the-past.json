@@ -1,0 +1,337 @@
+{
+  "repairing": {
+    "definition": "Fixing something that is broken or damaged.",
+    "chinese": "修復",
+    "example": "Repairing your relationship takes time and effort."
+  },
+  "suggestion": {
+    "definition": "An idea or plan that you offer for someone to think about.",
+    "chinese": "建議",
+    "example": "My one suggestion is to examine your own childhood."
+  },
+  "liable": {
+    "definition": "Likely to do something or for something to happen.",
+    "chinese": "容易會",
+    "example": "Children are liable to remind you of your own childhood."
+  },
+  "bodily": {
+    "definition": "Related to the physical body.",
+    "chinese": "身體上的",
+    "example": "You may remember emotions on a bodily level."
+  },
+  "emotions": {
+    "definition": "Strong feelings such as happiness, sadness, anger, or fear.",
+    "chinese": "情感",
+    "example": "Children trigger old emotions in their parents."
+  },
+  "stage": {
+    "definition": "A particular period or step in a process of development.",
+    "chinese": "階段",
+    "example": "Each stage of childhood brings different challenges."
+  },
+  "bemused": {
+    "definition": "Confused and not understanding something.",
+    "chinese": "困惑的",
+    "example": "She looked at me, a bit bemused by my advice."
+  },
+  "role": {
+    "definition": "The part someone plays in a situation or in life.",
+    "chinese": "角色",
+    "example": "She grew into her new role as a mother."
+  },
+  "consciously": {
+    "definition": "With awareness; knowing what you are doing or thinking.",
+    "chinese": "有意識地",
+    "example": "You won't consciously remember being a baby."
+  },
+  "reminding": {
+    "definition": "Causing someone to remember something.",
+    "chinese": "提醒",
+    "example": "Your child keeps reminding you of your own childhood."
+  },
+  "common": {
+    "definition": "Happening often; shared by many people.",
+    "chinese": "常見的",
+    "example": "It is common for parents to repeat old patterns."
+  },
+  "withdraw": {
+    "definition": "To pull back from someone; to become emotionally distant.",
+    "chinese": "退縮",
+    "example": "Some parents withdraw when their child reaches a certain age."
+  },
+  "emotionally": {
+    "definition": "In a way that relates to feelings.",
+    "chinese": "情感上地",
+    "example": "He wanted to pull away emotionally from his child."
+  },
+  "unavailable": {
+    "definition": "Not there for someone who needs you; not reachable.",
+    "chinese": "無法接近的",
+    "example": "His parent became emotionally unavailable."
+  },
+  "classic": {
+    "definition": "A very typical and clear example of something.",
+    "chinese": "經典的",
+    "example": "Mark is a classic example of this pattern."
+  },
+  "inherited": {
+    "definition": "Received from your parents or earlier generations, often without choosing.",
+    "chinese": "繼承的",
+    "example": "Your inherited fears can affect your parenting."
+  },
+  "resentment": {
+    "definition": "A feeling of anger about something unfair that happened to you.",
+    "chinese": "怨恨",
+    "example": "Resentment from childhood can affect adult relationships."
+  },
+  "unpleasant": {
+    "definition": "Not pleasant; causing discomfort or unhappiness.",
+    "chinese": "不愉快的",
+    "example": "You will sometimes feel unpleasant emotions toward your child."
+  },
+  "occasionally": {
+    "definition": "Sometimes; not very often.",
+    "chinese": "偶爾",
+    "example": "We all occasionally feel frustrated with our children."
+  },
+  "admit": {
+    "definition": "To accept or say that something is true, especially something uncomfortable.",
+    "chinese": "承認",
+    "example": "If you admit your feelings, you can handle them better."
+  },
+  "unthinkingly": {
+    "definition": "Without stopping to think about what you are doing.",
+    "chinese": "不加思索地",
+    "example": "Parents sometimes punish their children unthinkingly."
+  },
+  "punishing": {
+    "definition": "Making someone suffer for something they did wrong.",
+    "chinese": "懲罰",
+    "example": "Don't punish your child for your own feelings."
+  },
+  "spectrum": {
+    "definition": "A range between two extreme points.",
+    "chinese": "光譜；範圍",
+    "example": "Desertion exists on a spectrum from small to severe."
+  },
+  "severe": {
+    "definition": "Very serious or extreme.",
+    "chinese": "嚴重的",
+    "example": "On the most severe end is physical abandonment."
+  },
+  "removing": {
+    "definition": "Taking something or someone away.",
+    "chinese": "移除",
+    "example": "The worst form is physically removing yourself from the child's life."
+  },
+  "entirely": {
+    "definition": "Completely; in every way.",
+    "chinese": "完全地",
+    "example": "He removed himself from his child's life entirely."
+  },
+  "painting": {
+    "definition": "A picture made with paint.",
+    "chinese": "畫作",
+    "example": "When your child shows you their painting, really look at it."
+  },
+  "independently": {
+    "definition": "By yourself, without help from others.",
+    "chinese": "獨立地",
+    "example": "Young children cannot play independently for long."
+  },
+  "reminder": {
+    "definition": "Something that makes you think of or remember something.",
+    "chinese": "提醒物",
+    "example": "Your child can be a painful reminder of your own childhood."
+  },
+  "surrender": {
+    "definition": "To give up control and accept something fully.",
+    "chinese": "放下；臣服",
+    "example": "Parents need to surrender to their child's needs."
+  },
+  "needy": {
+    "definition": "Requiring a lot of attention and emotional support.",
+    "chinese": "需要很多關注的",
+    "example": "This needy stage does not last forever."
+  },
+  "pursue": {
+    "definition": "An activity that you spend time doing.",
+    "chinese": "追求",
+    "example": "Adult pursuits can wait while your child is young."
+  },
+  "reflect": {
+    "definition": "To think carefully and deeply about something.",
+    "chinese": "反思",
+    "example": "We need to reflect on our feelings rather than react."
+  },
+  "react": {
+    "definition": "To act quickly in response to something, often without thinking.",
+    "chinese": "反應",
+    "example": "Don't react in anger; take a moment first."
+  },
+  "acceptable": {
+    "definition": "Good enough; able to be allowed.",
+    "chinese": "可接受的",
+    "example": "Facing unacceptable feelings takes courage."
+  },
+  "shame": {
+    "definition": "A painful feeling of having done something wrong or embarrassing.",
+    "chinese": "羞恥",
+    "example": "Shame can stop people from changing their behavior."
+  },
+  "tendency": {
+    "definition": "A natural way of behaving or thinking; a habit-like direction.",
+    "chinese": "傾向",
+    "example": "There is a tendency to get defensive when we feel shame."
+  },
+  "defensive": {
+    "definition": "Quick to protect yourself from criticism or blame.",
+    "chinese": "防禦性的",
+    "example": "Being defensive prevents you from learning."
+  },
+  "dysfunction": {
+    "definition": "A way of behaving that is unhealthy and does not work well.",
+    "chinese": "功能失調",
+    "example": "If we don't change, we pass our dysfunction to the next generation."
+  },
+  "pride": {
+    "definition": "A good feeling about yourself because of something you did.",
+    "chinese": "驕傲；自豪",
+    "example": "Turn your shame into pride by noticing your patterns."
+  },
+  "compelled": {
+    "definition": "Felt a strong force or need to do something.",
+    "chinese": "被迫的",
+    "example": "He felt compelled to run away from his family."
+  },
+  "comfortable": {
+    "definition": "Feeling relaxed and at ease, without worry.",
+    "chinese": "自在的",
+    "example": "Be comfortable being around your child."
+  },
+  "goodwill": {
+    "definition": "A friendly and helpful attitude toward others.",
+    "chinese": "善意",
+    "example": "Show your children goodwill and respect."
+  },
+  "respect": {
+    "definition": "A feeling of caring about someone's worth and treating them well.",
+    "chinese": "尊重",
+    "example": "Show respect for your child's feelings."
+  },
+  "opinions": {
+    "definition": "What someone thinks or believes about something.",
+    "chinese": "意見",
+    "example": "Children deserve respect for their opinions."
+  },
+  "interpretation": {
+    "definition": "The way someone understands or explains something.",
+    "chinese": "詮釋",
+    "example": "Respect your child's interpretation of their world."
+  },
+  "asleep": {
+    "definition": "In the state of sleeping.",
+    "chinese": "睡著的",
+    "example": "They look beautiful when they are asleep."
+  },
+  "awake": {
+    "definition": "Not sleeping; having your eyes open and being alert.",
+    "chinese": "醒著的",
+    "example": "Show love when they are awake, not just asleep."
+  },
+  "babysitter": {
+    "definition": "A person who takes care of children while the parents are away.",
+    "chinese": "保姆",
+    "example": "Get a babysitter from time to time."
+  },
+  "particularly": {
+    "definition": "More than usual; especially.",
+    "chinese": "特別地",
+    "example": "If the feeling is particularly charged, pay attention to it."
+  },
+  "dare": {
+    "definition": "To be brave enough to do something difficult.",
+    "chinese": "敢",
+    "example": "Dare to remember what it felt like as a child."
+  },
+  "predominant": {
+    "definition": "The most important, strongest, or most noticeable.",
+    "chinese": "主要的",
+    "example": "What is the predominant emotion in your earliest memory?"
+  },
+  "relevance": {
+    "definition": "The connection or importance something has to the topic.",
+    "chinese": "相關性",
+    "example": "What relevance does this memory have to your life now?"
+  },
+  "rigidly": {
+    "definition": "In a stiff, inflexible way; not willing to change.",
+    "chinese": "僵硬地",
+    "example": "Don't rigidly cling to always being right."
+  },
+  "cling": {
+    "definition": "To hold on tightly to something and not let go.",
+    "chinese": "緊抓不放",
+    "example": "Some people cling to being right at all costs."
+  },
+  "expense": {
+    "definition": "Here means 'at the cost of'; causing harm to something else.",
+    "chinese": "代價",
+    "example": "Being right at the expense of your child is not worth it."
+  },
+  "collapse": {
+    "definition": "To fall down suddenly; here means to break down emotionally.",
+    "chinese": "崩潰",
+    "example": "She feared she would collapse under the shame."
+  },
+  "steering": {
+    "definition": "Directing or guiding yourself in a particular direction.",
+    "chinese": "引導",
+    "example": "Stop defensively steering away from difficult feelings."
+  },
+  "enact": {
+    "definition": "To carry out or perform an action, especially a behavior pattern.",
+    "chinese": "實施",
+    "example": "We often enact behaviors we learned as children."
+  },
+  "spotted": {
+    "definition": "Noticed or discovered something.",
+    "chinese": "發現了",
+    "example": "Feel proud of yourself for having spotted the pattern."
+  },
+  "boredom": {
+    "definition": "The feeling of being bored; having nothing interesting to do.",
+    "chinese": "無聊",
+    "example": "Sometimes resentment feels more like boredom."
+  },
+  "disconnection": {
+    "definition": "A feeling of not being close to or involved with someone.",
+    "chinese": "疏離感",
+    "example": "He felt a sense of disconnection from his child."
+  },
+  "exaggerating": {
+    "definition": "Making something seem bigger or worse than it really is.",
+    "chinese": "誇大",
+    "example": "Some parents think I'm exaggerating about resentment."
+  },
+  "considered": {
+    "definition": "Thought about carefully; here means treated as important.",
+    "chinese": "被考慮到的",
+    "example": "He was not considered in his parents' lives."
+  },
+  "compassion": {
+    "definition": "A deep feeling of care for someone who is suffering.",
+    "chinese": "同情心",
+    "example": "Look back at yourself as a child with compassion."
+  },
+  "longing": {
+    "definition": "A deep, strong feeling of wanting something.",
+    "chinese": "渴望",
+    "example": "Your children have a longing for your attention."
+  },
+  "controlled": {
+    "definition": "Having your actions or feelings directed by something else.",
+    "chinese": "被控制的",
+    "example": "Don't be controlled by your emotional triggers."
+  }
+}

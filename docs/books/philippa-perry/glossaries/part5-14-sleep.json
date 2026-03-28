@@ -1,0 +1,397 @@
+{
+  "emotive": {
+    "definition": "Causing strong feelings in people.",
+    "chinese": "引起情緒的",
+    "example": "Sleep is an emotive subject for tired parents."
+  },
+  "defensive": {
+    "definition": "Protecting yourself because you feel attacked or criticized.",
+    "chinese": "防衛的",
+    "example": "He became defensive when someone questioned his decision."
+  },
+  "strategies": {
+    "definition": "Plans or methods for achieving a goal.",
+    "chinese": "策略",
+    "example": "They tried different strategies to help the baby sleep."
+  },
+  "method": {
+    "definition": "A particular way of doing something.",
+    "chinese": "方法",
+    "example": "This method of teaching works well for young children."
+  },
+  "toddler": {
+    "definition": "A young child who has just learned to walk, usually ages 1-3.",
+    "chinese": "學步兒",
+    "example": "The toddler took her first steps across the room."
+  },
+  "shame": {
+    "definition": "A painful feeling of embarrassment about something wrong you did.",
+    "chinese": "羞恥",
+    "example": "Parents should not feel shame about asking for help."
+  },
+  "manipulation": {
+    "definition": "Controlling someone in a clever but unfair way.",
+    "chinese": "操控",
+    "example": "Using tricks to make a child behave is a form of manipulation."
+  },
+  "training": {
+    "definition": "Teaching someone to do something through repeated practice.",
+    "chinese": "訓練",
+    "example": "Sleep training means teaching a baby to fall asleep alone."
+  },
+  "personalities": {
+    "definition": "The special qualities that make each person different.",
+    "chinese": "個性",
+    "example": "Twins can have very different personalities."
+  },
+  "primary": {
+    "definition": "Most important; main.",
+    "chinese": "主要的",
+    "example": "Parents are usually the primary caregivers."
+  },
+  "caregivers": {
+    "definition": "People who take care of a child or someone who needs help.",
+    "chinese": "照顧者",
+    "example": "Caregivers play an important role in a child's life."
+  },
+  "conditioning": {
+    "definition": "Training someone to behave a certain way by repeating something.",
+    "chinese": "制約；條件反射訓練",
+    "example": "Sleep training is a form of conditioning."
+  },
+  "reduces": {
+    "definition": "Makes something smaller in amount or number.",
+    "chinese": "減少",
+    "example": "This medicine reduces pain within an hour."
+  },
+  "contradicts": {
+    "definition": "Says the opposite of what someone else said.",
+    "chinese": "反駁；與...矛盾",
+    "example": "New research contradicts the earlier findings."
+  },
+  "flaws": {
+    "definition": "Mistakes or weaknesses in something.",
+    "chinese": "缺陷",
+    "example": "The study had several flaws in its design."
+  },
+  "eliminate": {
+    "definition": "To completely remove or get rid of something.",
+    "chinese": "消除",
+    "example": "The new rule will eliminate confusion."
+  },
+  "obsession": {
+    "definition": "Thinking about something too much and all the time.",
+    "chinese": "執著；迷戀",
+    "example": "His obsession with cleanliness made life difficult."
+  },
+  "interrupted": {
+    "definition": "Stopped in the middle; broken up.",
+    "chinese": "被打斷的",
+    "example": "Interrupted sleep makes parents very tired."
+  },
+  "exhausted": {
+    "definition": "Extremely tired, with no energy left.",
+    "chinese": "精疲力竭的",
+    "example": "After the night feeds, she was completely exhausted."
+  },
+  "preoccupation": {
+    "definition": "Thinking about one thing so much that you forget other things.",
+    "chinese": "全神貫注；過度關心",
+    "example": "Her preoccupation with work affected her family time."
+  },
+  "potential": {
+    "definition": "The possibility of something happening in the future.",
+    "chinese": "潛在的",
+    "example": "Every child has the potential to learn and grow."
+  },
+  "interfere": {
+    "definition": "To get involved in something in a way that causes problems.",
+    "chinese": "干擾",
+    "example": "Don't interfere with the child's natural learning."
+  },
+  "regulate": {
+    "definition": "To control or manage something so it works properly.",
+    "chinese": "調節",
+    "example": "Babies learn to regulate their emotions with help from parents."
+  },
+  "internalize": {
+    "definition": "To make something part of your own thinking or behavior.",
+    "chinese": "內化",
+    "example": "Children internalize the love they receive from parents."
+  },
+  "self-soothe": {
+    "definition": "To calm yourself down without help from others.",
+    "chinese": "自我安撫",
+    "example": "Babies learn to self-soothe after being comforted many times."
+  },
+  "jolt": {
+    "definition": "A sudden surprise or shock.",
+    "chinese": "震驚",
+    "example": "Becoming a parent can be quite a jolt."
+  },
+  "associates": {
+    "definition": "Connects one thing with another in your mind.",
+    "chinese": "聯想",
+    "example": "The child associates bedtime with feeling safe and warm."
+  },
+  "comfort": {
+    "definition": "A feeling of being relaxed and free from pain or worry.",
+    "chinese": "舒適；安慰",
+    "example": "A soft blanket gives comfort to a baby."
+  },
+  "rejection": {
+    "definition": "The act of pushing someone away or not accepting them.",
+    "chinese": "拒絕",
+    "example": "Children fear rejection from their parents."
+  },
+  "prioritize": {
+    "definition": "To treat something as more important than other things.",
+    "chinese": "優先考慮",
+    "example": "Parents should prioritize their child's emotional needs."
+  },
+  "perceive": {
+    "definition": "To think of something in a certain way; to see or understand.",
+    "chinese": "感知",
+    "example": "Children perceive the world differently from adults."
+  },
+  "instincts": {
+    "definition": "Natural feelings that tell you what to do without thinking.",
+    "chinese": "本能",
+    "example": "Trust your instincts as a parent."
+  },
+  "coercive": {
+    "definition": "Using force or pressure to make someone do something.",
+    "chinese": "強迫性的",
+    "example": "A coercive cry is hard for parents to ignore."
+  },
+  "odds": {
+    "definition": "In 'at odds with': in disagreement or conflict with.",
+    "chinese": "不一致",
+    "example": "Society's expectations can be at odds with children's needs."
+  },
+  "biology": {
+    "definition": "The natural processes of living things; how the body works.",
+    "chinese": "生物學",
+    "example": "Biology tells us that babies need close contact."
+  },
+  "protracting": {
+    "definition": "Making something last longer than it should.",
+    "chinese": "拖延",
+    "example": "Forcing independence too early may be protracting the process."
+  },
+  "mammals": {
+    "definition": "Animals that feed their babies with milk, including humans.",
+    "chinese": "哺乳動物",
+    "example": "All mammals sleep close to their young."
+  },
+  "weaned": {
+    "definition": "Stopped feeding a baby with breast milk and started giving other food.",
+    "chinese": "斷奶的",
+    "example": "The baby was fully weaned by the age of one."
+  },
+  "minority": {
+    "definition": "A smaller part of a group; less than half.",
+    "chinese": "少數",
+    "example": "We are in the minority in thinking babies should sleep alone."
+  },
+  "norm": {
+    "definition": "What is considered normal or standard.",
+    "chinese": "常態",
+    "example": "Co-sleeping is the norm in many cultures."
+  },
+  "unheard": {
+    "definition": "Not listened to; ignored.",
+    "chinese": "未被傾聽的",
+    "example": "A child who feels unheard may become sad or angry."
+  },
+  "hormone": {
+    "definition": "A natural chemical in your body that controls how it works.",
+    "chinese": "荷爾蒙",
+    "example": "Stress produces a hormone called cortisol."
+  },
+  "cortisol": {
+    "definition": "A chemical your body makes when you feel stressed.",
+    "chinese": "皮質醇",
+    "example": "High levels of cortisol can harm a baby's brain."
+  },
+  "toxic": {
+    "definition": "Very harmful or poisonous.",
+    "chinese": "有毒的",
+    "example": "Being left to cry alone causes toxic stress for babies."
+  },
+  "adversely": {
+    "definition": "In a harmful or negative way.",
+    "chinese": "不利地",
+    "example": "Stress can adversely affect a child's brain development."
+  },
+  "wires": {
+    "definition": "Connects and builds pathways (used about the brain).",
+    "chinese": "連接（大腦神經路徑）",
+    "example": "Early experiences affect how the brain wires up."
+  },
+  "rupture": {
+    "definition": "A break or damage in a relationship or connection.",
+    "chinese": "裂痕",
+    "example": "Arguments can cause a rupture in your relationship."
+  },
+  "repair": {
+    "definition": "To fix something that is broken or damaged.",
+    "chinese": "修復",
+    "example": "It's important to repair the relationship after a fight."
+  },
+  "scold": {
+    "definition": "To speak angrily to someone because they did something wrong.",
+    "chinese": "責罵",
+    "example": "Try not to scold your child when they make mistakes."
+  },
+  "alongside": {
+    "definition": "Next to; together with.",
+    "chinese": "在旁邊",
+    "example": "Sit alongside your child when they are upset."
+  },
+  "empathy": {
+    "definition": "The ability to understand and share another person's feelings.",
+    "chinese": "同理心",
+    "example": "Show empathy by listening to your child's worries."
+  },
+  "altered": {
+    "definition": "Changed or made different.",
+    "chinese": "改變的",
+    "example": "New parents often have altered sleep patterns."
+  },
+  "aroused": {
+    "definition": "Woken up or made more alert.",
+    "chinese": "被喚醒的",
+    "example": "The noise aroused the baby from a light sleep."
+  },
+  "wakefulness": {
+    "definition": "The state of being fully awake.",
+    "chinese": "清醒狀態",
+    "example": "A familiar touch prevents full wakefulness at night."
+  },
+  "berate": {
+    "definition": "To criticize someone strongly for a long time.",
+    "chinese": "嚴厲斥責",
+    "example": "Don't berate yourself for past parenting mistakes."
+  },
+  "unscathed": {
+    "definition": "Not harmed or damaged at all.",
+    "chinese": "毫髮無傷的",
+    "example": "Some children survive difficult situations unscathed."
+  },
+  "sensitivities": {
+    "definition": "Things that easily affect someone; areas where someone reacts strongly.",
+    "chinese": "敏感性",
+    "example": "Every child has different sensitivities."
+  },
+  "resorted": {
+    "definition": "Used something as a last choice when nothing else works.",
+    "chinese": "訴諸",
+    "example": "She resorted to sleep training out of exhaustion."
+  },
+  "societal": {
+    "definition": "Related to society and how people live together.",
+    "chinese": "社會的",
+    "example": "There is a lot of societal pressure on new parents."
+  },
+  "capitulate": {
+    "definition": "To give up fighting and accept something you don't agree with.",
+    "chinese": "屈服",
+    "example": "Many parents capitulate to social pressure."
+  },
+  "perpetuating": {
+    "definition": "Causing something to continue for a long time.",
+    "chinese": "使持續",
+    "example": "We risk perpetuating harmful habits from our own childhood."
+  },
+  "despair": {
+    "definition": "A feeling of having no hope at all.",
+    "chinese": "絕望",
+    "example": "The child's cries expressed deep despair."
+  },
+  "distress": {
+    "definition": "Great sadness, pain, or worry.",
+    "chinese": "痛苦",
+    "example": "The baby showed signs of distress when left alone."
+  },
+  "empathize": {
+    "definition": "To understand and share another person's feelings.",
+    "chinese": "產生同理心",
+    "example": "Parents who empathize with their children build stronger bonds."
+  },
+  "imperceptibly": {
+    "definition": "So slowly that you almost cannot notice it.",
+    "chinese": "不知不覺地",
+    "example": "Almost imperceptibly, the baby began to cry less each week."
+  },
+  "foundation": {
+    "definition": "The base or starting point on which something is built.",
+    "chinese": "基礎",
+    "example": "Trust is the foundation of a good relationship."
+  },
+  "mental": {
+    "definition": "Related to the mind and thinking.",
+    "chinese": "心理的",
+    "example": "Good mental health is important for everyone."
+  },
+  "lobbing": {
+    "definition": "Throwing something in a casual, careless way.",
+    "chinese": "隨意投擲",
+    "example": "She felt like the teacher was lobbing facts at her."
+  },
+  "mercy": {
+    "definition": "Kindness shown to someone, especially when you could be harsh.",
+    "chinese": "憐憫",
+    "example": "The judge showed mercy to the young offender."
+  },
+  "co-sleeping": {
+    "definition": "When parents and baby sleep in the same bed or room.",
+    "chinese": "共同睡眠",
+    "example": "Co-sleeping helps some families get more rest."
+  },
+  "abandoned": {
+    "definition": "Left alone with no one to help or care for you.",
+    "chinese": "被遺棄的",
+    "example": "A baby left alone at night may feel abandoned."
+  },
+  "neuroscientist": {
+    "definition": "A scientist who studies the brain and nervous system.",
+    "chinese": "神經科學家",
+    "example": "The neuroscientist discovered new facts about baby brain growth."
+  },
+  "nudging": {
+    "definition": "Gently pushing or encouraging someone in a direction.",
+    "chinese": "輕推；引導",
+    "example": "Sleep nudging is a gentle way to help babies sleep on their own."
+  },
+  "pre-verbal": {
+    "definition": "Before a child can speak or use words.",
+    "chinese": "語言發展前的",
+    "example": "Pre-verbal babies communicate through crying and body language."
+  },
+  "recollect": {
+    "definition": "To remember something from the past.",
+    "chinese": "回憶",
+    "example": "I cannot recollect what happened that night."
+  },
+  "tolerable": {
+    "definition": "Able to be accepted or dealt with, not too bad.",
+    "chinese": "可忍受的",
+    "example": "Crying with a comforting parent nearby is tolerable stress."
+  },
+  "cycle": {
+    "definition": "A series of events that repeat in the same order.",
+    "chinese": "循環",
+    "example": "A typical sleep cycle lasts about ninety minutes."
+  },
+  "infant": {
+    "definition": "A very young baby.",
+    "chinese": "嬰兒",
+    "example": "An infant sleeps for shorter periods than an adult."
+  },
+  "temper": {
+    "definition": "A tendency to become angry quickly.",
+    "chinese": "脾氣",
+    "example": "Don't throw the book away in a temper."
+  }
+}

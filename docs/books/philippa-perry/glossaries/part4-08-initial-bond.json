@@ -1,0 +1,197 @@
+{
+  "initial": {
+    "definition": "Happening at the beginning; first.",
+    "chinese": "最初的",
+    "example": "My initial reaction was surprise."
+  },
+  "bond": {
+    "definition": "A strong feeling of closeness and connection between people.",
+    "chinese": "情感連結",
+    "example": "The bond between parent and child grows over time."
+  },
+  "throughout": {
+    "definition": "During the whole time of something.",
+    "chinese": "在整個期間",
+    "example": "She smiled throughout the entire performance."
+  },
+  "environment": {
+    "definition": "The world around you; the conditions you live in.",
+    "chinese": "環境",
+    "example": "A calm environment helps babies feel safe."
+  },
+  "surround": {
+    "definition": "To be all around something or someone.",
+    "chinese": "圍繞",
+    "example": "Mountains surround the small village."
+  },
+  "instant": {
+    "definition": "Happening right away; immediate.",
+    "chinese": "立即的",
+    "example": "She felt an instant connection with the baby."
+  },
+  "connection": {
+    "definition": "A feeling of being close to and understanding someone.",
+    "chinese": "連結",
+    "example": "The mother felt a strong connection with her newborn."
+  },
+  "fiercely": {
+    "definition": "With very strong feeling or intensity.",
+    "chinese": "強烈地；猛烈地",
+    "example": "She loved her children fiercely."
+  },
+  "gorgeous": {
+    "definition": "Very beautiful; very attractive.",
+    "chinese": "非常美麗的",
+    "example": "The baby was absolutely gorgeous."
+  },
+  "stool": {
+    "definition": "A seat without a back; a 'birthing stool' is a special seat used during birth.",
+    "chinese": "凳子；分娩椅",
+    "example": "She used a birthing stool during labor."
+  },
+  "contractions": {
+    "definition": "The tightening movements of the muscles in the womb during birth.",
+    "chinese": "子宮收縮；陣痛",
+    "example": "The contractions came every five minutes."
+  },
+  "waves": {
+    "definition": "Things that come and go in a regular pattern, like ocean waves.",
+    "chinese": "波浪；一陣一陣",
+    "example": "The pain came in waves, getting stronger each time."
+  },
+  "gas": {
+    "definition": "Here, a pain-reducing gas breathed in during birth (nitrous oxide).",
+    "chinese": "笑氣（止痛氣體）",
+    "example": "She used gas and air to manage the pain during delivery."
+  },
+  "idolizing": {
+    "definition": "Loving and admiring someone very much, almost too much.",
+    "chinese": "崇拜；極度喜愛",
+    "example": "New parents cannot help idolizing their own baby."
+  },
+  "pitying": {
+    "definition": "Feeling sorry for someone.",
+    "chinese": "同情；憐憫",
+    "example": "She was pitying the other mothers whose babies were not as cute."
+  },
+  "oxytocin": {
+    "definition": "A natural chemical in the body that creates feelings of love and bonding.",
+    "chinese": "催產素（愛的荷爾蒙）",
+    "example": "Oxytocin is released when a mother holds her baby."
+  },
+  "hormone": {
+    "definition": "A chemical made by the body that controls how you feel and how your body works.",
+    "chinese": "荷爾蒙",
+    "example": "Hormones can affect your mood during pregnancy."
+  },
+  "release": {
+    "definition": "The act of letting something go or flow out.",
+    "chinese": "釋放",
+    "example": "The release of oxytocin helps mothers bond with babies."
+  },
+  "induced": {
+    "definition": "When birth is started by medicine rather than happening naturally.",
+    "chinese": "引產的",
+    "example": "Her baby was induced because it was two weeks late."
+  },
+  "extremely": {
+    "definition": "To a very high degree; very much.",
+    "chinese": "極其；非常",
+    "example": "The exam was extremely difficult."
+  },
+  "epidural": {
+    "definition": "A medical injection in the back that removes pain during birth.",
+    "chinese": "硬膜外麻醉",
+    "example": "She asked for an epidural to reduce the pain."
+  },
+  "anaesthetist": {
+    "definition": "A doctor who gives medicine to stop pain, especially during surgery.",
+    "chinese": "麻醉師",
+    "example": "The anaesthetist prepared the injection for the patient."
+  },
+  "shock": {
+    "definition": "A sudden feeling of surprise and upset; being unable to react normally.",
+    "chinese": "震驚；驚嚇",
+    "example": "She was in shock after hearing the news."
+  },
+  "difficulty": {
+    "definition": "A problem; something that is hard to deal with.",
+    "chinese": "困難",
+    "example": "She had difficulty sleeping after the baby was born."
+  },
+  "DNA": {
+    "definition": "The material inside cells that carries information about what you look like; used for identifying family connections.",
+    "chinese": "去氧核糖核酸（基因）",
+    "example": "A DNA test can prove if two people are related."
+  },
+  "unit": {
+    "definition": "A special department or section in a hospital.",
+    "chinese": "病房；醫療單位",
+    "example": "The baby was taken to the special-care unit."
+  },
+  "gradually": {
+    "definition": "Slowly, step by step, over time.",
+    "chinese": "逐漸地",
+    "example": "She gradually started to feel better."
+  },
+  "cemented": {
+    "definition": "Made strong and permanent; firmly established.",
+    "chinese": "鞏固的",
+    "example": "Their friendship was cemented by years of trust."
+  },
+  "fist": {
+    "definition": "A hand with the fingers closed tightly together.",
+    "chinese": "拳頭",
+    "example": "The baby was hitting the water with his fist."
+  },
+  "freak": {
+    "definition": "A person who seems strange or different from others (often used about yourself when feeling abnormal).",
+    "chinese": "怪人；異類",
+    "example": "She felt like a freak for not bonding with her baby immediately."
+  },
+  "berate": {
+    "definition": "To criticize or scold someone harshly.",
+    "chinese": "嚴厲責罵",
+    "example": "Do not berate yourself for making a mistake."
+  },
+  "acknowledged": {
+    "definition": "Recognized and accepted as real or true.",
+    "chinese": "承認；認可",
+    "example": "Her mother acknowledged her feelings without judging."
+  },
+  "progress": {
+    "definition": "Moving forward; getting better over time.",
+    "chinese": "進步",
+    "example": "She made good progress in forming a bond with her baby."
+  },
+  "exercise": {
+    "definition": "An activity done to practice or learn something.",
+    "chinese": "練習",
+    "example": "Try this exercise to understand how your baby feels."
+  },
+  "visualize": {
+    "definition": "To form a picture in your mind; to imagine.",
+    "chinese": "想像；在腦中想像",
+    "example": "Close your eyes and visualize a peaceful place."
+  },
+  "uncomfortable": {
+    "definition": "Not feeling relaxed or at ease; slightly painful or awkward.",
+    "chinese": "不舒服的",
+    "example": "Lying on the hard floor was uncomfortable."
+  },
+  "communicate": {
+    "definition": "To share information or feelings with someone.",
+    "chinese": "溝通",
+    "example": "Babies communicate by crying and making sounds."
+  },
+  "rescued": {
+    "definition": "Saved from a bad or dangerous situation.",
+    "chinese": "被救援的",
+    "example": "The child felt rescued when her mother picked her up."
+  },
+  "belong": {
+    "definition": "To feel accepted and part of a group.",
+    "chinese": "屬於；有歸屬感",
+    "example": "Everyone wants to feel they belong somewhere."
+  }
+}

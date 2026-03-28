@@ -1,0 +1,282 @@
+{
+  "strict": {
+    "definition": "Having very firm rules that must be followed.",
+    "chinese": "嚴格的",
+    "example": "Some parents are very strict about bedtime."
+  },
+  "approaches": {
+    "definition": "Different ways of dealing with something.",
+    "chinese": "方法",
+    "example": "There are three main approaches to child discipline."
+  },
+  "steer": {
+    "definition": "To guide or direct someone toward a certain way.",
+    "chinese": "引導",
+    "example": "Parents try to steer their child's behaviour."
+  },
+  "discipline": {
+    "definition": "Training people to obey rules or behave well.",
+    "chinese": "紀律",
+    "example": "Discipline should be done with kindness."
+  },
+  "imposing": {
+    "definition": "Forcing something on someone without their choice.",
+    "chinese": "強加",
+    "example": "Imposing your will on a child can cause problems."
+  },
+  "insist": {
+    "definition": "To demand strongly that something must happen.",
+    "chinese": "堅持",
+    "example": "She insisted that her child tidy the room."
+  },
+  "tidies": {
+    "definition": "Makes a place clean and organized.",
+    "chinese": "整理",
+    "example": "He tidies his room every weekend."
+  },
+  "punish": {
+    "definition": "To make someone suffer for doing something wrong.",
+    "chinese": "懲罰",
+    "example": "Don't punish your child for having feelings."
+  },
+  "compliant": {
+    "definition": "Willing to do what others ask without arguing.",
+    "chinese": "順從的",
+    "example": "Some children are naturally compliant."
+  },
+  "stand-offs": {
+    "definition": "Situations where two sides refuse to give in.",
+    "chinese": "僵局",
+    "example": "Being too strict leads to stand-offs with your child."
+  },
+  "humiliation": {
+    "definition": "A feeling of deep shame or embarrassment.",
+    "chinese": "羞辱",
+    "example": "Strict parenting can lead to humiliation and anger."
+  },
+  "modelling": {
+    "definition": "Showing by example how to behave.",
+    "chinese": "示範",
+    "example": "Parents are modelling behaviour for their children."
+  },
+  "inflexible": {
+    "definition": "Not willing to change or adjust.",
+    "chinese": "不靈活的",
+    "example": "Being inflexible teaches your child to be the same."
+  },
+  "tolerance": {
+    "definition": "The ability to accept something difficult without getting upset.",
+    "chinese": "容忍度",
+    "example": "Children need to develop tolerance for frustration."
+  },
+  "intolerant": {
+    "definition": "Not able to accept differences or difficulties.",
+    "chinese": "不寬容的",
+    "example": "Strict parents may raise intolerant children."
+  },
+  "inadvertently": {
+    "definition": "Without meaning to; by accident.",
+    "chinese": "無意中",
+    "example": "You could inadvertently teach your child to be stubborn."
+  },
+  "reciprocal": {
+    "definition": "Done in return; going both ways.",
+    "chinese": "相互的",
+    "example": "They got into a cycle of reciprocal inflexibility."
+  },
+  "withdrawal": {
+    "definition": "Pulling away from someone or stopping communication.",
+    "chinese": "退縮",
+    "example": "The child's withdrawal from talking was a warning sign."
+  },
+  "authoritarian": {
+    "definition": "Ruling with strict control and demanding obedience.",
+    "chinese": "專制的",
+    "example": "An authoritarian parent does not listen to the child's feelings."
+  },
+  "cooperate": {
+    "definition": "To work together with others.",
+    "chinese": "合作",
+    "example": "Children learn to cooperate when they feel heard."
+  },
+  "authority": {
+    "definition": "The power or right to give orders and make decisions.",
+    "chinese": "權威",
+    "example": "Children need a healthy relationship with authority."
+  },
+  "dictator": {
+    "definition": "A person who rules with total power and no one can disagree.",
+    "chinese": "獨裁者",
+    "example": "You should be a counsellor, not a dictator."
+  },
+  "morality": {
+    "definition": "Ideas about what is right and wrong.",
+    "chinese": "道德",
+    "example": "Good parenting nurtures morality in children."
+  },
+  "lax": {
+    "definition": "Not strict enough; too relaxed about rules.",
+    "chinese": "鬆懈的",
+    "example": "Being lax means giving the child no boundaries."
+  },
+  "boundaries": {
+    "definition": "Rules or limits that help people know what is acceptable.",
+    "chinese": "界限",
+    "example": "Children need boundaries to feel safe."
+  },
+  "backlash": {
+    "definition": "A strong reaction against something that happened before.",
+    "chinese": "反彈",
+    "example": "Being too lax is sometimes a backlash against strict parents."
+  },
+  "anxiety": {
+    "definition": "A feeling of worry and nervousness.",
+    "chinese": "焦慮",
+    "example": "Anxiety can make parents too strict or too lax."
+  },
+  "risk-averse": {
+    "definition": "Wanting to avoid any danger or chance of something going wrong.",
+    "chinese": "規避風險的",
+    "example": "Risk-averse parents try to protect children from everything."
+  },
+  "upbringing": {
+    "definition": "The way a child is raised and taught by their parents.",
+    "chinese": "教養",
+    "example": "His strict upbringing affected how he parents his own children."
+  },
+  "establish": {
+    "definition": "To set up or create something that lasts.",
+    "chinese": "建立",
+    "example": "Some children can establish their own standards."
+  },
+  "overwhelmed": {
+    "definition": "Feeling that there is too much to handle.",
+    "chinese": "不堪重負的",
+    "example": "The child felt overwhelmed by the messy room."
+  },
+  "erosion": {
+    "definition": "A slow wearing away or loss of something.",
+    "chinese": "侵蝕",
+    "example": "Fighting causes an erosion of goodwill between you."
+  },
+  "goodwill": {
+    "definition": "Friendly and helpful feelings toward someone.",
+    "chinese": "善意",
+    "example": "Battles can lead to an erosion of goodwill."
+  },
+  "intentionally": {
+    "definition": "Done on purpose, not by accident.",
+    "chinese": "故意地",
+    "example": "She was intentionally choosing to wait until her child was ready."
+  },
+  "collaborative": {
+    "definition": "Working together to solve a problem.",
+    "chinese": "合作的",
+    "example": "The collaborative method involves solving problems together."
+  },
+  "counsellor": {
+    "definition": "A person who gives advice and helps solve problems.",
+    "chinese": "顧問",
+    "example": "Be more of a counsellor than a dictator with your child."
+  },
+  "validate": {
+    "definition": "To show that someone's feelings are real and acceptable.",
+    "chinese": "認可",
+    "example": "Validate your child's feelings before solving the problem."
+  },
+  "brainstorm": {
+    "definition": "To think of many ideas together to solve a problem.",
+    "chinese": "腦力激盪",
+    "example": "Brainstorm solutions with your child."
+  },
+  "tricky": {
+    "definition": "Difficult to deal with, needing careful handling.",
+    "chinese": "棘手的",
+    "example": "Stage 2 can be tricky for parents."
+  },
+  "endorse": {
+    "definition": "To support or approve of something.",
+    "chinese": "認可",
+    "example": "It can feel hard to say something you don't want to endorse."
+  },
+  "heels": {
+    "definition": "In 'dig in their heels': to refuse to change or give up.",
+    "chinese": "堅持不讓步",
+    "example": "Not acknowledging feelings makes a child dig in their heels."
+  },
+  "multiple-choice": {
+    "definition": "Offering several options to choose from.",
+    "chinese": "多選的",
+    "example": "Use a multiple-choice approach to find out feelings."
+  },
+  "nailed down": {
+    "definition": "Figured out exactly; made clear and certain.",
+    "chinese": "確定了",
+    "example": "Once you have nailed down their feelings, you can help."
+  },
+  "redefine": {
+    "definition": "To describe or explain something in a new way.",
+    "chinese": "重新定義",
+    "example": "You can redefine the problem once you know the feelings."
+  },
+  "shame": {
+    "definition": "To make someone feel bad about who they are or what they did.",
+    "chinese": "使感到羞恥",
+    "example": "Don't shame your child for having messy feelings."
+  },
+  "threaten": {
+    "definition": "To warn that something bad will happen.",
+    "chinese": "威脅",
+    "example": "Threatening to throw away toys only builds resentment."
+  },
+  "resentment": {
+    "definition": "A feeling of anger that lasts because of unfair treatment.",
+    "chinese": "怨恨",
+    "example": "Threats build up resentment in children."
+  },
+  "empathize": {
+    "definition": "To understand and share another person's feelings.",
+    "chinese": "同理",
+    "example": "Children learn to empathize when their feelings are considered."
+  },
+  "counter-intuitive": {
+    "definition": "The opposite of what you would naturally expect.",
+    "chinese": "違反直覺的",
+    "example": "It feels counter-intuitive to accept a child's complaint."
+  },
+  "dismiss": {
+    "definition": "To refuse to consider or pay attention to something.",
+    "chinese": "駁回",
+    "example": "Don't dismiss your child's ideas during brainstorming."
+  },
+  "disempower": {
+    "definition": "To take away someone's power or confidence.",
+    "chinese": "削弱力量",
+    "example": "Being the one with all the answers will disempower your child."
+  },
+  "folding": {
+    "definition": "Bending clothes neatly so they can be put away.",
+    "chinese": "摺疊",
+    "example": "He found folding clothes difficult."
+  },
+  "long-winded": {
+    "definition": "Taking too long to say or do something.",
+    "chinese": "冗長的",
+    "example": "The collaborative method may seem long-winded."
+  },
+  "compromise": {
+    "definition": "An agreement where each side gives up something.",
+    "chinese": "妥協",
+    "example": "Learning to compromise is an important life skill."
+  },
+  "socialized": {
+    "definition": "Learned how to behave well with other people.",
+    "chinese": "社會化的",
+    "example": "These skills are essential for socialized behaviour."
+  },
+  "empathy": {
+    "definition": "The ability to understand how someone else feels.",
+    "chinese": "同理心",
+    "example": "Empathy is one of the most important skills to develop."
+  }
+}

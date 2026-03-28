@@ -1,0 +1,337 @@
+{
+  "contain": {
+    "definition": "To hold something inside without letting it overflow or take control.",
+    "chinese": "容納",
+    "example": "Parents need to learn how to contain their child's feelings."
+  },
+  "fundamental": {
+    "definition": "Basic and very important; at the core of something.",
+    "chinese": "根本的",
+    "example": "Having your feelings understood is a fundamental human need."
+  },
+  "prerequisite": {
+    "definition": "Something that must happen before something else can happen.",
+    "chinese": "先決條件",
+    "example": "Feeling heard is a prerequisite for good mental health."
+  },
+  "witnessed": {
+    "definition": "Seen and noticed by someone.",
+    "chinese": "被見證的",
+    "example": "Everyone needs their feelings to be witnessed."
+  },
+  "significant": {
+    "definition": "Important and meaningful.",
+    "chinese": "重要的",
+    "example": "The significant people in your life shape who you become."
+  },
+  "bundle": {
+    "definition": "A group of things held together; here, full of many things.",
+    "chinese": "一束",
+    "example": "A baby is a bundle of feelings."
+  },
+  "soothe": {
+    "definition": "To calm someone down and make them feel better.",
+    "chinese": "安撫",
+    "example": "Hold the baby and soothe them until they stop crying."
+  },
+  "foundations": {
+    "definition": "The base that everything else is built on.",
+    "chinese": "基礎",
+    "example": "Early care builds the foundations for emotional health."
+  },
+  "sensitively": {
+    "definition": "In a careful way that shows you understand someone's feelings.",
+    "chinese": "敏感地",
+    "example": "Responding sensitively to your child teaches them to trust."
+  },
+  "rage": {
+    "definition": "Very strong, uncontrolled anger.",
+    "chinese": "暴怒",
+    "example": "A child may feel rage when things do not go their way."
+  },
+  "grief": {
+    "definition": "Deep sadness, usually because you lost something or someone.",
+    "chinese": "悲傷",
+    "example": "Grief is a natural feeling after a loss."
+  },
+  "contentment": {
+    "definition": "A feeling of being happy and satisfied.",
+    "chinese": "滿足",
+    "example": "Contentment comes from feeling safe and loved."
+  },
+  "generosity": {
+    "definition": "The quality of being willing to give and share.",
+    "chinese": "慷慨",
+    "example": "Children learn generosity from watching their parents."
+  },
+  "basis": {
+    "definition": "The starting point or reason for something.",
+    "chinese": "基礎",
+    "example": "This is the basis of good mental health."
+  },
+  "potentially": {
+    "definition": "Possibly; it could happen.",
+    "chinese": "潛在地",
+    "example": "Ignoring feelings is potentially harmful."
+  },
+  "harmful": {
+    "definition": "Causing damage or hurt.",
+    "chinese": "有害的",
+    "example": "Denying feelings can be harmful to a child's health."
+  },
+  "default": {
+    "definition": "What happens automatically if you do not choose something else.",
+    "chinese": "預設",
+    "example": "Denying feelings is sometimes our default response."
+  },
+  "belittle": {
+    "definition": "To make someone feel that they or their feelings are not important.",
+    "chinese": "貶低",
+    "example": "Do not belittle your child's fears."
+  },
+  "scold": {
+    "definition": "To speak to someone angrily because they did something wrong.",
+    "chinese": "責罵",
+    "example": "Do not scold a child for being upset."
+  },
+  "unsettling": {
+    "definition": "Making you feel worried or uncomfortable.",
+    "chinese": "令人不安的",
+    "example": "A child's anger can feel unsettling for parents."
+  },
+  "disallowed": {
+    "definition": "Not allowed; forbidden.",
+    "chinese": "被禁止的",
+    "example": "When feelings are disallowed, they go into hiding."
+  },
+  "fester": {
+    "definition": "To get worse because it is not dealt with.",
+    "chinese": "惡化",
+    "example": "Hidden feelings fester and cause trouble later."
+  },
+  "vital": {
+    "definition": "Extremely important; necessary for life or success.",
+    "chinese": "至關重要的",
+    "example": "It is vital to take your child's feelings seriously."
+  },
+  "depression": {
+    "definition": "A serious mental condition where a person feels very sad for a long time.",
+    "chinese": "憂鬱症",
+    "example": "Not being soothed as a child can lead to depression."
+  },
+  "comforted": {
+    "definition": "Made to feel better when sad or worried.",
+    "chinese": "被安慰的",
+    "example": "A child who is comforted learns to comfort themselves."
+  },
+  "misattunements": {
+    "definition": "Times when a parent does not correctly respond to a child's feelings.",
+    "chinese": "不當回應",
+    "example": "Too many misattunements can hurt a child's emotional health."
+  },
+  "tolerate": {
+    "definition": "To accept or deal with something difficult.",
+    "chinese": "忍受",
+    "example": "Children need help learning to tolerate painful emotions."
+  },
+  "diminishes": {
+    "definition": "Gets smaller or weaker.",
+    "chinese": "減少",
+    "example": "Their ability to handle hard feelings diminishes over time."
+  },
+  "optimistic": {
+    "definition": "Expecting good things to happen; hopeful.",
+    "chinese": "樂觀的",
+    "example": "Being soothed makes children more optimistic about their feelings."
+  },
+  "susceptible": {
+    "definition": "Likely to be affected by something.",
+    "chinese": "易受影響的",
+    "example": "Children who are soothed are less susceptible to anxiety."
+  },
+  "anxiety": {
+    "definition": "A feeling of strong worry that does not go away.",
+    "chinese": "焦慮",
+    "example": "Anxiety can develop when feelings are not taken seriously."
+  },
+  "instil": {
+    "definition": "To slowly put an idea or feeling into someone's mind.",
+    "chinese": "灌輸",
+    "example": "Good parenting instils a belief that feelings will pass."
+  },
+  "acceptable": {
+    "definition": "Good enough; able to be accepted.",
+    "chinese": "可接受的",
+    "example": "Whatever you feel, you are still acceptable."
+  },
+  "habitual": {
+    "definition": "Done regularly as a habit.",
+    "chinese": "習慣性的",
+    "example": "The new way of responding can become habitual."
+  },
+  "alien": {
+    "definition": "Very strange and unfamiliar.",
+    "chinese": "陌生的",
+    "example": "It may feel alien at first to accept your child's anger."
+  },
+  "repressing": {
+    "definition": "Pushing feelings down and hiding them.",
+    "chinese": "壓抑",
+    "example": "Repressing feelings does not make them go away."
+  },
+  "repressor": {
+    "definition": "A person who pushes away or hides their feelings.",
+    "chinese": "壓抑者",
+    "example": "A repressor might say 'Don't make a fuss.'"
+  },
+  "inclination": {
+    "definition": "A natural tendency to do something.",
+    "chinese": "傾向",
+    "example": "Her natural inclination was to push away strong feelings."
+  },
+  "confronted": {
+    "definition": "Faced with something difficult or challenging.",
+    "chinese": "面對",
+    "example": "When confronted with tears, she said 'Be brave.'"
+  },
+  "fuss": {
+    "definition": "Unnecessary worry or excitement about something small.",
+    "chinese": "大驚小怪",
+    "example": "Don't make a fuss — nothing is wrong."
+  },
+  "dismiss": {
+    "definition": "To treat something as not important.",
+    "chinese": "忽視",
+    "example": "If you dismiss a child's feeling, they will stop sharing."
+  },
+  "subsequent": {
+    "definition": "Coming after; happening later.",
+    "chinese": "隨後的",
+    "example": "The child will hide subsequent feelings from you."
+  },
+  "overreacting": {
+    "definition": "Responding with too much emotion; more than is needed.",
+    "chinese": "過度反應",
+    "example": "Overreacting to your child's tears can make things worse."
+  },
+  "hysterical": {
+    "definition": "Extremely emotional and unable to control yourself.",
+    "chinese": "歇斯底里的",
+    "example": "She became as hysterical as her crying child."
+  },
+  "nursery": {
+    "definition": "A place where young children are cared for during the day.",
+    "chinese": "幼兒園",
+    "example": "Dropping your child off at nursery can be hard."
+  },
+  "invade": {
+    "definition": "To enter somewhere without being wanted; to push into someone's space.",
+    "chinese": "侵入",
+    "example": "They may feel you invade them by taking over their feelings."
+  },
+  "merging": {
+    "definition": "Joining together; becoming one.",
+    "chinese": "融合",
+    "example": "Merging with your child's feelings is not helpful."
+  },
+  "containing": {
+    "definition": "Holding feelings in a way that is calm and accepting.",
+    "chinese": "涵容",
+    "example": "Containing means taking feelings seriously without overreacting."
+  },
+  "cuddle": {
+    "definition": "A warm, close hug.",
+    "chinese": "擁抱",
+    "example": "Would you like a cuddle to feel better?"
+  },
+  "container": {
+    "definition": "Something that holds things; here, a person who can hold another's feelings.",
+    "chinese": "容器",
+    "example": "A parent should be a container for their child's emotions."
+  },
+  "overwhelmed": {
+    "definition": "Feeling like something is too much to handle.",
+    "chinese": "不堪負荷的",
+    "example": "Parents should not be overwhelmed by their child's anger."
+  },
+  "psychotherapists": {
+    "definition": "People trained to help others with mental and emotional problems through talking.",
+    "chinese": "心理治療師",
+    "example": "Psychotherapists help their clients process difficult feelings."
+  },
+  "clients": {
+    "definition": "People who pay for a professional service.",
+    "chinese": "客戶",
+    "example": "The therapist works with many different clients."
+  },
+  "witnessing": {
+    "definition": "Seeing and being present for something happening.",
+    "chinese": "見證",
+    "example": "Witnessing anger means staying calm while the child is upset."
+  },
+  "punitive": {
+    "definition": "Meant to punish.",
+    "chinese": "懲罰性的",
+    "example": "Do not be punitive when your child is angry."
+  },
+  "associations": {
+    "definition": "Connections made in your mind between things.",
+    "chinese": "聯想",
+    "example": "Loud voices may have associations of love for some people."
+  },
+  "inured": {
+    "definition": "Used to something unpleasant so it no longer bothers you.",
+    "chinese": "習慣了",
+    "example": "Growing up with shouting made her inured to raised voices."
+  },
+  "confrontation": {
+    "definition": "A direct fight or argument with someone.",
+    "chinese": "對峙",
+    "example": "Some families avoid all confrontation."
+  },
+  "manipulated": {
+    "definition": "Controlled or tricked by someone.",
+    "chinese": "被操控的",
+    "example": "If you felt manipulated as a child, you may distrust love."
+  },
+  "distrust": {
+    "definition": "Not trusting someone or something.",
+    "chinese": "不信任",
+    "example": "Past hurt can cause you to distrust warmth."
+  },
+  "sting": {
+    "definition": "A sudden sharp pain; here, a hidden hurt.",
+    "chinese": "刺痛",
+    "example": "She expected love to be accompanied by a sting."
+  },
+  "inconvenient": {
+    "definition": "Causing trouble or difficulty at a bad time.",
+    "chinese": "不便的",
+    "example": "Even inconvenient emotions are important signals."
+  },
+  "dashboard": {
+    "definition": "The panel in a car with controls and warning lights.",
+    "chinese": "儀表板",
+    "example": "Think of emotions as warning lights on a dashboard."
+  },
+  "petrol": {
+    "definition": "The fuel used to power a car; gasoline.",
+    "chinese": "汽油",
+    "example": "The petrol warning light means the car needs fuel."
+  },
+  "bulb": {
+    "definition": "The glass part of a light that produces light.",
+    "chinese": "燈泡",
+    "example": "Removing the bulb does not fix the problem."
+  },
+  "deaden": {
+    "definition": "To make something less strong or less felt.",
+    "chinese": "減弱",
+    "example": "We should not try to deaden our feelings."
+  },
+  "heed": {
+    "definition": "To pay attention to and follow advice or a warning.",
+    "chinese": "留意",
+    "example": "Heed your feelings — they are telling you something important."
+  }
+}

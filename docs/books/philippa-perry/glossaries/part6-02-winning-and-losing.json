@@ -1,0 +1,217 @@
+{
+  "pushchair": {
+    "definition": "A small chair with wheels used to push a young child around.",
+    "chinese": "嬰兒推車",
+    "example": "She left the pushchair at home because Flo wanted to walk."
+  },
+  "instinct": {
+    "definition": "A natural feeling that tells you what to do without thinking.",
+    "chinese": "直覺",
+    "example": "My instinct was to worry about getting home on time."
+  },
+  "crouched": {
+    "definition": "Bent down low with your knees close to the ground.",
+    "chinese": "蹲下的",
+    "example": "She crouched beside the child to look at the ant."
+  },
+  "ant": {
+    "definition": "A very small insect that lives in large groups.",
+    "chinese": "螞蟻",
+    "example": "Flo was watching an ant follow a crack in the pavement."
+  },
+  "crack": {
+    "definition": "A thin line or opening in a surface.",
+    "chinese": "裂縫",
+    "example": "The ant disappeared into a crack in the pavement."
+  },
+  "pavement": {
+    "definition": "The hard surface of a path beside a road for people to walk on.",
+    "chinese": "人行道",
+    "example": "The child sat down and looked at the pavement."
+  },
+  "elderly": {
+    "definition": "Old; used politely to describe an old person.",
+    "chinese": "年長的",
+    "example": "An elderly man stopped to talk to them."
+  },
+  "battle": {
+    "definition": "A fight or struggle between two sides.",
+    "chinese": "戰鬥",
+    "example": "Parenting should not be a battle of wills."
+  },
+  "wills": {
+    "definition": "Strong wishes or determination to do something.",
+    "chinese": "意志力",
+    "example": "A battle of wills between parent and child helps no one."
+  },
+  "expense": {
+    "definition": "At 'at my expense': causing me to lose or suffer.",
+    "chinese": "代價",
+    "example": "He asked if the child was getting her way at my expense."
+  },
+  "extent": {
+    "definition": "The degree or level to which something is true.",
+    "chinese": "程度",
+    "example": "My parents believed in this to the extent that they feared any child getting too much."
+  },
+  "content": {
+    "definition": "Happy and satisfied.",
+    "chinese": "滿足的",
+    "example": "You both want to feel content rather than frustrated."
+  },
+  "frustrated": {
+    "definition": "Feeling upset because you cannot do what you want.",
+    "chinese": "沮喪的",
+    "example": "Both parent and child want to avoid feeling frustrated."
+  },
+  "knowingly": {
+    "definition": "In a way that shows you understand something that others might not.",
+    "chinese": "會意地",
+    "example": "The old man smiled knowingly at us."
+  },
+  "empathize": {
+    "definition": "To understand and share another person's feelings.",
+    "chinese": "產生同理心",
+    "example": "Once you empathize with the feeling, you can help the child."
+  },
+  "articulate": {
+    "definition": "To express thoughts or feelings clearly in words.",
+    "chinese": "表達",
+    "example": "It's hard to articulate your feelings when you are upset."
+  },
+  "overwhelmed": {
+    "definition": "Feeling too much of something; unable to deal with it.",
+    "chinese": "不知所措的",
+    "example": "Young children can feel overwhelmed by sights and sounds."
+  },
+  "sights": {
+    "definition": "Things you can see.",
+    "chinese": "景象",
+    "example": "A child may be overwhelmed by all the sights around them."
+  },
+  "relevant": {
+    "definition": "Connected to what is happening; important in the situation.",
+    "chinese": "相關的",
+    "example": "Adults learn to block out sounds that aren't relevant."
+  },
+  "traditionally": {
+    "definition": "In a way that has been done for a long time in the past.",
+    "chinese": "傳統上",
+    "example": "Traditionally, people thought you must not let children get their way."
+  },
+  "remark": {
+    "definition": "Something said as a comment.",
+    "chinese": "評論",
+    "example": "His remark about 'winning' showed an old-fashioned view."
+  },
+  "rod": {
+    "definition": "In 'making a rod for your own back': creating future problems by being too kind now.",
+    "chinese": "（自找麻煩的）苦果",
+    "example": "People warned her she was making a rod for her own back."
+  },
+  "tantrums": {
+    "definition": "Sudden outbursts of anger, especially by a child.",
+    "chinese": "發脾氣",
+    "example": "Parents often fear tantrums in public places."
+  },
+  "manipulation": {
+    "definition": "Controlling someone in a clever but unfair way.",
+    "chinese": "操控",
+    "example": "The winning and losing game leads to manipulation, not relating."
+  },
+  "entrenched": {
+    "definition": "Firmly fixed and hard to change.",
+    "chinese": "根深蒂固的",
+    "example": "The pattern of winning and losing can become entrenched."
+  },
+  "dynamic": {
+    "definition": "The way people interact and affect each other.",
+    "chinese": "動態關係",
+    "example": "The winning and losing game becomes a harmful dynamic."
+  },
+  "dominating": {
+    "definition": "Controlling others by being more powerful.",
+    "chinese": "支配的",
+    "example": "By dominating a child, you teach them to dominate others."
+  },
+  "impose": {
+    "definition": "To force something on someone.",
+    "chinese": "強加",
+    "example": "Don't impose your will on your children."
+  },
+  "dominant": {
+    "definition": "Being the most powerful or in control.",
+    "chinese": "強勢的",
+    "example": "The dominant role teaches a child that power is everything."
+  },
+  "submissive": {
+    "definition": "Willing to obey others without question; giving in.",
+    "chinese": "順從的",
+    "example": "A child may learn to be either dominant or submissive."
+  },
+  "victim": {
+    "definition": "A person who is harmed or suffers because of someone else's actions.",
+    "chinese": "受害者",
+    "example": "The child may end up in the victim role."
+  },
+  "bully": {
+    "definition": "A person who uses strength or power to hurt or frighten weaker people.",
+    "chinese": "霸凌者",
+    "example": "They may either become a bully or a victim."
+  },
+  "consequences": {
+    "definition": "The results or effects of something that happened.",
+    "chinese": "後果",
+    "example": "The winning and losing game has consequences for emotional growth."
+  },
+  "repertoire": {
+    "definition": "The full range of skills or abilities someone has.",
+    "chinese": "範圍；能力組合",
+    "example": "The game limits the emotional repertoire of your child."
+  },
+  "humiliation": {
+    "definition": "A feeling of shame and embarrassment.",
+    "chinese": "羞辱",
+    "example": "Losing a battle of wills can often mean humiliation."
+  },
+  "humble": {
+    "definition": "Not proud; thinking of yourself as not more important than others.",
+    "chinese": "謙虛的",
+    "example": "Being humiliated does not make a person humble."
+  },
+  "depression": {
+    "definition": "A serious mental condition where you feel very sad for a long time.",
+    "chinese": "憂鬱症",
+    "example": "Anger turned inward can lead to depression."
+  },
+  "antisocial": {
+    "definition": "Harmful to other people; going against what society expects.",
+    "chinese": "反社會的",
+    "example": "Anger turned outward can lead to antisocial behaviour."
+  },
+  "appropriately": {
+    "definition": "In a way that is correct and suitable for the situation.",
+    "chinese": "適當地",
+    "example": "Help your child learn to behave appropriately."
+  },
+  "conveniently": {
+    "definition": "In a way that does not cause problems for others.",
+    "chinese": "方便地；不造成困擾地",
+    "example": "The goal is for children to behave conveniently."
+  },
+  "grounded": {
+    "definition": "Based on real facts, not imagination.",
+    "chinese": "有根據的",
+    "example": "Focus on what is grounded in reality."
+  },
+  "fantasy": {
+    "definition": "An imagined situation that is not based on reality.",
+    "chinese": "幻想",
+    "example": "Worrying about the future is based on fantasy, not reality."
+  },
+  "maxim": {
+    "definition": "A short saying that gives a rule for how to live.",
+    "chinese": "格言",
+    "example": "Going with what works is a useful maxim for parenting."
+  }
+}

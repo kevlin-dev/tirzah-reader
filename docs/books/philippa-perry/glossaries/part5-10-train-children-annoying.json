@@ -1,0 +1,322 @@
+{
+  "train": {
+    "definition": "To teach someone to behave in a certain way over time.",
+    "chinese": "訓練",
+    "example": "Parents can accidentally train their children to be difficult."
+  },
+  "annoying": {
+    "definition": "Making you feel slightly angry or bothered.",
+    "chinese": "煩人的",
+    "example": "Children become annoying when they don't get attention."
+  },
+  "cycle": {
+    "definition": "A series of events that repeat in the same order.",
+    "chinese": "循環",
+    "example": "Bad habits create a cycle that is hard to break."
+  },
+  "surrealism": {
+    "definition": "An art movement that creates strange, dreamlike images.",
+    "chinese": "超現實主義",
+    "example": "She made a TV programme about surrealism."
+  },
+  "charged": {
+    "definition": "Rushed forward quickly and forcefully.",
+    "chinese": "衝",
+    "example": "The boy charged headfirst into the wall."
+  },
+  "headfirst": {
+    "definition": "With the head going first; rushing without thinking.",
+    "chinese": "頭朝前地",
+    "example": "He charged headfirst into the pillar."
+  },
+  "marble": {
+    "definition": "A hard, smooth stone used in buildings and art.",
+    "chinese": "大理石",
+    "example": "He ran into a marble pillar at school."
+  },
+  "pillar": {
+    "definition": "A tall, strong column that supports a building.",
+    "chinese": "柱子",
+    "example": "He hurt himself by running into a pillar."
+  },
+  "locked": {
+    "definition": "Stuck in a position and unable to move forward.",
+    "chinese": "卡住的；鎖定的",
+    "example": "They got locked into a pattern of fighting."
+  },
+  "stage": {
+    "definition": "A step or period in a process of development.",
+    "chinese": "階段",
+    "example": "Some children get stuck at the attention-seeking stage."
+  },
+  "spoil": {
+    "definition": "To harm a child's character by giving them too much.",
+    "chinese": "寵壞",
+    "example": "You can't spoil a baby with too much love."
+  },
+  "responsiveness": {
+    "definition": "The ability to react quickly and helpfully.",
+    "chinese": "回應性",
+    "example": "Sensitive responsiveness helps babies feel safe."
+  },
+  "invested": {
+    "definition": "Put time, effort, or money into something for a future benefit.",
+    "chinese": "投入的",
+    "example": "Time invested early saves trouble later."
+  },
+  "internalize": {
+    "definition": "To take something in and make it part of how you think or feel.",
+    "chinese": "內化",
+    "example": "Children internalize the feeling of being loved."
+  },
+  "rely": {
+    "definition": "To trust and depend on something or someone.",
+    "chinese": "依賴",
+    "example": "A secure child knows they can rely on their parents."
+  },
+  "preoccupied": {
+    "definition": "Thinking about something so much you cannot focus on other things.",
+    "chinese": "全神貫注的；心事重重的",
+    "example": "A secure child won't be preoccupied with relationships."
+  },
+  "obsessing": {
+    "definition": "Thinking about something constantly in a worried way.",
+    "chinese": "執著；過度擔心",
+    "example": "She was obsessing about whether her child liked her."
+  },
+  "perform": {
+    "definition": "To act in a way to impress others, not because it's natural.",
+    "chinese": "表演；做作地行動",
+    "example": "Children shouldn't have to perform to get love."
+  },
+  "hoops": {
+    "definition": "Difficult tasks done to please someone (from 'jump through hoops').",
+    "chinese": "圈套（比喻困難的要求）",
+    "example": "A child should not have to jump through hoops for attention."
+  },
+  "naughtier": {
+    "definition": "More badly behaved.",
+    "chinese": "更調皮的",
+    "example": "If ignored, children get louder and naughtier."
+  },
+  "negative": {
+    "definition": "Bad; harmful; not positive.",
+    "chinese": "負面的",
+    "example": "Negative attention is better than none for a child."
+  },
+  "compelled": {
+    "definition": "Feeling forced or driven to do something.",
+    "chinese": "被迫的；不由自主的",
+    "example": "The child felt compelled to misbehave for attention."
+  },
+  "disruptive": {
+    "definition": "Causing problems or stopping things from happening normally.",
+    "chinese": "破壞性的；搗亂的",
+    "example": "The child became disruptive in class."
+  },
+  "ostracizes": {
+    "definition": "Pushes someone away and excludes them from a group.",
+    "chinese": "排擠",
+    "example": "Bad behavior ostracizes the child from others."
+  },
+  "irritation": {
+    "definition": "A feeling of being annoyed.",
+    "chinese": "煩躁",
+    "example": "The parent felt irritation towards the child."
+  },
+  "shame": {
+    "definition": "A painful feeling of not being good enough.",
+    "chinese": "羞恥",
+    "example": "Without attention, children may feel deep shame."
+  },
+  "battle": {
+    "definition": "A fight or struggle between two sides.",
+    "chinese": "戰鬥",
+    "example": "Parenting can sometimes feel like a battle."
+  },
+  "release": {
+    "definition": "To let go of something, especially strong feelings.",
+    "chinese": "釋放",
+    "example": "Find a safe place to release your anger."
+  },
+  "soundproof": {
+    "definition": "Designed so that no sound can go in or out.",
+    "chinese": "隔音的",
+    "example": "She went into a soundproof room to scream."
+  },
+  "cushion": {
+    "definition": "A soft bag filled with material, used for sitting on or comfort.",
+    "chinese": "靠墊；軟墊",
+    "example": "She beat a cushion to let out her frustration."
+  },
+  "roar": {
+    "definition": "A loud, deep shout or cry.",
+    "chinese": "吼叫",
+    "example": "Sometimes you need a good old roar to feel better."
+  },
+  "reverse": {
+    "definition": "To change something to the opposite direction.",
+    "chinese": "逆轉",
+    "example": "You can reverse the negative cycle."
+  },
+  "psychologist": {
+    "definition": "A person who studies the human mind and behavior.",
+    "chinese": "心理學家",
+    "example": "The psychologist suggested love bombing."
+  },
+  "thermostat": {
+    "definition": "A device that controls temperature; here, the emotional balance point.",
+    "chinese": "恆溫器（比喻情緒平衡點）",
+    "example": "Love bombing can reset the emotional thermostat."
+  },
+  "reset": {
+    "definition": "To set something back to its starting point.",
+    "chinese": "重置",
+    "example": "Love bombing helps reset the parent-child relationship."
+  },
+  "marked": {
+    "definition": "Clear and noticeable; having a definite beginning and end.",
+    "chinese": "明確的",
+    "example": "The time together had a marked beginning and end."
+  },
+  "afford": {
+    "definition": "To have enough money to pay for something.",
+    "chinese": "負擔得起",
+    "example": "If you can afford it, stay at a hotel."
+  },
+  "legal": {
+    "definition": "Allowed by law.",
+    "chinese": "合法的",
+    "example": "As long as it is safe and legal, the child decides."
+  },
+  "frequently": {
+    "definition": "Often; many times.",
+    "chinese": "經常地",
+    "example": "Frequently express your love for your child."
+  },
+  "heartfelt": {
+    "definition": "Deeply and sincerely felt.",
+    "chinese": "衷心的",
+    "example": "Give your child heartfelt appreciation."
+  },
+  "appreciation": {
+    "definition": "The feeling of being thankful and recognizing someone's value.",
+    "chinese": "感激；欣賞",
+    "example": "Children need to feel appreciation from their parents."
+  },
+  "compounding": {
+    "definition": "Making something worse by adding to it.",
+    "chinese": "加劇",
+    "example": "Giving love is not compounding bad behavior."
+  },
+  "unseen": {
+    "definition": "Not seen or noticed.",
+    "chinese": "未被看見的",
+    "example": "The child felt unseen by their parents."
+  },
+  "mistreated": {
+    "definition": "Treated badly or unfairly.",
+    "chinese": "被虐待的",
+    "example": "A mistreated child may act out for attention."
+  },
+  "nuisance": {
+    "definition": "A person or thing that causes trouble or annoyance.",
+    "chinese": "麻煩；討厭的人或事",
+    "example": "The child made a nuisance of himself to get noticed."
+  },
+  "consideration": {
+    "definition": "Careful thought about other people's feelings.",
+    "chinese": "體貼；考慮",
+    "example": "Show your child love and consideration."
+  },
+  "concentrated": {
+    "definition": "Brought together in one place; very strong.",
+    "chinese": "集中的；濃縮的",
+    "example": "Love bombing gives a concentrated dose of attention."
+  },
+  "dose": {
+    "definition": "An amount of something, especially medicine.",
+    "chinese": "劑量",
+    "example": "The child needs a dose of focused attention."
+  },
+  "interrupts": {
+    "definition": "Stops something from continuing; breaks into.",
+    "chinese": "打斷",
+    "example": "Love bombing interrupts the negative cycle."
+  },
+  "mutually": {
+    "definition": "Done by both sides equally.",
+    "chinese": "相互地",
+    "example": "They were stuck in mutually coercive patterns."
+  },
+  "coercive": {
+    "definition": "Using force or pressure to make someone do something.",
+    "chinese": "強制的",
+    "example": "Coercive patterns damage relationships."
+  },
+  "psychotherapist": {
+    "definition": "A person trained to help people with mental and emotional problems through talking.",
+    "chinese": "心理治療師",
+    "example": "She worked as a psychotherapist for many years."
+  },
+  "manipulative": {
+    "definition": "Skilled at controlling others in a dishonest way.",
+    "chinese": "善於操控的",
+    "example": "Ignored children may learn to be manipulative."
+  },
+  "outcome": {
+    "definition": "The final result of something.",
+    "chinese": "結果",
+    "example": "The other outcome is giving up on relationships."
+  },
+  "judging": {
+    "definition": "Forming opinions about whether someone is good or bad.",
+    "chinese": "評判",
+    "example": "Attention is not about judging your child."
+  },
+  "ordinary": {
+    "definition": "Normal; not special or different.",
+    "chinese": "普通的",
+    "example": "What children need is ordinary, everyday attention."
+  },
+  "invest": {
+    "definition": "To put time or effort into something for a future benefit.",
+    "chinese": "投資",
+    "example": "Invest attention in your child early on."
+  },
+  "catching": {
+    "definition": "Making up for something missed.",
+    "chinese": "趕上；彌補",
+    "example": "The more you invest early, the less catching up later."
+  },
+  "liable": {
+    "definition": "Likely to do something.",
+    "chinese": "可能會",
+    "example": "A child on a long journey is liable to get bored."
+  },
+  "carriage": {
+    "definition": "A section of a train where people sit.",
+    "chinese": "車廂",
+    "example": "The noise was unpleasant for others in the carriage."
+  },
+  "admonishment": {
+    "definition": "A warning or scolding for bad behavior.",
+    "chinese": "告誡；訓斥",
+    "example": "Playing together is better than admonishment."
+  },
+  "enduring": {
+    "definition": "Suffering through something difficult for a long time.",
+    "chinese": "忍受",
+    "example": "Enduring noise is worse than playing with your child."
+  },
+  "unpleasant": {
+    "definition": "Not nice; causing discomfort.",
+    "chinese": "令人不愉快的",
+    "example": "The situation was unpleasant for everyone."
+  },
+  "absorbed": {
+    "definition": "Completely focused on something.",
+    "chinese": "全神貫注的",
+    "example": "After playing together, the child became absorbed in drawing."
+  }
+}

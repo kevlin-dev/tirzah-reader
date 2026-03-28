@@ -1,0 +1,172 @@
+{
+  "interaction": {
+    "definition": "The way people act and respond to each other.",
+    "chinese": "互動",
+    "example": "Positive interaction helps babies grow."
+  },
+  "blank": {
+    "definition": "Showing no expression or emotion.",
+    "chinese": "空白的；面無表情的",
+    "example": "The baby turned away with a blank expression."
+  },
+  "expression": {
+    "definition": "A look on someone's face that shows how they feel.",
+    "chinese": "表情",
+    "example": "Her expression showed she was surprised."
+  },
+  "curious": {
+    "definition": "Wanting to know or learn about something.",
+    "chinese": "好奇的",
+    "example": "The baby had a curious look on her face."
+  },
+  "smiley": {
+    "definition": "Having a happy, smiling expression.",
+    "chinese": "笑咪咪的",
+    "example": "The baby gave a smiley look at her mother."
+  },
+  "gentle": {
+    "definition": "Soft, kind, and careful.",
+    "chinese": "溫柔的",
+    "example": "She spoke in a gentle voice."
+  },
+  "pitched": {
+    "definition": "The level of how high or low a sound is.",
+    "chinese": "音調的",
+    "example": "She used a high-pitched voice to talk to the baby."
+  },
+  "satisfied": {
+    "definition": "Feeling happy because your needs have been met.",
+    "chinese": "滿足的",
+    "example": "The baby looked satisfied after feeding."
+  },
+  "predict": {
+    "definition": "To say what will happen in the future.",
+    "chinese": "預測",
+    "example": "Researchers can predict child development patterns."
+  },
+  "secure": {
+    "definition": "Feeling safe and protected.",
+    "chinese": "安全的；有安全感的",
+    "example": "A secure child feels safe with their parents."
+  },
+  "attachment": {
+    "definition": "A strong emotional connection between people, especially parent and child.",
+    "chinese": "依附；情感連結",
+    "example": "Secure attachment helps children grow well."
+  },
+  "metaphor": {
+    "definition": "A way of describing something by comparing it to something else.",
+    "chinese": "比喻；隱喻",
+    "example": "The desert is a metaphor for loneliness."
+  },
+  "desert": {
+    "definition": "A dry, empty area with very little water; here used as a symbol for being alone.",
+    "chinese": "沙漠（此處比喻孤獨）",
+    "example": "The baby felt rescued from the desert of loneliness."
+  },
+  "rescued": {
+    "definition": "Saved from a dangerous or bad situation.",
+    "chinese": "被拯救的",
+    "example": "The child felt rescued when her mother held her."
+  },
+  "relational": {
+    "definition": "Related to how people connect with each other.",
+    "chinese": "關係上的",
+    "example": "Children have relational needs that must be met."
+  },
+  "interrupt": {
+    "definition": "To stop something from continuing; to break in.",
+    "chinese": "打斷",
+    "example": "Try not to interrupt when your child is speaking."
+  },
+  "interfere": {
+    "definition": "To get involved in something in a way that is not helpful.",
+    "chinese": "干涉；妨礙",
+    "example": "Don't interfere with the child's play."
+  },
+  "natural": {
+    "definition": "Normal; happening without effort or force.",
+    "chinese": "自然的",
+    "example": "Bonding with your baby is a natural process."
+  },
+  "process": {
+    "definition": "A series of steps or actions that lead to a result.",
+    "chinese": "過程",
+    "example": "Learning to walk is a slow process."
+  },
+  "sufficiently": {
+    "definition": "Enough; to a degree that is needed.",
+    "chinese": "足夠地",
+    "example": "The child was not sufficiently understood."
+  },
+  "standpoint": {
+    "definition": "A way of looking at or thinking about something.",
+    "chinese": "立場；觀點",
+    "example": "Try to see things from the child's standpoint."
+  },
+  "demanding": {
+    "definition": "Needing a lot of time, attention, or effort.",
+    "chinese": "要求高的；費力的",
+    "example": "Caring for a baby can be very demanding."
+  },
+  "unlikely": {
+    "definition": "Not expected to happen; probably not.",
+    "chinese": "不太可能的",
+    "example": "It is unlikely to snow in summer."
+  },
+  "relating": {
+    "definition": "The way you connect and communicate with someone.",
+    "chinese": "相處；建立關係",
+    "example": "Her pattern of relating changed over time."
+  },
+  "observant": {
+    "definition": "Good at noticing things.",
+    "chinese": "善於觀察的",
+    "example": "An observant parent notices their child's needs."
+  },
+  "responsive": {
+    "definition": "Reacting quickly and in a helpful way.",
+    "chinese": "回應的；敏感的",
+    "example": "A responsive parent pays attention to their baby's cries."
+  },
+  "attuned": {
+    "definition": "Being aware of and sensitive to someone's feelings or needs.",
+    "chinese": "敏感的；調和的",
+    "example": "An attuned parent understands their child without words."
+  },
+  "draining": {
+    "definition": "Making you feel very tired and weak.",
+    "chinese": "令人疲憊的",
+    "example": "Taking care of a newborn can be draining."
+  },
+  "effortless": {
+    "definition": "Done easily, without difficulty.",
+    "chinese": "不費力的",
+    "example": "For some parents, bonding feels effortless."
+  },
+  "fault": {
+    "definition": "Responsibility for a mistake or problem.",
+    "chinese": "過錯；錯誤",
+    "example": "It's not your fault if this feels hard."
+  },
+  "attune": {
+    "definition": "To become sensitive and aware of someone's feelings.",
+    "chinese": "使協調；使敏感",
+    "example": "Try to attune to your baby's needs."
+  },
+  "difficulty": {
+    "definition": "The state of being hard to do.",
+    "chinese": "困難",
+    "example": "She had difficulty understanding the baby's cries."
+  },
+  "researchers": {
+    "definition": "People who study something carefully to learn new things.",
+    "chinese": "研究人員",
+    "example": "Researchers found that babies need lots of attention."
+  },
+  "infants": {
+    "definition": "Very young children or babies.",
+    "chinese": "嬰兒",
+    "example": "Infants learn through watching and listening."
+  }
+}

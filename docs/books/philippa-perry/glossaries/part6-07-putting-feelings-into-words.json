@@ -1,0 +1,177 @@
+{
+  "behaviour": {
+    "definition": "The way a person acts or does things.",
+    "chinese": "行為",
+    "example": "His behaviour at school has improved a lot."
+  },
+  "suggest": {
+    "definition": "To offer an idea for someone to think about.",
+    "chinese": "建議",
+    "example": "I suggest we try a different way."
+  },
+  "alternative": {
+    "definition": "A different choice or option.",
+    "chinese": "替代的",
+    "example": "If the shop is closed, we need an alternative plan."
+  },
+  "tactic": {
+    "definition": "A planned way of doing something to get a result.",
+    "chinese": "策略",
+    "example": "She tried a new tactic to solve the problem."
+  },
+  "screaming": {
+    "definition": "Making a loud, high sound because of strong feelings.",
+    "chinese": "尖叫",
+    "example": "The baby was screaming because he was hungry."
+  },
+  "cuddle": {
+    "definition": "To hold someone close in your arms to show love.",
+    "chinese": "擁抱",
+    "example": "The mother gave her child a warm cuddle."
+  },
+  "bounce": {
+    "definition": "To move in a happy, energetic way.",
+    "chinese": "蹦跳",
+    "example": "The child bounced into the room with a big smile."
+  },
+  "lonely": {
+    "definition": "Feeling sad because you are alone.",
+    "chinese": "孤單的",
+    "example": "He felt lonely when his friends went home."
+  },
+  "illustrates": {
+    "definition": "Shows or explains something clearly with an example.",
+    "chinese": "說明",
+    "example": "This story illustrates how kindness can help."
+  },
+  "shift": {
+    "definition": "To change or move something.",
+    "chinese": "轉變",
+    "example": "Talking about your feelings can shift your mood."
+  },
+  "acknowledge": {
+    "definition": "To accept or recognize that something is true.",
+    "chinese": "承認",
+    "example": "It is important to acknowledge your child's feelings."
+  },
+  "beneath": {
+    "definition": "Under or below something.",
+    "chinese": "在...之下",
+    "example": "Beneath his anger, there was sadness."
+  },
+  "tears": {
+    "definition": "Drops of water that come from your eyes when you cry.",
+    "chinese": "眼淚",
+    "example": "Her eyes were full of tears."
+  },
+  "suffering": {
+    "definition": "Feeling pain or sadness.",
+    "chinese": "痛苦",
+    "example": "She did not want to see her child suffering."
+  },
+  "upset": {
+    "definition": "Feeling sad, worried, or unhappy.",
+    "chinese": "難過的",
+    "example": "The child was upset because he lost his toy."
+  },
+  "toddler": {
+    "definition": "A very young child who is learning to walk, usually between 1 and 3 years old.",
+    "chinese": "幼兒",
+    "example": "The toddler took her first steps today."
+  },
+  "swimming": {
+    "definition": "Moving through water using your arms and legs.",
+    "chinese": "游泳",
+    "example": "We go swimming at the pool every Saturday."
+  },
+  "inconvenient": {
+    "definition": "Causing trouble or difficulty at a bad time.",
+    "chinese": "不方便的",
+    "example": "The rain was inconvenient for our picnic plans."
+  },
+  "definition": {
+    "definition": "The meaning of a word or the description of something.",
+    "chinese": "定義",
+    "example": "What is the definition of this word?"
+  },
+  "routine": {
+    "definition": "The usual way you do things, in the same order each time.",
+    "chinese": "日常慣例",
+    "example": "Children feel safe when they have a routine."
+  },
+  "flexibility": {
+    "definition": "The ability to change and adjust to new situations.",
+    "chinese": "靈活性",
+    "example": "Young children haven't yet learned flexibility."
+  },
+  "articulate": {
+    "definition": "To express your thoughts or feelings clearly in words.",
+    "chinese": "清楚表達",
+    "example": "He found it hard to articulate what he wanted."
+  },
+  "harassed": {
+    "definition": "Feeling stressed and tired because of too much pressure.",
+    "chinese": "疲憊不堪的",
+    "example": "The harassed mother was trying to manage everything."
+  },
+  "hurried": {
+    "definition": "Done quickly because there is not enough time.",
+    "chinese": "匆忙的",
+    "example": "He ate a hurried breakfast and ran out the door."
+  },
+  "brimming": {
+    "definition": "Very full of something, almost overflowing.",
+    "chinese": "充滿的",
+    "example": "Her eyes were brimming with tears."
+  },
+  "deviate": {
+    "definition": "To go away from the usual or expected way.",
+    "chinese": "偏離",
+    "example": "If you deviate from the plan, tell everyone first."
+  },
+  "rehearsing": {
+    "definition": "Practicing something before doing it for real.",
+    "chinese": "排練",
+    "example": "They were rehearsing the play before the show."
+  },
+  "imagining": {
+    "definition": "Making a picture in your mind of something that is not real or not here yet.",
+    "chinese": "想像",
+    "example": "Imagining the change ahead can help a child prepare."
+  },
+  "lift": {
+    "definition": "A machine in a building that carries people up and down between floors (elevator).",
+    "chinese": "電梯",
+    "example": "We took the lift to the third floor."
+  },
+  "stairs": {
+    "definition": "A set of steps that go up or down inside a building.",
+    "chinese": "樓梯",
+    "example": "She climbed the stairs to the second floor."
+  },
+  "cross": {
+    "definition": "Feeling angry or annoyed.",
+    "chinese": "生氣的",
+    "example": "Dad was very cross when they got home."
+  },
+  "tale": {
+    "definition": "A story about something that happened.",
+    "chinese": "故事",
+    "example": "She told me the tale of what happened at the pool."
+  },
+  "nod": {
+    "definition": "To move your head up and down to say yes.",
+    "chinese": "點頭",
+    "example": "She gave a little nod to show she agreed."
+  },
+  "sentence": {
+    "definition": "A group of words that makes a complete thought.",
+    "chinese": "句子",
+    "example": "He practiced saying his new sentence every morning."
+  },
+  "parent": {
+    "definition": "A mother or father.",
+    "chinese": "父母",
+    "example": "Every parent wants what is best for their child."
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "headteacher": {
+    "definition": "The person in charge of a school (British term for principal).",
+    "chinese": "校長",
+    "example": "The headteacher gave a talk to all the new parents."
+  },
+  "secondary school": {
+    "definition": "A school for children aged about 11-18 (after primary school).",
+    "chinese": "中學",
+    "example": "Her daughter started secondary school this year."
+  },
+  "stonking": {
+    "definition": "Very big or very great (informal British).",
+    "chinese": "非常大的",
+    "example": "Don't make a stonking big deal of it when your child lies."
+  },
+  "trivial": {
+    "definition": "Not important; small and not worth worrying about.",
+    "chinese": "瑣碎的",
+    "example": "The thing she did was relatively trivial."
+  },
+  "sin": {
+    "definition": "An act that is considered morally wrong.",
+    "chinese": "罪",
+    "example": "Parents seem to put lying above all other sins."
+  },
+  "sinners": {
+    "definition": "People who have done something morally wrong.",
+    "chinese": "罪人",
+    "example": "We shouldn't treat children like the greatest sinners."
+  },
+  "intimacy": {
+    "definition": "A feeling of being very close to someone emotionally.",
+    "chinese": "親密",
+    "example": "Not lying gives us a better chance for real intimacy."
+  },
+  "pretend": {
+    "definition": "To act as if something is true when it is not.",
+    "chinese": "假裝",
+    "example": "We tell children to pretend to be grateful for gifts."
+  },
+  "grateful": {
+    "definition": "Feeling thankful for something.",
+    "chinese": "感激的",
+    "example": "She pretended to be grateful for the ugly scarf."
+  },
+  "scarf": {
+    "definition": "A piece of cloth worn around the neck for warmth or style.",
+    "chinese": "圍巾",
+    "example": "Granny knitted an ugly scarf for Christmas."
+  },
+  "knitted": {
+    "definition": "Made from yarn or thread using needles to loop together.",
+    "chinese": "編織的",
+    "example": "Granny knitted them scarves every year."
+  },
+  "witness": {
+    "definition": "To see something happen.",
+    "chinese": "目睹",
+    "example": "Children witness their parents telling lies all the time."
+  },
+  "overheard": {
+    "definition": "Heard something that was not meant for you to hear.",
+    "chinese": "無意中聽到",
+    "example": "The child overheard his parents telling a lie."
+  },
+  "reception": {
+    "definition": "A formal party or social event.",
+    "chinese": "招待會",
+    "example": "They didn't want to go to the work reception."
+  },
+  "persuade": {
+    "definition": "To make someone believe or do something by talking to them.",
+    "chinese": "說服",
+    "example": "She had the power to persuade people that the truth was different."
+  },
+  "accomplished": {
+    "definition": "Skilful; showing a high level of ability.",
+    "chinese": "熟練的",
+    "example": "Lying is an accomplished thing for a child to do."
+  },
+  "conceive": {
+    "definition": "To form an idea or thought in your mind.",
+    "chinese": "構想",
+    "example": "They have to conceive of an alternative reality."
+  },
+  "alternative": {
+    "definition": "A different option or possibility.",
+    "chinese": "替代的",
+    "example": "The child must imagine an alternative version of events."
+  },
+  "distinguish": {
+    "definition": "To see or understand the difference between two things.",
+    "chinese": "區分",
+    "example": "They must distinguish between what is real and what is made up."
+  },
+  "superpower": {
+    "definition": "An amazing ability, like those of a superhero.",
+    "chinese": "超能力",
+    "example": "The child felt like lying was a new superpower."
+  },
+  "deceitful": {
+    "definition": "Deliberately trying to make someone believe something false.",
+    "chinese": "欺騙性的",
+    "example": "A toddler may do deceitful things like feeding the dog behind your back."
+  },
+  "indulge": {
+    "definition": "To allow yourself or someone to do something enjoyable.",
+    "chinese": "沉溺於",
+    "example": "A toddler may indulge in deceitful behaviour."
+  },
+  "unjudgemental": {
+    "definition": "Not forming negative opinions about people.",
+    "chinese": "不批判的",
+    "example": "Adults should be calm and unjudgemental about the truth."
+  },
+  "fantasy": {
+    "definition": "Something that exists only in the imagination.",
+    "chinese": "幻想",
+    "example": "Some children tell fantasy lies to make sense of feelings."
+  },
+  "narrative": {
+    "definition": "A story or description of events.",
+    "chinese": "敘事",
+    "example": "The child invented a narrative to fit her feelings."
+  },
+  "nursery school": {
+    "definition": "A school for very young children, usually ages 3-5.",
+    "chinese": "幼兒園",
+    "example": "She told a lie at nursery school about her goldfish."
+  },
+  "bouncy": {
+    "definition": "Happy, energetic, and full of life.",
+    "chinese": "活潑的",
+    "example": "Flo did not seem her usual bouncy self."
+  },
+  "goldfish": {
+    "definition": "A small orange fish often kept as a pet.",
+    "chinese": "金魚",
+    "example": "She said her goldfish had died, but they never had one."
+  },
+  "beloved": {
+    "definition": "Very much loved.",
+    "chinese": "心愛的",
+    "example": "My beloved aunt had died."
+  },
+  "bereavement": {
+    "definition": "The sadness and pain after someone you love dies.",
+    "chinese": "喪親之痛",
+    "example": "She could not handle the enormity of my bereavement."
+  },
+  "enormity": {
+    "definition": "The very large size or seriousness of something.",
+    "chinese": "巨大",
+    "example": "The child could not take in the enormity of the situation."
+  },
+  "self-soothing": {
+    "definition": "Making yourself feel calm and better on your own.",
+    "chinese": "自我安慰",
+    "example": "The fantasy lie was a form of self-soothing."
+  },
+  "aberrant": {
+    "definition": "Different from what is normal or expected, in a bad way.",
+    "chinese": "異常的",
+    "example": "Look to understand the feelings behind aberrant behaviour."
+  },
+  "condemn": {
+    "definition": "To say strongly that something is wrong or bad.",
+    "chinese": "譴責",
+    "example": "Don't condemn the child for the behaviour."
+  },
+  "predicted": {
+    "definition": "Said that something would happen before it did.",
+    "chinese": "預測的",
+    "example": "As you may have predicted, the headteacher's words came true."
+  },
+  "tragedy": {
+    "definition": "A very sad or terrible event.",
+    "chinese": "悲劇",
+    "example": "I did not treat this lie as the greatest tragedy."
+  },
+  "descend": {
+    "definition": "To come down; to happen to someone.",
+    "chinese": "降臨",
+    "example": "It was not the greatest tragedy to descend upon me."
+  },
+  "revising": {
+    "definition": "Studying again to prepare for an exam (British English).",
+    "chinese": "複習",
+    "example": "They said they were revising at each other's house."
+  },
+  "union": {
+    "definition": "An organization of students or workers.",
+    "chinese": "聯合會",
+    "example": "They went to the university's student union bar."
+  },
+  "illegal": {
+    "definition": "Against the law; not allowed.",
+    "chinese": "非法的",
+    "example": "Drinking under age is illegal."
+  },
+  "entitled": {
+    "definition": "Having the right to do or have something.",
+    "chinese": "有資格的",
+    "example": "They were not entitled to use the private bar."
+  },
+  "escapades": {
+    "definition": "Exciting and sometimes risky adventures.",
+    "chinese": "冒險事蹟",
+    "example": "Looking back on my own escapades, I was lucky."
+  },
+  "sophisticated": {
+    "definition": "Experienced and having knowledge of the world; worldly.",
+    "chinese": "老練的",
+    "example": "She tried to impress people who seemed more sophisticated."
+  },
+  "cunning": {
+    "definition": "Clever in a tricky way.",
+    "chinese": "狡猾的",
+    "example": "It was a cunning trick question on my part."
+  },
+  "sensible": {
+    "definition": "Showing good thinking; practical and reasonable.",
+    "chinese": "明智的",
+    "example": "Her answers were sensible enough."
+  },
+  "festival": {
+    "definition": "A large event with music, food, and entertainment.",
+    "chinese": "音樂節",
+    "example": "I let her camp at a pop festival with her friends."
+  },
+  "marvellous": {
+    "definition": "Wonderful; extremely good.",
+    "chinese": "了不起的",
+    "example": "It was a marvellous adventure for a pair of sixteen-year-olds."
+  },
+  "overreact": {
+    "definition": "To respond more strongly than is necessary.",
+    "chinese": "反應過度",
+    "example": "Try not to overreact to what your child tells you."
+  },
+  "containment": {
+    "definition": "The act of holding or managing strong feelings safely.",
+    "chinese": "情感承載",
+    "example": "She veered too far from the ideal of containment."
+  },
+  "veering": {
+    "definition": "Turning away from the direction you should go.",
+    "chinese": "偏離",
+    "example": "She was veering too far from being calm."
+  },
+  "erred": {
+    "definition": "Made a mistake.",
+    "chinese": "犯了錯",
+    "example": "I had perhaps erred by overreacting."
+  },
+  "deemed": {
+    "definition": "Considered or judged to be something.",
+    "chinese": "認為",
+    "example": "She deemed me unready to hear the story."
+  },
+  "straining": {
+    "definition": "Pushing hard against limits or restrictions.",
+    "chinese": "掙扎",
+    "example": "Teenagers are straining at the restrictions their parents put in place."
+  },
+  "restrictions": {
+    "definition": "Rules that limit what you can do.",
+    "chinese": "限制",
+    "example": "Parents put restrictions in place out of fear."
+  },
+  "forge": {
+    "definition": "To create or build something new, often with effort.",
+    "chinese": "打造",
+    "example": "Teenagers need privacy to forge their own identity."
+  },
+  "privacy": {
+    "definition": "The state of being alone and not watched or disturbed by others.",
+    "chinese": "隱私",
+    "example": "Teenagers need privacy to grow up."
+  },
+  "spooked": {
+    "definition": "Frightened or made uneasy.",
+    "chinese": "受到驚嚇的",
+    "example": "The child felt spooked by the instructor's behaviour."
+  },
+  "overtones": {
+    "definition": "Hidden extra meanings or feelings beyond what is obvious.",
+    "chinese": "弦外之音",
+    "example": "She felt spooked by the sexual overtones."
+  },
+  "sounding board": {
+    "definition": "A person you talk to in order to test your ideas.",
+    "chinese": "諮詢對象",
+    "example": "Be a sounding board rather than always telling them what to do."
+  },
+  "oracle": {
+    "definition": "A person who gives wise answers to all questions.",
+    "chinese": "先知",
+    "example": "If you are a sounding board rather than an oracle, they will keep talking to you."
+  },
+  "instil": {
+    "definition": "To gradually put an idea or feeling into someone's mind.",
+    "chinese": "灌輸",
+    "example": "Hold back so that you instil confidence in your child."
+  },
+  "disempowering": {
+    "definition": "Making someone feel they have no power or ability.",
+    "chinese": "削弱能力的",
+    "example": "Always giving answers is disempowering for a child."
+  },
+  "moralistic": {
+    "definition": "Telling people what is right and wrong in a preachy way.",
+    "chinese": "說教的",
+    "example": "A moralistic approach does not make children more truthful."
+  },
+  "punitive": {
+    "definition": "Meant to punish; harsh in punishment.",
+    "chinese": "懲罰性的",
+    "example": "The punitive school created better liars."
+  },
+  "regime": {
+    "definition": "A system of rules or a way things are managed.",
+    "chinese": "制度",
+    "example": "The two schools had very different disciplinary regimes."
+  },
+  "misdemeanours": {
+    "definition": "Small wrongdoings or bad behaviours that are not very serious.",
+    "chinese": "輕微過失",
+    "example": "Children were beaten for misdemeanours."
+  },
+  "detention": {
+    "definition": "A punishment where a student must stay at school after classes end.",
+    "chinese": "留校處分",
+    "example": "You might get guidance and a detention."
+  },
+  "peeping": {
+    "definition": "Looking secretly at something you are not supposed to see.",
+    "chinese": "偷看",
+    "example": "She did an experiment called the peeping game."
+  },
+  "peeked": {
+    "definition": "Looked quickly and secretly.",
+    "chinese": "偷看了",
+    "example": "Almost all the children peeked."
+  },
+  "convincingly": {
+    "definition": "In a way that makes people believe it is true.",
+    "chinese": "令人信服地",
+    "example": "The children lied very convincingly."
+  },
+  "unwittingly": {
+    "definition": "Without knowing or meaning to.",
+    "chinese": "不知不覺地",
+    "example": "The school had unwittingly created great liars."
+  },
+  "cracking down": {
+    "definition": "Using stricter rules or harsher punishment.",
+    "chinese": "嚴厲打擊",
+    "example": "Cracking down on lying made the children lie better."
+  },
+  "developmental": {
+    "definition": "Related to the process of growing and learning.",
+    "chinese": "發展性的",
+    "example": "Lying is a developmental stage for children."
+  },
+  "confiding": {
+    "definition": "Sharing secret or personal information with someone you trust.",
+    "chinese": "吐露心聲",
+    "example": "Being too strict will stop your child confiding in you."
+  },
+  "approval": {
+    "definition": "The feeling that someone thinks you are good or right.",
+    "chinese": "認可",
+    "example": "Children want to get their parents' approval."
+  },
+  "draconian": {
+    "definition": "Very harsh and strict, often unfairly so.",
+    "chinese": "嚴苛的",
+    "example": "A draconian regime does not turn out good citizens."
+  },
+  "jeopardize": {
+    "definition": "To put something at risk of being damaged or lost.",
+    "chinese": "危害",
+    "example": "Harsh parenting may jeopardize their ability to form relationships."
+  },
+  "sustaining": {
+    "definition": "Lasting and giving strength or support over time.",
+    "chinese": "持久的",
+    "example": "Everyone deserves sustaining, satisfying relationships."
+  },
+  "pupil": {
+    "definition": "A student at a school.",
+    "chinese": "學生",
+    "example": "Margaret told me about a pupil of hers."
+  },
+  "earthquake": {
+    "definition": "A sudden shaking of the ground caused by movements in the earth.",
+    "chinese": "地震",
+    "example": "She claimed to have a relative in every earthquake."
+  },
+  "sympathy": {
+    "definition": "Feeling sorry for someone and understanding their sadness.",
+    "chinese": "同情",
+    "example": "She invented stories to get attention and sympathy."
+  },
+  "roundabout": {
+    "definition": "Not direct; going a long way around.",
+    "chinese": "迂迴的",
+    "example": "The child took a roundabout route to get sympathy."
+  }
+}

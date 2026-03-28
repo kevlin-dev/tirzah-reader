@@ -1,0 +1,427 @@
+{
+  "argue": {
+    "definition": "To disagree with someone, often with strong feelings.",
+    "chinese": "爭論",
+    "example": "It is normal for families to argue sometimes."
+  },
+  "resolved": {
+    "definition": "Dealt with and finished; found a solution.",
+    "chinese": "解決了",
+    "example": "The argument was resolved after they talked calmly."
+  },
+  "successful": {
+    "definition": "Achieving what you wanted; working well.",
+    "chinese": "成功的",
+    "example": "Successful partnerships still have disagreements."
+  },
+  "acknowledged": {
+    "definition": "Recognized and accepted as true or real.",
+    "chinese": "被承認的",
+    "example": "Her feelings were acknowledged by her partner."
+  },
+  "context": {
+    "definition": "The situation or background around something.",
+    "chinese": "情境",
+    "example": "What you are arguing about is the context."
+  },
+  "process": {
+    "definition": "The steps you take to do something.",
+    "chinese": "過程",
+    "example": "The process of solving a problem matters as much as the answer."
+  },
+  "tackle": {
+    "definition": "To deal with or try to solve a problem.",
+    "chinese": "處理",
+    "example": "Let's tackle this problem together."
+  },
+  "heated": {
+    "definition": "Becoming very angry or emotional.",
+    "chinese": "激烈的",
+    "example": "The discussion became heated when nobody listened."
+  },
+  "lobbing": {
+    "definition": "Throwing something back and forth casually.",
+    "chinese": "拋來拋去",
+    "example": "They kept lobbing reasons at each other."
+  },
+  "workable": {
+    "definition": "Able to be used; practical.",
+    "chinese": "可行的",
+    "example": "They found a workable solution to their problem."
+  },
+  "compromise": {
+    "definition": "An agreement where each side gives up something.",
+    "chinese": "妥協",
+    "example": "A good compromise makes both people feel heard."
+  },
+  "typical": {
+    "definition": "Normal; what you would expect.",
+    "chinese": "典型的",
+    "example": "This is a typical family argument."
+  },
+  "server": {
+    "definition": "In tennis, the person who hits the ball first; here, the person who starts the argument.",
+    "chinese": "發球方",
+    "example": "The server made the first point in the argument."
+  },
+  "responder": {
+    "definition": "The person who answers or replies.",
+    "chinese": "回應方",
+    "example": "The responder had a quick answer for every reason."
+  },
+  "hardens": {
+    "definition": "Becomes hard and difficult to remove.",
+    "chinese": "變硬",
+    "example": "Food hardens on the dishes if you leave them."
+  },
+  "unhygienic": {
+    "definition": "Not clean; could cause illness.",
+    "chinese": "不衛生的",
+    "example": "Leaving dirty dishes out is unhygienic."
+  },
+  "accumulated": {
+    "definition": "Collected or built up over time.",
+    "chinese": "累積的",
+    "example": "Bacteria accumulated on the dirty plates."
+  },
+  "bacteria": {
+    "definition": "Very tiny living things that can sometimes cause sickness.",
+    "chinese": "細菌",
+    "example": "Bacteria grow on food that is left out."
+  },
+  "deemed": {
+    "definition": "Considered or judged to be.",
+    "chinese": "被認為",
+    "example": "The person who ran out of reasons was deemed the loser."
+  },
+  "opponent": {
+    "definition": "The person you are fighting or competing against.",
+    "chinese": "對手",
+    "example": "Your partner should not feel like an opponent."
+  },
+  "expense": {
+    "definition": "The cost or harm caused to someone.",
+    "chinese": "代價",
+    "example": "Winning an argument at the expense of your partner is not worth it."
+  },
+  "distraction": {
+    "definition": "Something that takes your attention away from what matters.",
+    "chinese": "分散注意力",
+    "example": "Changing the subject is a form of distraction."
+  },
+  "appropriate": {
+    "definition": "Right or suitable for the situation.",
+    "chinese": "適當的",
+    "example": "It may be appropriate to delay the conversation."
+  },
+  "delay": {
+    "definition": "To wait before doing something; to put off.",
+    "chinese": "延遲",
+    "example": "Sometimes it helps to delay a difficult conversation."
+  },
+  "altogether": {
+    "definition": "Completely; entirely.",
+    "chinese": "完全地",
+    "example": "Avoiding conflict altogether is not healthy."
+  },
+  "intimacy": {
+    "definition": "A close, warm connection between people.",
+    "chinese": "親密感",
+    "example": "Avoiding conflict can also mean avoiding intimacy."
+  },
+  "taboo": {
+    "definition": "A subject that people do not talk about because it feels forbidden.",
+    "chinese": "禁忌",
+    "example": "Too many subjects became taboo in their family."
+  },
+  "skirting": {
+    "definition": "Avoiding or going around something.",
+    "chinese": "迴避",
+    "example": "Politely skirting around problems makes things lonely."
+  },
+  "martyr": {
+    "definition": "A person who suffers or does everything themselves to make others feel guilty.",
+    "chinese": "殉道者；犧牲者",
+    "example": "Being a martyr does not help your relationships."
+  },
+  "guilty": {
+    "definition": "Feeling bad because you did something wrong or think you did.",
+    "chinese": "有罪惡感的",
+    "example": "The martyr wants to make everyone feel guilty."
+  },
+  "resentful": {
+    "definition": "Feeling angry because something seems unfair.",
+    "chinese": "怨恨的",
+    "example": "The martyr eventually becomes resentful."
+  },
+  "persecutor": {
+    "definition": "A person who attacks or treats others badly.",
+    "chinese": "迫害者",
+    "example": "The persecutor attacks with insults."
+  },
+  "insults": {
+    "definition": "Rude or hurtful words said to someone.",
+    "chinese": "侮辱",
+    "example": "Flinging insults during an argument hurts everyone."
+  },
+  "flings": {
+    "definition": "Throws with force.",
+    "chinese": "拋出",
+    "example": "She flings insults when she is angry."
+  },
+  "hygiene": {
+    "definition": "Keeping things clean and healthy.",
+    "chinese": "衛生",
+    "example": "Good hygiene helps prevent illness."
+  },
+  "atmosphere": {
+    "definition": "The feeling or mood in a place.",
+    "chinese": "氣氛",
+    "example": "Arguments create a bad atmosphere at home."
+  },
+  "alert": {
+    "definition": "Watching and ready for danger.",
+    "chinese": "警覺的",
+    "example": "Conflict puts children on alert."
+  },
+  "threatens": {
+    "definition": "Makes someone feel in danger.",
+    "chinese": "威脅",
+    "example": "Arguing threatens a child's sense of safety."
+  },
+  "emergency": {
+    "definition": "A sudden, serious situation that needs quick action.",
+    "chinese": "緊急狀況",
+    "example": "Their focus switches into emergency mode."
+  },
+  "ideal": {
+    "definition": "The best possible; perfect.",
+    "chinese": "理想的",
+    "example": "What is the ideal way to argue?"
+  },
+  "grouches": {
+    "definition": "Complaints or things that bother you.",
+    "chinese": "抱怨",
+    "example": "Don't save up your grouches and pour them out at once."
+  },
+  "blaming": {
+    "definition": "Saying someone else is the cause of a problem.",
+    "chinese": "責怪",
+    "example": "Start with how you feel, not with blaming."
+  },
+  "thumb": {
+    "definition": "In 'rule of thumb', a simple, practical guide.",
+    "chinese": "經驗法則（拇指）",
+    "example": "A good rule of thumb is to use I-statements."
+  },
+  "pigeon-holed": {
+    "definition": "Put into a narrow category that does not fit well.",
+    "chinese": "被歸類",
+    "example": "Nobody likes to be pigeon-holed by someone else."
+  },
+  "guaranteed": {
+    "definition": "Certain to happen; promised.",
+    "chinese": "保證的",
+    "example": "No way of arguing is guaranteed to work perfectly."
+  },
+  "manipulation": {
+    "definition": "Controlling someone in a clever or unfair way.",
+    "chinese": "操控",
+    "example": "Good relationships are not about manipulation."
+  },
+  "manipulating": {
+    "definition": "Trying to control someone by tricking or pressuring them.",
+    "chinese": "操控",
+    "example": "Manipulating someone does not build a good connection."
+  },
+  "owning": {
+    "definition": "Taking responsibility for your own feelings or actions.",
+    "chinese": "承擔",
+    "example": "Owning your feelings helps your relationships."
+  },
+  "promotes": {
+    "definition": "Helps something grow or become more common.",
+    "chinese": "促進",
+    "example": "Good communication promotes understanding."
+  },
+  "adopt": {
+    "definition": "To start using or doing something.",
+    "chinese": "採用",
+    "example": "Children will adopt the arguing style they see at home."
+  },
+  "emotionally": {
+    "definition": "In a way that relates to feelings.",
+    "chinese": "在情感上",
+    "example": "Emotionally intelligent people understand others' feelings."
+  },
+  "intelligent": {
+    "definition": "Able to understand and learn things well.",
+    "chinese": "聰明的",
+    "example": "An emotionally intelligent person handles conflict well."
+  },
+  "inspecting": {
+    "definition": "Looking at something carefully.",
+    "chinese": "檢查",
+    "example": "He was inspecting his dad's old leather jacket."
+  },
+  "leather": {
+    "definition": "A strong material made from animal skin, used for clothes and bags.",
+    "chinese": "皮革",
+    "example": "His dad's old leather jacket was still in good shape."
+  },
+  "nerve": {
+    "definition": "A sensitive point; something that upsets you easily.",
+    "chinese": "痛處",
+    "example": "The comment hit a nerve and made him angry."
+  },
+  "possessions": {
+    "definition": "Things you own.",
+    "chinese": "財產",
+    "example": "He did not like his son eyeing up his possessions."
+  },
+  "dispute": {
+    "definition": "A disagreement or argument.",
+    "chinese": "爭議",
+    "example": "This isn't a serious dispute, just a small argument."
+  },
+  "truce": {
+    "definition": "An agreement to stop fighting.",
+    "chinese": "休戰",
+    "example": "They laughed and reached a truce."
+  },
+  "liable": {
+    "definition": "Likely to happen.",
+    "chinese": "可能的",
+    "example": "If they don't understand, something similar is liable to happen again."
+  },
+  "mediator": {
+    "definition": "A person who helps two sides find an agreement.",
+    "chinese": "調解人",
+    "example": "The mediator helped them understand each other's feelings."
+  },
+  "retaliation": {
+    "definition": "Doing something bad to someone because they did something bad to you.",
+    "chinese": "報復",
+    "example": "He saw his father's response as retaliation."
+  },
+  "counter-attacked": {
+    "definition": "Attacked back after being attacked.",
+    "chinese": "反擊",
+    "example": "Feeling attacked, he counter-attacked with an insult."
+  },
+  "defensively": {
+    "definition": "In a way that shows you feel you need to protect yourself.",
+    "chinese": "防禦性地",
+    "example": "He defensively replied that his son called him old."
+  },
+  "cling": {
+    "definition": "To hold on tightly to something because you do not want to let go.",
+    "chinese": "緊抓",
+    "example": "He wanted to cling to symbols of his youth."
+  },
+  "symbols": {
+    "definition": "Things that stand for or represent something else.",
+    "chinese": "象徵",
+    "example": "The jacket was a symbol of his younger years."
+  },
+  "youthful": {
+    "definition": "Looking or feeling young.",
+    "chinese": "年輕的",
+    "example": "Clinging to youthful clothes was a comfort to him."
+  },
+  "comfort": {
+    "definition": "A feeling of being relaxed and free from worry.",
+    "chinese": "安慰",
+    "example": "The old jacket gave him comfort."
+  },
+  "unpack": {
+    "definition": "To examine something carefully and explain it piece by piece.",
+    "chinese": "拆解",
+    "example": "Let's unpack what really happened in that argument."
+  },
+  "meta": {
+    "definition": "Looking at something from a higher, bigger-picture view.",
+    "chinese": "後設的",
+    "example": "Take a meta perspective to see the full situation."
+  },
+  "perspective": {
+    "definition": "A way of looking at or thinking about something.",
+    "chinese": "觀點",
+    "example": "Try to see the situation from the other person's perspective."
+  },
+  "protagonist": {
+    "definition": "The main person in a story or situation.",
+    "chinese": "主角",
+    "example": "Work out the feelings of each protagonist."
+  },
+  "dialogue": {
+    "definition": "A conversation between two or more people.",
+    "chinese": "對話",
+    "example": "Think about how to change the dialogue."
+  },
+  "recap": {
+    "definition": "A short summary of what was said before.",
+    "chinese": "回顧",
+    "example": "Here is a quick recap of the main points."
+  },
+  "imminent": {
+    "definition": "About to happen very soon.",
+    "chinese": "即將發生的",
+    "example": "She could tell an argument was imminent."
+  },
+  "advocating": {
+    "definition": "Supporting or recommending something.",
+    "chinese": "倡導",
+    "example": "I am not advocating that you lose all spontaneity."
+  },
+  "vulnerability": {
+    "definition": "Being open about your weaknesses or fears.",
+    "chinese": "脆弱",
+    "example": "Embrace your vulnerability instead of hiding it."
+  },
+  "mask": {
+    "definition": "To hide or cover up something.",
+    "chinese": "掩飾",
+    "example": "He tried to mask his fear with anger."
+  },
+  "projecting": {
+    "definition": "Putting your own feelings onto someone else.",
+    "chinese": "投射",
+    "example": "Try not to project your feelings onto the other person."
+  },
+  "intent": {
+    "definition": "The purpose or plan behind what someone does.",
+    "chinese": "意圖",
+    "example": "Don't assume the intent of the other person."
+  },
+  "cornerstone": {
+    "definition": "The most important part of something.",
+    "chinese": "基石",
+    "example": "Understanding feelings is the cornerstone of good relationships."
+  },
+  "foundation": {
+    "definition": "The base that everything else is built on.",
+    "chinese": "基礎",
+    "example": "Good communication is the foundation of a healthy family."
+  },
+  "empathic": {
+    "definition": "Able to understand and share other people's feelings.",
+    "chinese": "有同理心的",
+    "example": "Empathic parenting helps children feel safe."
+  },
+  "negotiations": {
+    "definition": "Discussions where people try to agree on something.",
+    "chinese": "談判",
+    "example": "Understanding feelings is important in negotiations."
+  },
+  "swiftly": {
+    "definition": "Quickly; without delay.",
+    "chinese": "迅速地",
+    "example": "Improvements in communication came pretty swiftly."
+  },
+  "patterns": {
+    "definition": "Ways of doing things that happen again and again.",
+    "chinese": "模式",
+    "example": "Good patterns of relating can improve quickly."
+  }
+}

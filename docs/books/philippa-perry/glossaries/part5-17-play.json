@@ -1,0 +1,362 @@
+{
+  "trivial": {
+    "definition": "Not important; of little value.",
+    "chinese": "微不足道的",
+    "example": "People think play is trivial, but it is actually very important."
+  },
+  "vitally": {
+    "definition": "In an extremely important way.",
+    "chinese": "極為重要地",
+    "example": "Play is vitally important for child development."
+  },
+  "infant": {
+    "definition": "A very young child or baby.",
+    "chinese": "嬰兒",
+    "example": "An infant learns to concentrate through play."
+  },
+  "concentrate": {
+    "definition": "To focus all your attention on one thing.",
+    "chinese": "集中注意力",
+    "example": "Playing helps a child learn to concentrate."
+  },
+  "absorbed": {
+    "definition": "So interested in something that you forget about everything else.",
+    "chinese": "全神貫注的",
+    "example": "The child was completely absorbed in building with blocks."
+  },
+  "imagination": {
+    "definition": "The ability to create pictures and ideas in your mind.",
+    "chinese": "想像力",
+    "example": "Play feeds a child's imagination."
+  },
+  "peers": {
+    "definition": "People who are the same age or at the same level as you.",
+    "chinese": "同齡人",
+    "example": "Children learn social skills by playing with their peers."
+  },
+  "creativity": {
+    "definition": "The ability to make new and original things or ideas.",
+    "chinese": "創造力",
+    "example": "Free play builds creativity in children."
+  },
+  "exploration": {
+    "definition": "The act of searching and discovering new things.",
+    "chinese": "探索",
+    "example": "Play is about exploration and discovery."
+  },
+  "respected": {
+    "definition": "Treated as important and valuable.",
+    "chinese": "受尊重的",
+    "example": "A child's play should be respected as real work."
+  },
+  "Montessori": {
+    "definition": "A method of teaching developed by Maria Montessori that focuses on letting children learn by themselves.",
+    "chinese": "蒙特梭利",
+    "example": "The Montessori method says you should not interrupt a focused child."
+  },
+  "interrupted": {
+    "definition": "Stopped in the middle of doing something.",
+    "chinese": "被打斷的",
+    "example": "A child who is concentrating must not be interrupted."
+  },
+  "constructing": {
+    "definition": "Building or creating something.",
+    "chinese": "建構",
+    "example": "The child was constructing a story while playing."
+  },
+  "narrative": {
+    "definition": "A story or account of what happened.",
+    "chinese": "敘事",
+    "example": "The child's play had a beginning, middle, and end — a complete narrative."
+  },
+  "foundation": {
+    "definition": "The base that everything else is built on.",
+    "chinese": "基礎",
+    "example": "Play lays down a foundation for completing tasks."
+  },
+  "undistracted": {
+    "definition": "Not having your attention pulled away.",
+    "chinese": "不受干擾的",
+    "example": "An undistracted baby can play for minutes with a simple object."
+  },
+  "tissue": {
+    "definition": "A soft, thin piece of paper used for cleaning or blowing your nose.",
+    "chinese": "紙巾",
+    "example": "The baby played happily with a piece of tissue paper."
+  },
+  "grab": {
+    "definition": "To take hold of something quickly.",
+    "chinese": "抓取",
+    "example": "The baby learned how to grab the toy."
+  },
+  "gaze": {
+    "definition": "A long, steady look at something.",
+    "chinese": "凝視",
+    "example": "Follow your baby's gaze to see what interests them."
+  },
+  "cliche": {
+    "definition": "A phrase or idea that has been used so much it is no longer interesting.",
+    "chinese": "陳腔濫調",
+    "example": "The cliche about children loving the box more than the toy is often true."
+  },
+  "acquaintance": {
+    "definition": "Someone you know but who is not a close friend.",
+    "chinese": "認識的人",
+    "example": "A two-year-old child of my acquaintance loved simple toys."
+  },
+  "doting": {
+    "definition": "Loving someone very much, often too much.",
+    "chinese": "溺愛的",
+    "example": "Her doting parents bought her many presents."
+  },
+  "landfill": {
+    "definition": "A place where waste is buried; here meaning useless things that become rubbish.",
+    "chinese": "垃圾",
+    "example": "Many toys end up as landfill because children don't play with them."
+  },
+  "bricks": {
+    "definition": "Building blocks used for play.",
+    "chinese": "積木",
+    "example": "A few bricks are enough for hours of play."
+  },
+  "dressing-up": {
+    "definition": "Wearing costumes and pretending to be someone else.",
+    "chinese": "裝扮遊戲",
+    "example": "Dressing-up clothes help fire children's imagination."
+  },
+  "craft": {
+    "definition": "An activity involving making things with your hands.",
+    "chinese": "手工",
+    "example": "Craft materials like paint and paper are great for kids."
+  },
+  "overwhelmed": {
+    "definition": "Feeling too much of something; unable to deal with it.",
+    "chinese": "不知所措的",
+    "example": "Too many choices can make children feel overwhelmed."
+  },
+  "frozen": {
+    "definition": "Unable to move or act because of shock or too many options.",
+    "chinese": "僵住的",
+    "example": "Too much choice leaves people frozen and unable to decide."
+  },
+  "psychologist": {
+    "definition": "A person who studies the mind and how people think and behave.",
+    "chinese": "心理學家",
+    "example": "The psychologist did experiments on how people make choices."
+  },
+  "flit": {
+    "definition": "To move quickly from one thing to another without staying long.",
+    "chinese": "跳來跳去",
+    "example": "With too many toys, children flit from one to the next."
+  },
+  "indulged": {
+    "definition": "Allowed someone to have what they want, especially too much.",
+    "chinese": "縱容的",
+    "example": "Buying too many toys is often indulged in by guilty parents."
+  },
+  "novelty": {
+    "definition": "The quality of being new and unusual.",
+    "chinese": "新鮮感",
+    "example": "A child needs your attention, not the novelty of a new toy."
+  },
+  "devise": {
+    "definition": "To think of and create a plan or idea.",
+    "chinese": "設計；想出",
+    "example": "Children devise creative games all the time."
+  },
+  "frustrating": {
+    "definition": "Making you feel annoyed because you cannot do what you want.",
+    "chinese": "令人沮喪的",
+    "example": "It can be frustrating when a child demands you play."
+  },
+  "demands": {
+    "definition": "Asks for something strongly, as if it must happen.",
+    "chinese": "要求",
+    "example": "The child demands that you join their game."
+  },
+  "tackle": {
+    "definition": "To start dealing with a problem or task.",
+    "chinese": "處理",
+    "example": "You can tackle your housework after playing with your child."
+  },
+  "pile": {
+    "definition": "A large amount of things on top of each other.",
+    "chinese": "一堆",
+    "example": "She had a pile of laundry to fold."
+  },
+  "self-absorbed": {
+    "definition": "So focused on what you are doing that you forget about others.",
+    "chinese": "全神貫注於自己的活動",
+    "example": "Once the child becomes self-absorbed in play, you can step back."
+  },
+  "continually": {
+    "definition": "Happening again and again without stopping.",
+    "chinese": "不斷地",
+    "example": "The child will continually interrupt you if you refuse to play."
+  },
+  "nuisance": {
+    "definition": "Something or someone that annoys you or causes problems.",
+    "chinese": "麻煩",
+    "example": "Don't make your child feel like they are a nuisance."
+  },
+  "content": {
+    "definition": "Happy and satisfied with what you have.",
+    "chinese": "滿足的",
+    "example": "Once the child is content, they can play on their own."
+  },
+  "invest": {
+    "definition": "To put time or effort into something for future benefit.",
+    "chinese": "投入",
+    "example": "Invest time positively at the beginning of playtime."
+  },
+  "bucket": {
+    "definition": "A round container with a handle, used for carrying things.",
+    "chinese": "水桶",
+    "example": "The girl asked her father to get the bucket for sand play."
+  },
+  "tide": {
+    "definition": "The rise and fall of the sea level.",
+    "chinese": "潮汐",
+    "example": "They played with the wet sand where the tide had gone out."
+  },
+  "autopilot": {
+    "definition": "Doing something automatically without thinking about it.",
+    "chinese": "自動導航；自動模式",
+    "example": "The child found her inner autopilot and played independently."
+  },
+  "leisure": {
+    "definition": "Free time to relax and enjoy yourself.",
+    "chinese": "休閒",
+    "example": "Daddy managed to get a bit of leisure while his child played."
+  },
+  "preoccupied": {
+    "definition": "Thinking about something so much you cannot focus on other things.",
+    "chinese": "心神不寧的",
+    "example": "If a child is preoccupied with worry, they cannot play freely."
+  },
+  "fretful": {
+    "definition": "Worried and unhappy.",
+    "chinese": "煩躁的",
+    "example": "A fretful child cannot relax enough to play."
+  },
+  "organized": {
+    "definition": "Planned and arranged in advance.",
+    "chinese": "有組織的",
+    "example": "Children enjoy organized games like cards and cricket."
+  },
+  "cricket": {
+    "definition": "A team sport played with a bat and ball, popular in Britain.",
+    "chinese": "板球",
+    "example": "Playing cricket together is a fun family activity."
+  },
+  "facilitate": {
+    "definition": "To make something easier to happen.",
+    "chinese": "促進",
+    "example": "Other adults can help facilitate play for children."
+  },
+  "Monopoly": {
+    "definition": "A popular board game about buying property and making money.",
+    "chinese": "大富翁",
+    "example": "The family brought out the Monopoly board at Christmas."
+  },
+  "amusement": {
+    "definition": "A feeling of being entertained or finding something funny.",
+    "chinese": "樂趣",
+    "example": "The game was met with amusement from the adults."
+  },
+  "enthusiasm": {
+    "definition": "A strong feeling of excitement and interest.",
+    "chinese": "熱情",
+    "example": "The children showed great enthusiasm for the game."
+  },
+  "declaring": {
+    "definition": "Saying something clearly and publicly.",
+    "chinese": "宣布",
+    "example": "He stood up, declaring he was going to walk home."
+  },
+  "thrive": {
+    "definition": "To grow well and be healthy and successful.",
+    "chinese": "茁壯成長",
+    "example": "Children thrive when they have mixed-age playmates."
+  },
+  "parallel": {
+    "definition": "Happening at the same time but separately, side by side.",
+    "chinese": "平行的",
+    "example": "Young toddlers often have parallel play rather than playing together."
+  },
+  "sophisticated": {
+    "definition": "More advanced and complex.",
+    "chinese": "複雜的；精緻的",
+    "example": "Older children teach younger ones more sophisticated behaviour."
+  },
+  "nurture": {
+    "definition": "To care for and help someone grow and develop.",
+    "chinese": "養育",
+    "example": "Older children learn how to nurture younger ones."
+  },
+  "cousins": {
+    "definition": "Children of your aunts and uncles.",
+    "chinese": "表兄弟姊妹",
+    "example": "She had the most fun playing with her cousins on holiday."
+  },
+  "festivals": {
+    "definition": "Special events or celebrations, often with music and activities.",
+    "chinese": "節慶活動",
+    "example": "Children love running around at outdoor festivals."
+  },
+  "boundaries": {
+    "definition": "Rules or limits that keep you safe.",
+    "chinese": "界線",
+    "example": "Children need boundaries to feel safe."
+  },
+  "structured": {
+    "definition": "Organized with a clear plan and rules.",
+    "chinese": "有組織的",
+    "example": "Too many structured activities leave little time for free play."
+  },
+  "screens": {
+    "definition": "Electronic devices like phones, tablets, and computers.",
+    "chinese": "螢幕",
+    "example": "Children should not spend too much time in front of screens."
+  },
+  "addictive": {
+    "definition": "So enjoyable that it is hard to stop doing it.",
+    "chinese": "令人上癮的",
+    "example": "Screen time can become addictive for children."
+  },
+  "deprivation": {
+    "definition": "Not having something that you need.",
+    "chinese": "剝奪",
+    "example": "Denying screens altogether is another sort of deprivation."
+  },
+  "caution": {
+    "definition": "Care taken to avoid danger or mistakes.",
+    "chinese": "謹慎",
+    "example": "Screens should be used with caution."
+  },
+  "boredom": {
+    "definition": "The feeling of being not interested in anything.",
+    "chinese": "無聊",
+    "example": "Boredom may be a necessary part of creativity."
+  },
+  "component": {
+    "definition": "A necessary part of something larger.",
+    "chinese": "組成部分",
+    "example": "Boredom may be a necessary component of creativity."
+  },
+  "entertainments officer": {
+    "definition": "A person whose job is to keep people amused (used humorously here).",
+    "chinese": "娛樂負責人",
+    "example": "You don't have to be the entertainments officer for your child."
+  },
+  "confidence": {
+    "definition": "A feeling of belief in yourself and your abilities.",
+    "chinese": "信心",
+    "example": "Tell your child you have confidence they will find something fun."
+  },
+  "laid down": {
+    "definition": "Established or put in place at an early time.",
+    "chinese": "奠定的",
+    "example": "What is laid down in childhood can stick for life."
+  }
+}

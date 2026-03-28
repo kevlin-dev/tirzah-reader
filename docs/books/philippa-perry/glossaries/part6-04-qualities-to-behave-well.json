@@ -1,0 +1,292 @@
+{
+  "qualities": {
+    "definition": "Characteristics or features that make someone the way they are.",
+    "chinese": "特質",
+    "example": "There are four qualities we need to behave well."
+  },
+  "model": {
+    "definition": "To show others how to behave by doing it yourself.",
+    "chinese": "示範",
+    "example": "Your job is to model good behaviour for your child."
+  },
+  "empathetic": {
+    "definition": "Able to understand and share other people's feelings.",
+    "chinese": "有同理心的",
+    "example": "An empathetic parent tries to see things from the child's view."
+  },
+  "socialized": {
+    "definition": "Able to get along well with other people in society.",
+    "chinese": "社會化的",
+    "example": "These four skills help a child become socialized."
+  },
+  "tolerate": {
+    "definition": "To accept something unpleasant without complaining.",
+    "chinese": "忍受",
+    "example": "Children need to learn to tolerate frustration."
+  },
+  "frustration": {
+    "definition": "A feeling of being upset because you cannot do what you want.",
+    "chinese": "挫折感",
+    "example": "Learning to handle frustration is an important skill."
+  },
+  "flexibility": {
+    "definition": "The ability to change and adapt to new situations.",
+    "chinese": "靈活性",
+    "example": "Flexibility means being open to changing your plans."
+  },
+  "perspective": {
+    "definition": "A way of looking at something; a point of view.",
+    "chinese": "觀點",
+    "example": "Try to see things from your child's perspective."
+  },
+  "expectation": {
+    "definition": "What you think or hope will happen.",
+    "chinese": "期望",
+    "example": "I changed my expectation about how fast we would walk."
+  },
+  "progress": {
+    "definition": "Movement forward toward a goal.",
+    "chinese": "進展",
+    "example": "Children make progress at different speeds."
+  },
+  "mimic": {
+    "definition": "To copy someone's actions or behaviour.",
+    "chinese": "模仿",
+    "example": "Some children naturally mimic the people around them."
+  },
+  "milestones": {
+    "definition": "Important events or achievements in development.",
+    "chinese": "里程碑",
+    "example": "Children reach milestones at different ages."
+  },
+  "fluency": {
+    "definition": "The ability to do something smoothly and easily.",
+    "chinese": "流利度",
+    "example": "I couldn't read with fluency until I was nine."
+  },
+  "behavioural": {
+    "definition": "Related to how someone acts or behaves.",
+    "chinese": "行為的",
+    "example": "Children develop behavioural skills at different times."
+  },
+  "translates": {
+    "definition": "Means the same thing as; can be understood as.",
+    "chinese": "意味著",
+    "example": "'Driving me mad' translates as 'I cannot control the behaviour.'"
+  },
+  "whining": {
+    "definition": "Making a high, complaining sound because you are unhappy.",
+    "chinese": "嗚嗚叫；抱怨",
+    "example": "The child was whining because she was tired."
+  },
+  "demanding": {
+    "definition": "Always asking for things in a strong, forceful way.",
+    "chinese": "要求多的",
+    "example": "A demanding child may just need more attention."
+  },
+  "negative": {
+    "definition": "Bad or harmful; the opposite of positive.",
+    "chinese": "負面的",
+    "example": "Getting negative attention is better than no attention for a child."
+  },
+  "circumstances": {
+    "definition": "The conditions or facts surrounding a situation.",
+    "chinese": "情況",
+    "example": "Understanding the circumstances helps you understand the behaviour."
+  },
+  "colic": {
+    "definition": "Severe stomach pain in babies that makes them cry a lot.",
+    "chinese": "腸絞痛",
+    "example": "Colic can make a baby very difficult to soothe."
+  },
+  "discomfort": {
+    "definition": "A feeling of slight pain or being uncomfortable.",
+    "chinese": "不適",
+    "example": "Babies may cry because of discomfort from a full nappy."
+  },
+  "nappy": {
+    "definition": "A piece of cloth or material worn by a baby to absorb waste.",
+    "chinese": "尿布",
+    "example": "Check if the baby needs a fresh nappy."
+  },
+  "alternatively": {
+    "definition": "As another choice or option.",
+    "chinese": "或者",
+    "example": "Alternatively, your child might have difficulties later."
+  },
+  "self-control": {
+    "definition": "The ability to control your feelings and actions.",
+    "chinese": "自制力",
+    "example": "Some children struggle with self-control."
+  },
+  "soothing": {
+    "definition": "Making someone feel calm and less upset.",
+    "chinese": "安撫的",
+    "example": "Soothing a child helps them move to the next stage."
+  },
+  "master": {
+    "definition": "To learn to do something very well.",
+    "chinese": "掌握",
+    "example": "A child is most frustrated just before they master a new skill."
+  },
+  "brittle": {
+    "definition": "Easily broken or upset; fragile.",
+    "chinese": "脆弱的",
+    "example": "Children are at their most brittle before a breakthrough."
+  },
+  "outburst": {
+    "definition": "A sudden, strong expression of emotion.",
+    "chinese": "爆發",
+    "example": "The child's outburst was a sign of frustration, not bad character."
+  },
+  "tantrum": {
+    "definition": "A sudden explosion of anger, especially by a child.",
+    "chinese": "發脾氣",
+    "example": "A tantrum means the child hasn't yet reached a developmental milestone."
+  },
+  "sulk": {
+    "definition": "To be silent and unhappy because you are upset about something.",
+    "chinese": "生悶氣",
+    "example": "The child began to sulk when told she couldn't have the toy."
+  },
+  "intentional": {
+    "definition": "Done on purpose; planned.",
+    "chinese": "故意的",
+    "example": "A tantrum is not an intentional plan by the child."
+  },
+  "intervention": {
+    "definition": "Getting involved in a situation to change it.",
+    "chinese": "干預",
+    "example": "The outburst is not a planned intervention by the child."
+  },
+  "lax": {
+    "definition": "Not strict enough; too relaxed about rules.",
+    "chinese": "鬆散的",
+    "example": "Lax parents can still have well-behaved children."
+  },
+  "strict": {
+    "definition": "Having firm rules that must be followed.",
+    "chinese": "嚴格的",
+    "example": "Strict parents may still have children who misbehave."
+  },
+  "consistency": {
+    "definition": "Always behaving in the same way; being reliable.",
+    "chinese": "一致性",
+    "example": "Consistency in parenting helps children feel safe."
+  },
+  "fairness": {
+    "definition": "Treating everyone equally and in a right way.",
+    "chinese": "公平",
+    "example": "Children respond well to consistency and fairness."
+  },
+  "sticker": {
+    "definition": "A small piece of paper with a picture that you can stick on things.",
+    "chinese": "貼紙",
+    "example": "Sticker charts are a way of judging, not relating."
+  },
+  "charts": {
+    "definition": "Tables or lists used to track and record information.",
+    "chinese": "圖表",
+    "example": "Behaviour charts are manipulative and don't teach real skills."
+  },
+  "bribes": {
+    "definition": "Gifts or rewards given to make someone do what you want.",
+    "chinese": "賄賂；收買",
+    "example": "Bribes should be the exception, not the norm."
+  },
+  "manipulative": {
+    "definition": "Using clever or unfair ways to control people.",
+    "chinese": "操縱的",
+    "example": "Behaviour charts are manipulative tools."
+  },
+  "robots": {
+    "definition": "Machines that can do tasks automatically, without feelings.",
+    "chinese": "機器人",
+    "example": "We want children to relate, not behave like robots."
+  },
+  "collaboration": {
+    "definition": "Working together with others.",
+    "chinese": "合作",
+    "example": "Collaboration leads to a more harmonious life."
+  },
+  "harmonious": {
+    "definition": "Peaceful and working well together.",
+    "chinese": "和諧的",
+    "example": "A harmonious home makes everyone feel better."
+  },
+  "opposition": {
+    "definition": "Being against something or fighting against it.",
+    "chinese": "對抗",
+    "example": "Collaboration works better than opposition."
+  },
+  "motivated": {
+    "definition": "Having a reason to want to do something.",
+    "chinese": "有動力的",
+    "example": "We want children motivated by empathy, not fear of punishment."
+  },
+  "chores": {
+    "definition": "Regular tasks around the house like cleaning or cooking.",
+    "chinese": "家務",
+    "example": "Children learn to help with chores by imitating their parents."
+  },
+  "dishwasher": {
+    "definition": "A machine that cleans dishes.",
+    "chinese": "洗碗機",
+    "example": "Let toddlers play with the dishwasher to build interest."
+  },
+  "cooperate": {
+    "definition": "To work together to do something.",
+    "chinese": "合作",
+    "example": "Children cooperate when they feel included and respected."
+  },
+  "contribute": {
+    "definition": "To give or do something to help.",
+    "chinese": "貢獻",
+    "example": "They help because they want to contribute, not for a bribe."
+  },
+  "imitating": {
+    "definition": "Copying what someone else does.",
+    "chinese": "模仿",
+    "example": "Children learn by imitating the adults around them."
+  },
+  "gratitude": {
+    "definition": "The feeling of being thankful.",
+    "chinese": "感激",
+    "example": "Children learn real gratitude when it is shown to them."
+  },
+  "drill": {
+    "definition": "To make someone repeat something many times until they learn it.",
+    "chinese": "反覆操練",
+    "example": "If you only drill your child to say thanks, they may never feel it."
+  },
+  "embody": {
+    "definition": "To express something through your whole being, not just words.",
+    "chinese": "體現",
+    "example": "When children feel gratitude, they can truly embody it."
+  },
+  "narcissism": {
+    "definition": "Caring too much about yourself and how others see you.",
+    "chinese": "自戀",
+    "example": "Put your narcissism aside and focus on your child's feelings."
+  },
+  "humiliate": {
+    "definition": "To make someone feel very embarrassed and ashamed.",
+    "chinese": "羞辱",
+    "example": "Don't humiliate your child by forcing them to say things."
+  },
+  "unappreciated": {
+    "definition": "Not feeling valued or thanked.",
+    "chinese": "不被感激的",
+    "example": "Say thank you yourself so the giver doesn't feel unappreciated."
+  },
+  "pretend": {
+    "definition": "Not real; made up as part of play.",
+    "chinese": "假裝的",
+    "example": "Welcome those pretend cups of tea your child hands you."
+  },
+  "invested": {
+    "definition": "Put time and effort into something for a good result later.",
+    "chinese": "投入的",
+    "example": "Those hours playing with your child are invested hours."
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "support": {
+    "definition": "Help given to someone, either practical or emotional.",
+    "chinese": "支持；幫助",
+    "example": "New parents need a lot of support from family."
+  },
+  "responsiveness": {
+    "definition": "Being quick to notice and react to someone's needs.",
+    "chinese": "回應性；敏感度",
+    "example": "A parent's warm responsiveness helps the baby feel safe."
+  },
+  "exhausted": {
+    "definition": "Extremely tired; having no energy left.",
+    "chinese": "筋疲力盡的",
+    "example": "After the long flight, she was completely exhausted."
+  },
+  "depleted": {
+    "definition": "Used up; having nothing left to give.",
+    "chinese": "耗盡的",
+    "example": "She felt emotionally depleted after weeks of no sleep."
+  },
+  "reserves": {
+    "definition": "Extra strength or energy that you can use when needed.",
+    "chinese": "儲備；後備力量",
+    "example": "You will be amazed by the reserves of energy you find."
+  },
+  "indefinitely": {
+    "definition": "For a time with no known end; forever.",
+    "chinese": "無限期地",
+    "example": "You cannot keep going indefinitely without rest."
+  },
+  "sustainable": {
+    "definition": "Able to continue for a long time without causing problems.",
+    "chinese": "可持續的",
+    "example": "Working sixteen hours a day is not sustainable."
+  },
+  "practical": {
+    "definition": "Related to real, everyday tasks rather than feelings or ideas.",
+    "chinese": "實際的",
+    "example": "She needed practical help like cooking and cleaning."
+  },
+  "therapist": {
+    "definition": "A trained person who helps you talk about and manage your feelings.",
+    "chinese": "治療師",
+    "example": "She visited a therapist to talk about her anxiety."
+  },
+  "ambiguity": {
+    "definition": "When something can be understood in more than one way; mixed feelings.",
+    "chinese": "矛盾；模糊性",
+    "example": "Parenting often comes with ambiguity about what is right."
+  },
+  "adversely": {
+    "definition": "In a harmful or negative way.",
+    "chinese": "不利地",
+    "example": "The stress did not adversely affect his health."
+  },
+  "intrusive": {
+    "definition": "Entering your mind when you do not want it to; unwelcome.",
+    "chinese": "侵入性的；不請自來的",
+    "example": "She had intrusive thoughts that scared her."
+  },
+  "plucked": {
+    "definition": "Gathered or found (courage); pulled together bravery.",
+    "chinese": "鼓起（勇氣）",
+    "example": "She plucked up her courage and spoke to the doctor."
+  },
+  "intention": {
+    "definition": "A plan or purpose to do something.",
+    "chinese": "意圖",
+    "example": "She had no intention of hurting anyone."
+  },
+  "influenced": {
+    "definition": "Changed or affected by something or someone.",
+    "chinese": "被影響的",
+    "example": "He was influenced by his mother's positive attitude."
+  },
+  "grip": {
+    "definition": "A strong hold or control over something.",
+    "chinese": "控制力；掌握",
+    "example": "The scary thoughts started to lose their grip on her."
+  },
+  "cathartic": {
+    "definition": "Providing a release of strong emotions that makes you feel better.",
+    "chinese": "宣洩的；釋放情感的",
+    "example": "Crying can be cathartic when you are very stressed."
+  },
+  "dispel": {
+    "definition": "To make something go away; to remove fears or worries.",
+    "chinese": "消除；驅散",
+    "example": "Talking about your fears can help dispel them."
+  },
+  "container": {
+    "definition": "Here, a person who can hold your feelings safely without being overwhelmed.",
+    "chinese": "容器（比喻能承接情緒的人）",
+    "example": "A good friend acts as a container for your worries."
+  },
+  "overwhelmed": {
+    "definition": "Feeling that there is too much to deal with; completely overcome.",
+    "chinese": "不堪負荷的",
+    "example": "She felt overwhelmed by all the responsibilities."
+  },
+  "optimism": {
+    "definition": "The belief that things will turn out well.",
+    "chinese": "樂觀",
+    "example": "Her gentle optimism helped me get through the hard times."
+  },
+  "spectrum": {
+    "definition": "A range between two extreme points.",
+    "chinese": "範圍；光譜",
+    "example": "Feelings can fall anywhere on the spectrum from happy to sad."
+  },
+  "doom": {
+    "definition": "A feeling that something very bad is going to happen.",
+    "chinese": "厄運；不祥的預感",
+    "example": "She was filled with a sense of doom about the future."
+  },
+  "spell": {
+    "definition": "To explain something clearly in detail.",
+    "chinese": "詳細說明",
+    "example": "You may have to spell out what kind of help you need."
+  },
+  "tribe": {
+    "definition": "A group of people who support and care for each other.",
+    "chinese": "部落；群體",
+    "example": "Humans are pack animals who need a tribe."
+  },
+  "mute": {
+    "definition": "Silent; not speaking.",
+    "chinese": "沉默的",
+    "example": "He stood there, mute and unable to express his feelings."
+  },
+  "finance": {
+    "definition": "To provide money for something; to pay for.",
+    "chinese": "提供資金；負擔費用",
+    "example": "It is hard to finance a family on one salary."
+  },
+  "generation": {
+    "definition": "All the people born around the same time, like parents or grandparents.",
+    "chinese": "一代人",
+    "example": "The younger generation faces different challenges."
+  },
+  "rectify": {
+    "definition": "To fix or correct something that is wrong.",
+    "chinese": "糾正",
+    "example": "The government should rectify this unfairness."
+  },
+  "renting": {
+    "definition": "Paying money to use a house or apartment that belongs to someone else.",
+    "chinese": "租房",
+    "example": "Renting an apartment in the city is very expensive."
+  },
+  "emotionally": {
+    "definition": "In a way that relates to feelings.",
+    "chinese": "在情感上",
+    "example": "She supported her daughter emotionally during the hard time."
+  },
+  "stylist": {
+    "definition": "A person whose job is to create a fashionable look for people or things.",
+    "chinese": "造型師",
+    "example": "She works part-time as a fashion stylist."
+  },
+  "twins": {
+    "definition": "Two babies born at the same time from the same mother.",
+    "chinese": "雙胞胎",
+    "example": "She was surprised to find out she was having twins."
+  },
+  "thriving": {
+    "definition": "Growing and developing well; healthy and strong.",
+    "chinese": "茁壯成長的",
+    "example": "One of the twins was not thriving as expected."
+  },
+  "traumatic": {
+    "definition": "Very shocking and upsetting, causing emotional pain.",
+    "chinese": "創傷性的",
+    "example": "The birth was traumatic for both the mother and babies."
+  },
+  "incubated": {
+    "definition": "Kept in a special warm machine in the hospital to help a weak baby grow.",
+    "chinese": "放在保溫箱中",
+    "example": "The premature baby had to be incubated for two weeks."
+  },
+  "poorly": {
+    "definition": "Sick; not well (British English).",
+    "chinese": "生病的；不舒服的",
+    "example": "The poorly baby needed special care in the hospital."
+  },
+  "tour": {
+    "definition": "A journey to different places, especially for work or performing.",
+    "chinese": "巡迴演出；旅行",
+    "example": "The musician was often away on tour."
+  },
+  "asserted": {
+    "definition": "Stated strongly and with confidence.",
+    "chinese": "斷言的",
+    "example": "The often-asserted belief that men must be strong is harmful."
+  },
+  "cognitive": {
+    "definition": "Related to thinking and understanding with the mind.",
+    "chinese": "認知的",
+    "example": "She knew on a cognitive level that the baby was hers."
+  },
+  "nanny": {
+    "definition": "A person paid to care for children in the family's home.",
+    "chinese": "保姆",
+    "example": "They hired a nanny to help with the baby."
+  },
+  "nursery": {
+    "definition": "A room or place for taking care of young children.",
+    "chinese": "育兒室",
+    "example": "The nursery nurse stayed with the baby all day."
+  },
+  "distracted": {
+    "definition": "Turned attention away from something; not focused.",
+    "chinese": "分心的",
+    "example": "She distracted herself by going out instead of facing her feelings."
+  },
+  "clubbing": {
+    "definition": "Going to dance clubs for entertainment at night.",
+    "chinese": "去夜店",
+    "example": "She went clubbing every weekend to forget her problems."
+  },
+  "denial": {
+    "definition": "Refusing to accept that something is true or happened.",
+    "chinese": "否認",
+    "example": "She was in denial about being the mother of twins."
+  },
+  "comforting": {
+    "definition": "Making someone feel better when they are sad or upset.",
+    "chinese": "安慰",
+    "example": "She never felt like comforting the crying baby."
+  },
+  "soothing": {
+    "definition": "Calming and making someone feel less upset.",
+    "chinese": "安撫的",
+    "example": "She should have been soothing him through his distress."
+  },
+  "clingy": {
+    "definition": "Always wanting to be near someone; too dependent.",
+    "chinese": "黏人的",
+    "example": "The anxious child became very clingy with his mother."
+  },
+  "compounds": {
+    "definition": "Makes something worse by adding to it.",
+    "chinese": "加劇；使惡化",
+    "example": "His feeling of rejection compounds his insecurity."
+  },
+  "insecurity": {
+    "definition": "A feeling of not being safe or confident in relationships.",
+    "chinese": "不安全感",
+    "example": "His insecurity about relationships affected his friendships."
+  },
+  "bonding": {
+    "definition": "The process of forming a close emotional connection.",
+    "chinese": "建立情感連結",
+    "example": "Skin-to-skin contact helps with bonding after birth."
+  },
+  "feat": {
+    "definition": "Something that is hard to do; an achievement.",
+    "chinese": "壯舉；不易之事",
+    "example": "Finding one-on-one time is no easy feat with four children."
+  },
+  "relishing": {
+    "definition": "Enjoying something very much.",
+    "chinese": "享受；品味",
+    "example": "She is relishing her special time with her son."
+  },
+  "mending": {
+    "definition": "Fixing or repairing something that is broken.",
+    "chinese": "修補",
+    "example": "She is mending the early rupture in their relationship."
+  },
+  "diminishes": {
+    "definition": "Becomes smaller or less strong.",
+    "chinese": "減少；減弱",
+    "example": "As his sense of security grows, his longing diminishes."
+  },
+  "sponges": {
+    "definition": "Things that absorb or take in a lot; babies absorb everything around them.",
+    "chinese": "海綿（比喻容易吸收的人）",
+    "example": "Babies are like sponges, absorbing everything they experience."
+  },
+  "re-form": {
+    "definition": "To change and develop again in a new way.",
+    "chinese": "重新塑造",
+    "example": "We can re-form ourselves through new relationships."
+  },
+  "romantic": {
+    "definition": "Related to love between two partners.",
+    "chinese": "浪漫的；愛情的",
+    "example": "His romantic relationships were affected by his childhood."
+  },
+  "attachments": {
+    "definition": "Emotional bonds or connections to other people.",
+    "chinese": "依附關係",
+    "example": "His early attachments shaped how he relates to others."
+  },
+  "longing": {
+    "definition": "A deep feeling of wanting something or someone very much.",
+    "chinese": "渴望",
+    "example": "He felt a deep longing to be close to his mother."
+  },
+  "anguished": {
+    "definition": "Feeling extreme pain or suffering in the heart.",
+    "chinese": "痛苦的；極度焦慮的",
+    "example": "The anguished father wanted to help but did not know how."
+  },
+  "impressionable": {
+    "definition": "Easily influenced or affected by experiences.",
+    "chinese": "容易受影響的",
+    "example": "Babies are incredibly impressionable in their early months."
+  },
+  "fulfil": {
+    "definition": "To satisfy or meet a need completely.",
+    "chinese": "滿足；實現",
+    "example": "The nanny was expected to fulfil all the baby's needs."
+  },
+  "entrenched": {
+    "definition": "Deeply established and very hard to change.",
+    "chinese": "根深蒂固的",
+    "example": "These cultural patterns are so entrenched that they seem natural."
+  },
+  "indoctrinated": {
+    "definition": "Taught to accept a set of beliefs without questioning them.",
+    "chinese": "被灌輸思想的",
+    "example": "People can be indoctrinated into thinking a certain way is natural."
+  },
+  "indoctrinations": {
+    "definition": "Beliefs that were taught to you without you questioning them.",
+    "chinese": "被灌輸的觀念",
+    "example": "Cultural indoctrinations can get in the way of good parenting."
+  },
+  "functional": {
+    "definition": "Working well; able to operate properly.",
+    "chinese": "有功能的；正常運作的",
+    "example": "Therapy can lead to a more functional way of living."
+  },
+  "upbringing": {
+    "definition": "The way you were raised and cared for as a child.",
+    "chinese": "教養；養育方式",
+    "example": "Her upbringing shaped who she is today."
+  },
+  "foster": {
+    "definition": "A person who takes care of a child that is not their own, temporarily.",
+    "chinese": "寄養的",
+    "example": "The foster parent gave the child a loving home."
+  },
+  "adoptive": {
+    "definition": "Related to legally taking another person's child as your own.",
+    "chinese": "領養的",
+    "example": "His adoptive parents loved him as their own."
+  },
+  "guardian": {
+    "definition": "A person who is legally responsible for taking care of a child.",
+    "chinese": "監護人",
+    "example": "After her parents passed away, her uncle became her guardian."
+  },
+  "surrogate": {
+    "definition": "Acting in place of someone else; a substitute parent.",
+    "chinese": "代理的；替代的",
+    "example": "Her grandmother acted as a surrogate parent."
+  },
+  "anchor": {
+    "definition": "Something that gives a feeling of safety and stability.",
+    "chinese": "錨；穩定力量",
+    "example": "A strong bond acts as a safe anchor in a child's life."
+  },
+  "priority": {
+    "definition": "Something that is more important than other things.",
+    "chinese": "優先事項",
+    "example": "Children need to feel they are a priority for their parents."
+  },
+  "delegated": {
+    "definition": "Given to someone else to do; handed off.",
+    "chinese": "委派的",
+    "example": "Parenting should not be delegated entirely to paid helpers."
+  },
+  "symbol": {
+    "definition": "A picture or shape that stands for something else.",
+    "chinese": "符號",
+    "example": "Draw a symbol to represent yourself on the paper."
+  },
+  "diagram": {
+    "definition": "A simple drawing that shows how things are connected.",
+    "chinese": "圖表",
+    "example": "Draw a diagram of your support network."
+  },
+  "solid": {
+    "definition": "Strong and firm; not broken or dotted.",
+    "chinese": "實心的；堅固的",
+    "example": "Draw solid lines for support that comes naturally."
+  },
+  "dotted": {
+    "definition": "Made of a series of small dots instead of a continuous line.",
+    "chinese": "虛線的",
+    "example": "Use dotted lines for support you have to arrange yourself."
+  },
+  "gaps": {
+    "definition": "Empty spaces; things that are missing.",
+    "chinese": "缺口；空白",
+    "example": "Look for any gaps in your support network."
+  },
+  "dependent": {
+    "definition": "Needing someone else to take care of you.",
+    "chinese": "依賴的",
+    "example": "Young children are dependent on their parents."
+  },
+  "counselling": {
+    "definition": "Professional help where someone talks to you about your problems.",
+    "chinese": "心理諮詢",
+    "example": "She wished she had gotten counselling earlier."
+  },
+  "impaired": {
+    "definition": "Weakened or damaged; not working as well as it should.",
+    "chinese": "受損的",
+    "example": "Her ability to feel for others was impaired by her own pain."
+  },
+  "rupture": {
+    "definition": "A break or damage in a connection or relationship.",
+    "chinese": "斷裂；破裂",
+    "example": "The early rupture between mother and child can be repaired."
+  }
+}
