@@ -109,8 +109,7 @@
     init() {
       this.el = document.createElement('div');
       this.el.className = 'tirzah-toolbar hidden';
-      this.el.innerHTML = '<button class="tirzah-toolbar-btn tirzah-highlight-btn" title="Highlight">&#9998;</button>' +
-        '<button class="tirzah-toolbar-btn tirzah-speak-btn" title="Read aloud">&#9654;</button>';
+      this.el.innerHTML = '<button class="tirzah-toolbar-btn tirzah-highlight-btn" title="Highlight">&#9998;</button>';
       document.body.appendChild(this.el);
 
       // Highlight button
@@ -123,18 +122,6 @@
         e.preventDefault();
         e.stopPropagation();
         this.doHighlight();
-      });
-
-      // Speak button
-      this.el.querySelector('.tirzah-speak-btn').addEventListener('click', (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        this.doSpeak();
-      });
-      this.el.querySelector('.tirzah-speak-btn').addEventListener('touchend', (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        this.doSpeak();
       });
 
       // Hide on scroll
@@ -189,22 +176,6 @@
       this.hide();
     },
 
-    doSpeak() {
-      const sel = window.getSelection();
-      const text = sel.toString().trim();
-      if (!text) return;
-
-      sel.removeAllRanges();
-      this.hide();
-
-      if ('speechSynthesis' in window) {
-        window.speechSynthesis.cancel();
-        const utterance = new SpeechSynthesisUtterance(text);
-        utterance.lang = 'en-GB';
-        utterance.rate = 0.85;
-        window.speechSynthesis.speak(utterance);
-      }
-    }
   };
 
   // ===== Highlight tap to remove =====
