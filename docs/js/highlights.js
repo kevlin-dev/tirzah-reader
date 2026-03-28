@@ -158,15 +158,35 @@
     doHighlight() {
       const sel = window.getSelection();
       const text = sel.toString().trim();
-      if (!text) return;
+      if (!text || sel.rangeCount === 0) return;
 
       addHighlight(text);
+
+      // Wrap the live selection range in a highlight span immediately
+      try {
+        const range = sel.getRangeAt(0);
+        const wrapper = document.createElement('span');
+        wrapper.className = 'tirzah-highlight';
+        wrapper.setAttribute('data-highlight-text', text);
+        range.surroundContents(wrapper);
+      } catch (e) {
+        // surroundContents fails if selection crosses element boundaries
+        // Fall back: wrap each selected node individually
+        try {
+          const range = sel.getRangeAt(0);
+          const fragment = range.extractContents();
+          const wrapper = document.createElement('span');
+          wrapper.className = 'tirzah-highlight';
+          wrapper.setAttribute('data-highlight-text', text);
+          wrapper.appendChild(fragment);
+          range.insertNode(wrapper);
+        } catch (e2) {
+          // Last resort — highlights will appear on reload
+        }
+      }
+
       sel.removeAllRanges();
       this.hide();
-
-      // Re-apply highlights
-      const content = document.querySelector('.markdown-section');
-      if (content) applyHighlights(content);
     },
 
     doSpeak() {
